@@ -1,0 +1,159 @@
+Skip to content
+Logo alt text
+Handbook
+search
+
+Browse
+menu
+Home
+/
+Social Web Analytics
+Subject
+
+print
+Print COMP3020 - Social Web Analytics page
+
+bookmark_border
+COMP3020 - Social Web Analytics
+You are viewing the 2026 version
+
+2026
+keyboard_arrow_down
+info
+
+Learning Outcomes
+keyboard_arrow_down
+Overview
+The Social Web provides everyone with a voice; information from Facebook, Twitter and other social networks allows us to identify trends and relationships in society. Whilst this has interest on a personal level, the killer-apps will be in analysing social Web data for business, such as tracking the buzz around… For more content click the Read More button below.
+The Social Web provides everyone with a voice; information from Facebook, Twitter and other social networks allows us to identify trends and relationships in society. Whilst this has interest on a personal level, the killer-apps will be in analysing social Web data for business, such as tracking the buzz around a new product, and understanding the relationships between customers and products. This subject will introduce its students to the Social Web data that is available, and blend data science and machine learning concepts to allow extraction and analysis of such data.
+Read Lessabout Overview
+Subject Level
+3 - UG - Level 3
+Credit Points
+10
+Student Types
+Domestic, International, Offshore
+School
+Computer, Data and Mathematical Sciences
+Grading Schema
+Standard Grading Mode
+Field of Education
+info
+0101 - Mathematical Sciences
+Learning Outcomes
+Collapse all
+Upon completion of this subject, graduates will be able to:
+1.
+Extract and process formatted data from social Web sources.
+
+keyboard_arrow_down
+2.
+Use computer algorithms to visualise complex social Web interactions.
+
+keyboard_arrow_down
+3.
+Use mathematical and statistical methods to identify significant trends in the social Web.
+
+keyboard_arrow_down
+4.
+Use mathematical and statistical techniques to identify critical regions of a social network.
+
+keyboard_arrow_down
+5.
+Partition a social network into clusters.
+
+keyboard_arrow_down
+6.
+Choose an appropriate metric to measure the interaction between social network nodes.
+
+keyboard_arrow_down
+7.
+Compute the popularity, authority and hub scores for network nodes.
+
+keyboard_arrow_down
+Offerings
+Spring
+Collapse all
+COMP3020-SPR-3-CA
+
+keyboard_arrow_down
+Location:Campbelltown
+Mode of Study: Hybrid
+Self Enrol:Yes
+Language of Instruction:English
+COMP3020-SPR-3-PS
+
+keyboard_arrow_down
+Location:Parramatta South
+Mode of Study: Hybrid
+Self Enrol:Yes
+Language of Instruction:English
+Sydney City Campus - Term 3
+Collapse all
+COMP3020-SC3-1-SC
+
+keyboard_arrow_down
+Location:Sydney City
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Vietnam Session 1
+Collapse all
+COMP3020-UT1-1-UE
+
+keyboard_arrow_down
+Location:Vietnam
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Vietnam Session 3
+Collapse all
+COMP3020-UT3-1-UE
+
+keyboard_arrow_down
+Location:Vietnam
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Assessments
+Expand all
+Short Answer
+
+keyboard_arrow_down
+Report
+
+keyboard_arrow_down
+Quiz
+
+keyboard_arrow_down
+Final Exam
+
+keyboard_arrow_down
+open_in_new
+Fees
+Understand your fees
+
+open_in_new
+Important Dates
+Check the WSU Online Calendar
+
+open_in_new
+Inherent requirements
+Check to see if your program has inherent requirements
+
+open_in_new
+Work Integrated Learning
+Find out more about Work Integrated Learning
+
+Logo alt text
+Western Sydney University Copyright © 2004-2025
+ABN 53 014 069 881
+CRICOS Provider No: 00917K
+TEQSA Provider ID: PRV12061 (Australian University)
+Accessibility
+Disclaimer
+Privacy
+Copyright
+Complaints Unit
+Website Feedback
+Powered by CourseLoop

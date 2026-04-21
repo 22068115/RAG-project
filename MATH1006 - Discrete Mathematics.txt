@@ -1,0 +1,210 @@
+Skip to content
+Logo alt text
+Handbook
+search
+
+Browse
+menu
+Home
+/
+Discrete Mathematics
+Subject
+
+print
+Print MATH1006 - Discrete Mathematics page
+
+bookmark_border
+MATH1006 - Discrete Mathematics
+You are viewing the 2026 version
+
+2026
+keyboard_arrow_down
+info
+
+Assessments
+keyboard_arrow_down
+Overview
+Discrete Mathematics introduces set theory, symbolic logic, graph theory and some counting techniques. The subject develops mathematical thinking and builds problem solving skills. It provides a solid foundation for further study in mathematics or computing.
+Discrete Mathematics introduces set theory, symbolic logic, graph theory and some counting techniques. The subject develops mathematical thinking and builds problem solving skills. It provides a solid foundation for further study in mathematics or computing.
+Subject Level
+1 - UG - Level 1
+Credit Points
+10
+Student Types
+Domestic, International
+School
+Computer, Data and Mathematical Sciences
+Grading Schema
+Standard Grading Mode
+Field of Education
+info
+0101 - Mathematical Sciences
+Learning Outcomes
+Collapse all
+Upon completion of this subject, graduates will be able to:
+1.
+Decide the truth of logical statements involving connectives, and simplify logical expressions using the laws of logic and truth tables.
+
+keyboard_arrow_down
+2.
+Give simple proofs by induction and contradiction.
+
+keyboard_arrow_down
+3.
+Define and recognise primes, factorise small integers, use the Euclidean algorithm, and do calculations with modular arithmetic.
+
+keyboard_arrow_down
+4.
+Perform simple operations on sets, find Cartesian products of sets, and use Venn diagrams to illustrate relationships between sets.
+
+keyboard_arrow_down
+5.
+Solve basic problems in counting and probability.
+
+keyboard_arrow_down
+6.
+Recognize a function, decide whether a given function is one-to-one or onto, and perform elementary manipulations with functions.
+
+keyboard_arrow_down
+7.
+Describe simple and directed graphs, use concepts such as "path", and find minimal spanning trees.
+
+keyboard_arrow_down
+Requisites
+Collapse all
+Incompatible
+
+keyboard_arrow_down
+arrow_forward
+MATH2004
+10 CPs
+Discrete Structures and Complexity
+Offerings
+Autumn
+Collapse all
+MATH1006-AUT-3-CA
+
+keyboard_arrow_down
+Location:Campbelltown
+Mode of Study: Hybrid
+Self Enrol:Yes
+Language of Instruction:English
+MATH1006-AUT-3-KW
+
+keyboard_arrow_down
+Location:Penrith (Kingswood)
+Mode of Study: Hybrid
+Self Enrol:Yes
+Language of Instruction:English
+MATH1006-AUT-3-PS
+
+keyboard_arrow_down
+Location:Parramatta South
+Mode of Study: Hybrid
+Self Enrol:Yes
+Language of Instruction:English
+Surabaya Semester 2
+Collapse all
+MATH1006-IS2-1-SU
+
+keyboard_arrow_down
+Location:Surabaya
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Sydney City Campus - Term 2
+Collapse all
+MATH1006-SC2-1-SC
+
+keyboard_arrow_down
+Location:Sydney City
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Assessments
+Collapse all
+Quiz
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):20
+Individual or Group:Individual
+Mandatory:Yes
+Type:Mandatory
+Score (Marked out of):20
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO3, SLO4, SLO5, SLO6, SLO7
+Intra-session Exam
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):20
+Individual or Group:Individual
+Mandatory:Yes
+Type:Mandatory
+Score (Marked out of):20
+Grade scale:Standard
+Learning Outcomes:SLO4, SLO5, SLO6
+Intra-session Exam
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):20
+Individual or Group:Individual
+Mandatory:Yes
+Type:Mandatory
+Score (Marked out of):20
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO3, SLO5
+Final Exam
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):40
+Individual or Group:Individual
+Mandatory:Yes
+Type:Threshold
+Percentage:40
+Score (Marked out of):40
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO3, SLO4, SLO5, SLO6, SLO7
+Participation
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):0
+Individual or Group:Individual
+Mandatory:Yes
+Type:Threshold
+Percentage:80
+Score (Marked out of):100
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO3, SLO4, SLO5, SLO6, SLO7
+open_in_new
+Fees
+Understand your fees
+
+open_in_new
+Important Dates
+Check the WSU Online Calendar
+
+open_in_new
+Inherent requirements
+Check to see if your program has inherent requirements
+
+open_in_new
+Work Integrated Learning
+Find out more about Work Integrated Learning
+
+Logo alt text
+Western Sydney University Copyright © 2004-2025
+ABN 53 014 069 881
+CRICOS Provider No: 00917K
+TEQSA Provider ID: PRV12061 (Australian University)
+Accessibility
+Disclaimer
+Privacy
+Copyright
+Complaints Unit
+Website Feedback
+Powered by CourseLoop

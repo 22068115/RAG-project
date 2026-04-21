@@ -1,0 +1,203 @@
+Skip to content
+Logo alt text
+Handbook
+search
+
+Browse
+menu
+Home
+/
+Visual Analytics
+Subject
+
+print
+Print COMP2026 - Visual Analytics page
+
+bookmark_border
+COMP2026 - Visual Analytics
+You are viewing the 2026 version
+
+2026
+keyboard_arrow_down
+info
+
+Assessments
+keyboard_arrow_down
+Overview
+This subject introduces the fundamentals and technologies of visual analytics to understand big data. It covers major concepts of information visualisation, human computer perception and methods for visual data analysis. Students will learn knowledge and skills for identifying suitable visual analytics techniques, methods and tools for handling various data sets… For more content click the Read More button below.
+This subject introduces the fundamentals and technologies of visual analytics to understand big data. It covers major concepts of information visualisation, human computer perception and methods for visual data analysis. Students will learn knowledge and skills for identifying suitable visual analytics techniques, methods and tools for handling various data sets and applications. The subject provides students with opportunities to explore novel research in visual analytics and visualisation.
+Read Lessabout Overview
+Subject Level
+2 - UG - Level 2
+Credit Points
+10
+Student Types
+Domestic, International, Offshore
+School
+Computer, Data and Mathematical Sciences
+Grading Schema
+Standard Grading Mode
+Field of Education
+info
+0201 - Computer Science
+Learning Outcomes
+Collapse all
+Upon completion of this subject, graduates will be able to:
+1.
+Explain the purpose of information visualisation and visual analytics
+
+keyboard_arrow_down
+2.
+Identify strengths, limitations and opportunity of visualisation and visual analytics techniques
+
+keyboard_arrow_down
+3.
+Apply common visualisation techniques for relational and multi-dimensional data
+
+keyboard_arrow_down
+4.
+Identify dimensionality reduction methods for high dimensional data
+
+keyboard_arrow_down
+5.
+Explain methods for spatio-temporal data visualisation
+
+keyboard_arrow_down
+6.
+Employ common visualisation and visual analytics tools for big data analysis
+
+keyboard_arrow_down
+Enrolment Rules
+Collapse all
+Credit Point Restriction
+
+keyboard_arrow_down
+Successful completion of 60 credit points for students enrolled in programs other than 3769 Bachelor of Data Science.
+Successful completion of 60 credit points for students enrolled in programs other than 3770 Bachelor of Applied Data Science.
+Offerings
+Autumn
+Collapse all
+COMP2026-AUT-1-PS
+
+keyboard_arrow_down
+Location:Parramatta South
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Surabaya Semester 2
+Collapse all
+COMP2026-IS2-1-SU
+
+keyboard_arrow_down
+Location:Surabaya
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Sydney City Campus - Term 2
+Collapse all
+COMP2026-SC2-1-SC
+
+keyboard_arrow_down
+Location:Sydney City
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Vietnam Session 2
+Collapse all
+COMP2026-UT2-1-UE
+
+keyboard_arrow_down
+Location:Vietnam
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Vietnam Session 3
+Collapse all
+COMP2026-UT3-1-UE
+
+keyboard_arrow_down
+Location:Vietnam
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Assessments
+Collapse all
+Practical
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):20
+Individual or Group:Individual
+Mandatory:Yes
+Type:Mandatory
+Score (Marked out of):100
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO3, SLO4, SLO5, SLO6
+Report
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):30
+Individual or Group:Individual
+Mandatory:Yes
+Type:Mandatory
+Score (Marked out of):100
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO3, SLO6
+Report
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):30
+Individual or Group:Group
+Mandatory:Yes
+Type:Mandatory
+Score (Marked out of):100
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO3, SLO5, SLO6
+Multiple Choice
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):20
+Individual or Group:Individual
+Mandatory:Yes
+Type:Mandatory
+Score (Marked out of):100
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO4, SLO5
+Learning Resources
+Collapse all
+Other
+
+keyboard_arrow_down
+Description:Access to a Computer.
+Offerings:Applies to all offerings
+open_in_new
+Fees
+Understand your fees
+
+open_in_new
+Important Dates
+Check the WSU Online Calendar
+
+open_in_new
+Inherent requirements
+Check to see if your program has inherent requirements
+
+open_in_new
+Work Integrated Learning
+Find out more about Work Integrated Learning
+
+Logo alt text
+Western Sydney University Copyright © 2004-2025
+ABN 53 014 069 881
+CRICOS Provider No: 00917K
+TEQSA Provider ID: PRV12061 (Australian University)
+Accessibility
+Disclaimer
+Privacy
+Copyright
+Complaints Unit
+Website Feedback
+Powered by CourseLoop

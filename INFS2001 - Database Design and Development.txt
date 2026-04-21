@@ -1,0 +1,209 @@
+Skip to content
+Logo alt text
+Handbook
+search
+
+Browse
+menu
+Home
+/
+Database Design and Development
+Subject
+
+print
+Print INFS2001 - Database Design and Development page
+
+bookmark_border
+INFS2001 - Database Design and Development
+You are viewing the 2026 version
+
+2026
+keyboard_arrow_down
+info
+
+Overview
+keyboard_arrow_down
+Overview
+The main purpose of this subject is to provide students with an opportunity to gain a basic knowledge of database design and development including data modelling methods, techniques for database design using a set of business rules that are derived from a case study and finally implementation of the database… For more content click the Read More button below.
+The main purpose of this subject is to provide students with an opportunity to gain a basic knowledge of database design and development including data modelling methods, techniques for database design using a set of business rules that are derived from a case study and finally implementation of the database using a commercial relational database management system. Through group work and tutorial practicals, students examine a number of important database concepts such as database administration, concurrency, backup and recovery and security whilst developing their professional communication and team work skills.
+Read Lessabout Overview
+Subject Level
+2 - UG - Level 2
+Credit Points
+10
+Student Types
+Domestic, International
+School
+Computer, Data and Mathematical Sciences
+Grading Schema
+Standard Grading Mode
+Field of Education
+info
+0203 - Information Systems
+Learning Outcomes
+Collapse all
+Upon completion of this subject, graduates will be able to:
+1.
+Describe components of a database system, advantages and disadvantages of a database system, roles peoples play and the historical development of a database system in the context of a Relational Database Management System (RDBMS).
+
+keyboard_arrow_down
+2.
+Apply basic skills in database modeling, including ER diagrams and normalization in RDBMS.
+
+keyboard_arrow_down
+3.
+Explain the basic concepts of relational algebra and apply them in queries.
+
+keyboard_arrow_down
+4.
+Describe the general concepts of transaction management.
+
+keyboard_arrow_down
+5.
+Identify concepts in database administration.
+
+keyboard_arrow_down
+6.
+Describe concepts in database security and backup.
+
+keyboard_arrow_down
+7.
+Define and manipulate data using structured query language (SQL).
+
+keyboard_arrow_down
+8.
+Design and develop a database for a business application using a commercial database management system.
+
+keyboard_arrow_down
+Requisites
+Collapse all
+Equivalent
+
+keyboard_arrow_down
+arrow_forward
+INFS2003
+10 CPs
+Database Design and Development (WSTC)
+Offerings
+Spring
+Collapse all
+INFS2001-SPR-1-CA
+
+keyboard_arrow_down
+Location:Campbelltown
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+INFS2001-SPR-1-KW
+
+keyboard_arrow_down
+Location:Penrith (Kingswood)
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+INFS2001-SPR-1-PS
+
+keyboard_arrow_down
+Location:Parramatta South
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Sydney City Campus - Term 1
+Collapse all
+INFS2001-SC1-1-SC
+
+keyboard_arrow_down
+Location:Sydney City
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Sydney City Campus - Term 2
+Collapse all
+INFS2001-SC2-1-SC
+
+keyboard_arrow_down
+Location:Sydney City
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Sydney City Campus - Term 3
+Collapse all
+INFS2001-SC3-1-SC
+
+keyboard_arrow_down
+Location:Sydney City
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Assessments
+Collapse all
+Case Study
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):15
+Individual or Group:Group
+Mandatory:No
+Score (Marked out of):15
+Grade scale:Standard
+Learning Outcomes:SLO2, SLO3
+Applied Project
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):15
+Individual or Group:Group
+Mandatory:No
+Score (Marked out of):15
+Grade scale:Standard
+Learning Outcomes:SLO7, SLO8
+Practical
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):20
+Individual or Group:Individual
+Mandatory:No
+Score (Marked out of):20
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO3, SLO4, SLO5, SLO6, SLO7, SLO8
+Final Exam
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):50
+Individual or Group:Individual
+Mandatory:Yes
+Type:Threshold
+Percentage:40
+Score (Marked out of):50
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO3, SLO4, SLO5, SLO6, SLO7
+open_in_new
+Fees
+Understand your fees
+
+open_in_new
+Important Dates
+Check the WSU Online Calendar
+
+open_in_new
+Inherent requirements
+Check to see if your program has inherent requirements
+
+open_in_new
+Work Integrated Learning
+Find out more about Work Integrated Learning
+
+Logo alt text
+Western Sydney University Copyright © 2004-2025
+ABN 53 014 069 881
+CRICOS Provider No: 00917K
+TEQSA Provider ID: PRV12061 (Australian University)
+Accessibility
+Disclaimer
+Privacy
+Copyright
+Complaints Unit
+Website Feedback
+Powered by CourseLoop
