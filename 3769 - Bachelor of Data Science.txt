@@ -1,0 +1,270 @@
+Skip to content
+Logo alt text
+Handbook
+search
+
+Browse
+menu
+Home
+/
+Bachelor of Data Science
+Program
+
+print
+Print 3769 - Bachelor of Data Science page
+
+bookmark_border
+3769 - Bachelor of Data Science
+You are viewing the 2026 version
+
+2026
+keyboard_arrow_down
+info
+
+Overview
+keyboard_arrow_down
+Overview
+Data is ubiquitous in this digital age and plays an important role in all careers. As a data scientist, you are required to have the expertise to convert all forms of data into valuable information. This Bachelor of Data Science degree will provide you with the essential skills and knowledge… For more content click the Read More button below.
+Data is ubiquitous in this digital age and plays an important role in all careers. As a data scientist, you are required to have the expertise to convert all forms of data into valuable information. This Bachelor of Data Science degree will provide you with the essential skills and knowledge in Machine Learning (ML) and Artificial Intelligence (AI), experimental design, building and fitting models for analysis, visualisation, estimation and prediction, analysis of complex data relationships, and storage and retrieval of big data. These are instrumental skills needed in many roles including the analysis of customer transactions and behaviour, scientific investigations, financial trends and online behaviour.
+
+Read Lessabout Overview
+AQF Level
+Bachelor Degree
+Credit Points
+240
+School
+Computer, Data and Mathematical Sciences
+Duration - Full Time (Years)
+3
+Duration - Part Time (Years)
+6
+CRICOS Code
+089203J
+Learning Outcomes
+Collapse all
+Upon completion of this program, graduates will be able to:
+1.
+Select appropriate techniques for extracting, modelling, predicting, visualising, and managing data in practical scenarios, drawing on statistics, mathematics, and computer science approaches.
+
+keyboard_arrow_down
+2.
+Use data ethically and responsibly to provide information and advice that is reliable, valid, timely, innovative and relevant for their chosen specialty.
+
+keyboard_arrow_down
+3.
+Communicate effectively to diverse audiences the findings of data analyses which integrates computational, statistical, and machine learning methods, programming tools, and critical evaluation to ensure integrity, validity and quality assurance.
+
+keyboard_arrow_down
+4.
+Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+
+keyboard_arrow_down
+5.
+Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+
+keyboard_arrow_down
+6.
+Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.
+
+keyboard_arrow_down
+Structure
+Structure
+240 Credit Points
+Collapse all
+Core
+160 Credit Points
+
+keyboard_arrow_down
+Students must complete the following:
+NATS1019 - Scientific Literacy
+COMP1014 - Thinking About Data
+MATH1006 - Discrete Mathematics
+COMP1005 - Programming Fundamentals
+MATH1014 - Mathematics 1A
+COMP2025 - Introduction to Data Science
+COMP1013 - Analytics Programming
+COMP2026 - Visual Analytics
+COMP3032 - Machine Learning
+INFS2001 - Database Design and Development
+COMP3020 - Social Web Analytics
+COMP2023 - Mathematical Programming
+COMP3002 - Applications of Big Data
+MATH3011 - Probabilistic Models and Inference
+INFO3019 - Project Management
+COMP3035 - Discovery Project
+Elective Space - Except Surabaya and Greater Noida students
+80 Credit Points
+
+keyboard_arrow_down
+All students (except students at Greater Noida and Surabaya campuses) must complete: - one major from the list below, OR - two minors from the list below, OR - one minor from the list below AND 40 credit points of electives note: In cases where the major or the minor subjects are the same as the core subjects, students will have to either select alternate subjects within the major or minor, or do additional elective subjects to make up the credit points required to complete their program.
+Recommended Majors
+80 Credit Points
+
+keyboard_arrow_down
+0037 - Health Informatics, Major
+0261 - Technology Entrepreneurship, Major
+Recommended Minors
+40 Credit Points
+
+keyboard_arrow_down
+0031 - Artificial Intelligence, Minor
+0096 - Astroinformatics, Minor
+0286 - Creative Leadership, Minor
+0287 - Critical and Systems Thinking, Minor
+0274 - Cybersecurity Networking, Minor
+0277 - Cybersecurity Systems, Minor
+0070 - Digital Cultures, Minor
+0279 - Exercise Science, Minor
+0290 - International Business, Minor
+0293 - Macroeconomics, Minor
+0292 - Management, Minor
+0291 - Marketing, Minor
+0059 - Mathematics, Minor
+0289 - Property, Minor
+0275 - Robotics, Minor
+0276 - Video Games, Minor
+Elective Subjects
+80 Credit Points
+
+keyboard_arrow_down
+Electives can be any subject offered by the University. Students may use their Electives to achieve a Major or a Minor.
+Elective Subjects
+Elective Space - Greater Noida
+80 Credit Points
+
+keyboard_arrow_down
+Greater Noida students must complete the below minors and elective subjects
+Minors
+60 Credit Points
+
+keyboard_arrow_down
+Students must complete the following minors:
+0031 - Artificial Intelligence, Minor
+0277 - Cybersecurity Systems, Minor
+Elective Subjects
+20 Credit Points
+
+keyboard_arrow_down
+INFO3002 - Ethical Hacking Principles and Practice
+COMP2004 - Computer Networking
+Surabaya Campus, Indonesia
+240 Credit Points
+
+keyboard_arrow_down
+Surabaya students must complete all core subjects listed below:
+MATH1014 - Mathematics 1A
+COMP1005 - Programming Fundamentals
+COMP1014 - Thinking About Data
+LANG1036 - Indonesian Language
+CULT1030 - Pancasila
+MATH1006 - Discrete Mathematics
+COMP2004 - Computer Networking
+INFO1003 - Professional Practice, Communication and Ethics
+PHIL1008 - Religion
+CULT1031 - Civic Education
+INFS2001 - Database Design and Development
+COMP2023 - Mathematical Programming
+COMP1013 - Analytics Programming
+NATS1019 - Scientific Literacy
+COMP3012 - Introduction to Cloud Computing
+COMP3002 - Applications of Big Data
+COMP2025 - Introduction to Data Science
+COMP2026 - Visual Analytics
+INFO3007 - Network Security
+COMP3032 - Machine Learning
+COMP2020 - Technologies for Web Applications
+INFO3019 - Project Management
+INFO3002 - Ethical Hacking Principles and Practice
+MATH3011 - Probabilistic Models and Inference
+COMP3035 - Discovery Project
+COMP3020 - Social Web Analytics
+Offerings
+PS-International,Domestic
+
+keyboard_arrow_down
+Location:Parramatta South
+Student Type:Domestic, International
+Language of Instruction:English
+1-GN-Offshore
+
+keyboard_arrow_down
+Location:Greater Noida
+Mode of Study:On-site
+Student Type:Offshore
+Language of Instruction:English
+SU-International
+
+keyboard_arrow_down
+Location:Surabaya
+Student Type:International
+Language of Instruction:English
+Admission
+How to ApplyUAC, Western Direct – Domestic, Western Direct – International
+Admission Criteria
+Collapse all
+Assumed Knowledge
+
+keyboard_arrow_down
+DescriptionHSC Mathematics Advanced and any two units of HSC English.
+OfferingsApplies to all offerings
+Accreditation
+External Accreditation
+Collapse all
+Australian Computer Society (ACS)
+
+keyboard_arrow_down
+StatusNon-essential
+Professional Accreditation
+This program has been granted provisional accreditation with the Australian Computer Society, subject to the fulfilment of specified conditions.
+This program has been granted provisional accreditation with the Australian Computer Society, subject to the fulfilment of specified conditions.
+
+Fees
+Collapse all
+International
+
+keyboard_arrow_down
+OfferingsApplies to all offerings
+Program offers only Commonwealth Supported places
+
+keyboard_arrow_down
+OfferingsApplies to all offerings
+Director of Academic Program
+Rosalind Wang
+
+keyboard_arrow_down
+OfferingsApplies to all offerings
+Codes
+Collapse all
+CRICOS
+
+keyboard_arrow_down
+Code089203J
+OfferingsApplies to all offerings
+open_in_new
+Fees
+Understand your fees
+
+open_in_new
+Important Dates
+Check the WSU Online Calendar
+
+open_in_new
+Inherent requirements
+Check to see if your program has inherent requirements
+
+open_in_new
+Work Integrated Learning
+Find out more about Work Integrated Learning
+
+Logo alt text
+Western Sydney University Copyright © 2004-2025
+ABN 53 014 069 881
+CRICOS Provider No: 00917K
+TEQSA Provider ID: PRV12061 (Australian University)
+Accessibility
+Disclaimer
+Privacy
+Copyright
+Complaints Unit
+Website Feedback
+Powered by CourseLoop

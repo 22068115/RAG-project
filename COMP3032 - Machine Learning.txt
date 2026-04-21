@@ -1,0 +1,200 @@
+Skip to content
+Logo alt text
+Handbook
+search
+
+Browse
+menu
+Home
+/
+Machine Learning
+Subject
+
+print
+Print COMP3032 - Machine Learning page
+
+bookmark_border
+COMP3032 - Machine Learning
+You are viewing the 2026 version
+
+2026
+keyboard_arrow_down
+info
+
+Overview
+keyboard_arrow_down
+Overview
+Machine Learning is one of the most important technologies in the fields of Artificial Intelligence and Data Science used to explain large datasets, inform decisions and highlight risks. Machine Learning is relevant for solving a range of problems in many industries dealing with significant amounts of information and the structure… For more content click the Read More button below.
+Machine Learning is one of the most important technologies in the fields of Artificial Intelligence and Data Science used to explain large datasets, inform decisions and highlight risks. Machine Learning is relevant for solving a range of problems in many industries dealing with significant amounts of information and the structure of that information. In this unit, students put Machine Learning theory into action through widely used algorithms and practical applications for designing, training, and evaluating common learning models and systems. Students use Python programming and, as a result, learn about its important machine learning libraries and packages, such as Scikit-Learn, Keras and TensorFlow for solving practical problems and tasks.
+Read Lessabout Overview
+Subject Level
+3 - UG - Level 3
+Credit Points
+10
+Student Types
+Domestic, International, Offshore
+School
+Computer, Data and Mathematical Sciences
+Grading Schema
+Standard Grading Mode
+Field of Education
+info
+0201 - Computer Science
+Learning Outcomes
+Collapse all
+Upon completion of this subject, graduates will be able to:
+1.
+Apply machine learning tasks such as clustering, dimensionality reduction, regression and classification.
+
+keyboard_arrow_down
+2.
+Apply machine learning workflow when evaluating learning systems for given tasks.
+
+keyboard_arrow_down
+3.
+Determine appropriate machine learning models and algorithms in various scenarios.
+
+keyboard_arrow_down
+4.
+Apply Python programming skills and tools for solving common machine learning application problems.
+
+keyboard_arrow_down
+Requisites
+Collapse all
+Pre-requisite
+
+keyboard_arrow_down
+arrow_forward
+COMP3002
+10 CPs
+Applications of Big Data
+OR
+arrow_forward
+COMP1005
+10 CPs
+Programming Fundamentals
+OR
+arrow_forward
+MATH1002
+10 CPs
+Analytics Programming
+AND
+arrow_forward
+MATH1028
+10 CPs
+Statistical Decision Making
+OR
+arrow_forward
+COMP1014
+10 CPs
+Thinking About Data
+OR
+arrow_forward
+MATH1003
+10 CPs
+Biometry
+OR
+arrow_forward
+MATH1030
+10 CPs
+Statistics for Business
+Offerings
+Spring
+Collapse all
+COMP3032-SPR-1-PS
+
+keyboard_arrow_down
+Location:Parramatta South
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Sydney City Campus - Term 1
+Collapse all
+COMP3032-SC1-1-SC
+
+keyboard_arrow_down
+Location:Sydney City
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Vietnam Session 1
+Collapse all
+COMP3032-UT1-1-UE
+
+keyboard_arrow_down
+Location:Vietnam
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Vietnam Session 3
+Collapse all
+COMP3032-UT3-1-UE
+
+keyboard_arrow_down
+Location:Vietnam
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Assessments
+Collapse all
+Intra-session Exam
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):40
+Individual or Group:Individual
+Mandatory:Yes
+Type:Threshold
+Percentage:40
+Score (Marked out of):40
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO3
+Quiz
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):15
+Individual or Group:Individual
+Mandatory:No
+Score (Marked out of):15
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO3, SLO4
+Practical
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):45
+Individual or Group:Individual
+Mandatory:Yes
+Type:Mandatory
+Score (Marked out of):45
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO4
+open_in_new
+Fees
+Understand your fees
+
+open_in_new
+Important Dates
+Check the WSU Online Calendar
+
+open_in_new
+Inherent requirements
+Check to see if your program has inherent requirements
+
+open_in_new
+Work Integrated Learning
+Find out more about Work Integrated Learning
+
+Logo alt text
+Western Sydney University Copyright © 2004-2025
+ABN 53 014 069 881
+CRICOS Provider No: 00917K
+TEQSA Provider ID: PRV12061 (Australian University)
+Accessibility
+Disclaimer
+Privacy
+Copyright
+Complaints Unit
+Website Feedback
+Powered by CourseLoop

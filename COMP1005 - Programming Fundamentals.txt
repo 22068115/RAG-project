@@ -1,0 +1,250 @@
+Skip to content
+Logo alt text
+Handbook
+search
+
+Browse
+menu
+Home
+/
+Programming Fundamentals
+Subject
+
+print
+Print COMP1005 - Programming Fundamentals page
+
+bookmark_border
+COMP1005 - Programming Fundamentals
+You are viewing the 2026 version
+
+2026
+keyboard_arrow_down
+info
+
+Overview
+keyboard_arrow_down
+Overview
+As a first subject in computer programming, Programming Fundamentals covers the basics of developing software with an emphasis on procedural programming. Students will learn about basic data structures, the concept of algorithms, fundamental programming constructs, common programming language features and functions, program design and good programming style. A high level… For more content click the Read More button below.
+As a first subject in computer programming, Programming Fundamentals covers the basics of developing software with an emphasis on procedural programming. Students will learn about basic data structures, the concept of algorithms, fundamental programming constructs, common programming language features and functions, program design and good programming style. A high level programming language is combined with a highly visual framework to teach problem solving using software.
+Read Lessabout Overview
+Subject Level
+1 - UG - Level 1
+Credit Points
+10
+Student Types
+Domestic, International
+School
+Computer, Data and Mathematical Sciences
+Grading Schema
+Standard Grading Mode
+Field of Education
+info
+0201 - Computer Science
+Learning Outcomes
+Collapse all
+Upon completion of this subject, graduates will be able to:
+1.
+With a chosen programming language in mind , analyse a given problem and from a simple problem description, identify desired inputs, outputs, and the necessary processing operations to convert input into output.
+
+keyboard_arrow_down
+2.
+Develop an algorithm that applies structured programming techniques that solve the given problem.
+
+keyboard_arrow_down
+3.
+Choose suitable data types to store relevant data for the given problem.
+
+keyboard_arrow_down
+4.
+Design and code programs which use standard programming concepts: variables, sequence, loops, decision making constructs, mathematical and boolean operators, as well as functions.
+
+keyboard_arrow_down
+5.
+Apply top-down modular design principles to programming problems and implement the solution using the chosen programming language.
+
+keyboard_arrow_down
+Requisites
+Collapse all
+Equivalent
+
+keyboard_arrow_down
+arrow_forward
+COMP1006
+10 CPs
+Programming Fundamentals (WSTC)
+Special Requirements
+Collapse all
+Attendance Requirement
+
+keyboard_arrow_down
+Description:As this is the foundational programming subject and is required as a pre-requisite to subsequent subjects - attendance is strongly recommended for all lectures and practical sessions.
+Offerings:Applies to all offerings
+Offerings
+Autumn
+Collapse all
+COMP1005-AUT-1-CA
+
+keyboard_arrow_down
+Location:Campbelltown
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+COMP1005-AUT-1-KW
+
+keyboard_arrow_down
+Location:Penrith (Kingswood)
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+COMP1005-AUT-1-PS
+
+keyboard_arrow_down
+Location:Parramatta South
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Spring
+Collapse all
+COMP1005-SPR-1-CA
+
+keyboard_arrow_down
+Location:Campbelltown
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+COMP1005-SPR-1-KW
+
+keyboard_arrow_down
+Location:Penrith (Kingswood)
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+COMP1005-SPR-1-PS
+
+keyboard_arrow_down
+Location:Parramatta South
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Summer
+Collapse all
+COMP1005-SUM-1-PS
+
+keyboard_arrow_down
+Location:Parramatta South
+Mode of Study: On-site
+Self Enrol:No
+Language of Instruction:English
+Sydney City Campus - Term 1
+Collapse all
+COMP1005-SC1-1-SC
+
+keyboard_arrow_down
+Location:Sydney City
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Sydney City Campus - Term 2
+Collapse all
+COMP1005-SC2-1-SC
+
+keyboard_arrow_down
+Location:Sydney City
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Sydney City Campus - Term 3
+Collapse all
+COMP1005-SC3-1-SC
+
+keyboard_arrow_down
+Location:Sydney City
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Assessments
+Collapse all
+Quiz
+
+keyboard_arrow_down
+Weighting:Weighting (Description)
+Weighting Description:S/U
+Individual or Group:Individual
+Mandatory:Yes
+Type:Threshold
+Percentage:100
+Score (Marked out of):1
+Grade scale:Ungraded
+Learning Outcomes:SLO1, SLO2, SLO3, SLO4
+Portfolio
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):40
+Individual or Group:Individual
+Mandatory:Yes
+Type:Threshold
+Percentage:50
+Score (Marked out of):40
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO3, SLO4, SLO5
+Quiz
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):20
+Individual or Group:Individual
+Mandatory:No
+Score (Marked out of):20
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO3, SLO4, SLO5
+Applied Project
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):20
+Individual or Group:Individual
+Mandatory:No
+Score (Marked out of):20
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO3, SLO4, SLO5
+Final Exam
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):20
+Individual or Group:Individual
+Mandatory:Yes
+Type:Threshold
+Percentage:50
+Score (Marked out of):20
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO3, SLO4, SLO5
+open_in_new
+Fees
+Understand your fees
+
+open_in_new
+Important Dates
+Check the WSU Online Calendar
+
+open_in_new
+Inherent requirements
+Check to see if your program has inherent requirements
+
+open_in_new
+Work Integrated Learning
+Find out more about Work Integrated Learning
+
+Logo alt text
+Western Sydney University Copyright © 2004-2025
+ABN 53 014 069 881
+CRICOS Provider No: 00917K
+TEQSA Provider ID: PRV12061 (Australian University)
+Accessibility
+Disclaimer
+Privacy
+Copyright
+Complaints Unit
+Website Feedback
+Powered by CourseLoop

@@ -1,0 +1,206 @@
+Skip to content
+Logo alt text
+Handbook
+search
+
+Browse
+menu
+Home
+/
+Applications of Big Data
+Subject
+
+print
+Print COMP3002 - Applications of Big Data page
+
+bookmark_border
+COMP3002 - Applications of Big Data
+You are viewing the 2026 version
+
+2026
+keyboard_arrow_down
+info
+
+Learning Outcomes
+keyboard_arrow_down
+Overview
+Many techniques and tools have been developed over the past decade to cope with the ever-growing needs for the processing and analysis of big data. This subject will cover the key techniques that have been widely used in big data applications, such as relational and Not Only Structured Query Language… For more content click the Read More button below.
+Many techniques and tools have been developed over the past decade to cope with the ever-growing needs for the processing and analysis of big data. This subject will cover the key techniques that have been widely used in big data applications, such as relational and Not Only Structured Query Language (NoSQL) databases, Web Services, parallel and cloud computing, MapReduce, Hadoop and its eco-system. It aims to introduce the emerging technologies and applications in big data to students, and keep up with the latest trends in the industry.
+Read Lessabout Overview
+Subject Level
+3 - UG - Level 3
+Credit Points
+10
+Student Types
+Domestic, International, Offshore
+School
+Computer, Data and Mathematical Sciences
+Grading Schema
+Standard Grading Mode
+Field of Education
+info
+0201 - Computer Science
+Learning Outcomes
+Collapse all
+Upon completion of this subject, graduates will be able to:
+1.
+Explain the major trends and latest development in big data technology
+
+keyboard_arrow_down
+2.
+Describe a selection of major techniques in use today for big data storage and processing, including NoSQL, MapReduce, cloud computing, web services
+
+keyboard_arrow_down
+3.
+Build tools to obtain data from various sources and in different formats
+
+keyboard_arrow_down
+4.
+Evaluate the relative strengths and limitations of relational and NoSQL database systems and recommend the most appropriate solution to data storage and access for different application scenarios
+
+keyboard_arrow_down
+5.
+Employ HDFS and Hadoop for data storage and manipulation on parallel platforms
+
+keyboard_arrow_down
+6.
+Select and apply appropriate tools from the Hadoop eco-system for big data management tasks
+
+keyboard_arrow_down
+Requisites
+Collapse all
+Pre-requisite
+
+keyboard_arrow_down
+arrow_forward
+COMP1013
+10 CPs
+Analytics Programming
+OR
+arrow_forward
+COMP1005
+10 CPs
+Programming Fundamentals
+Special Requirements
+Collapse all
+Attendance Requirement
+
+keyboard_arrow_down
+Description:Lectures and tutorials are designed to scaffold learning and assist students to gain an understanding of the subject content, and subsequently to complete their assessment tasks. Students should note that attendance is considered critical for students to gain full value from this subject, and is closely correlated with student success and grades. Students are encouraged to participate in all class activities, as non-engagement may seriously undermine a students ability to satisfactorily complete the subject.
+Offerings:Applies to all offerings
+Offerings
+Autumn
+Collapse all
+COMP3002-AUT-1-PS
+
+keyboard_arrow_down
+Location:Parramatta South
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Surabaya Semester 2
+Collapse all
+COMP3002-IS2-1-SU
+
+keyboard_arrow_down
+Location:Surabaya
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Sydney City Campus - Term 3
+Collapse all
+COMP3002-SC3-1-SC
+
+keyboard_arrow_down
+Location:Sydney City
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Vietnam Session 2
+Collapse all
+COMP3002-UT2-1-UE
+
+keyboard_arrow_down
+Location:Vietnam
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Vietnam Session 3
+Collapse all
+COMP3002-UT3-1-UE
+
+keyboard_arrow_down
+Location:Vietnam
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Assessments
+Collapse all
+Quiz
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):30
+Individual or Group:Individual
+Mandatory:Yes
+Type:Mandatory
+Score (Marked out of):30
+Grade scale:Standard
+Learning Outcomes:SLO2, SLO3, SLO4, SLO5, SLO6
+Report
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):30
+Individual or Group:Individual
+Mandatory:Yes
+Type:Mandatory
+Score (Marked out of):30
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO3, SLO4
+Final Exam
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):40
+Individual or Group:Individual
+Mandatory:Yes
+Type:Mandatory
+Score (Marked out of):40
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO3, SLO4, SLO5, SLO6
+Learning Resources
+Collapse all
+Other
+
+keyboard_arrow_down
+Description:COMPUTING RESOURCES REQUIRED: 1- Programming environment: Python and R Database: Oracle or MS SQL Server and MongoDB 2- Hadoop: HDP (Hortonworks Data Platform, a virtual disk image that ships with a variety of projects from Hadoop eco-system, including Hadoop, Pig, Hive, , etc)
+Offerings:Applies to all offerings
+open_in_new
+Fees
+Understand your fees
+
+open_in_new
+Important Dates
+Check the WSU Online Calendar
+
+open_in_new
+Inherent requirements
+Check to see if your program has inherent requirements
+
+open_in_new
+Work Integrated Learning
+Find out more about Work Integrated Learning
+
+Logo alt text
+Western Sydney University Copyright © 2004-2025
+ABN 53 014 069 881
+CRICOS Provider No: 00917K
+TEQSA Provider ID: PRV12061 (Australian University)
+Accessibility
+Disclaimer
+Privacy
+Copyright
+Complaints Unit
+Website Feedback
+Powered by CourseLoop
