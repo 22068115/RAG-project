@@ -1,0 +1,185 @@
+Skip to content
+Logo alt text
+Handbook
+search
+
+Browse
+menu
+Home
+/
+Thinking About Data
+Subject
+
+print
+Print COMP1014 - Thinking About Data page
+
+bookmark_border
+COMP1014 - Thinking About Data
+You are viewing the 2026 version
+
+2026
+keyboard_arrow_down
+info
+
+Overview
+keyboard_arrow_down
+Overview
+This subject covers basic concepts of data centric thinking. The main areas discussed are; Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; Modelling. The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language. 
+This subject covers basic concepts of data centric thinking. The main areas discussed are; Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; Modelling. The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language. 
+
+Subject Level
+1 - UG - Level 1
+Credit Points
+10
+Student Types
+Domestic, International, Offshore
+School
+Computer, Data and Mathematical Sciences
+Grading Schema
+Standard Grading Mode
+Field of Education
+info
+0201 - Computer Science
+Learning Outcomes
+Collapse all
+Upon completion of this subject, graduates will be able to:
+1.
+Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
+
+keyboard_arrow_down
+2.
+Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
+
+keyboard_arrow_down
+3.
+Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
+
+keyboard_arrow_down
+4.
+Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.
+
+keyboard_arrow_down
+Requisites
+Collapse all
+Equivalent
+
+keyboard_arrow_down
+arrow_forward
+MATH1033
+10 CPs
+Thinking About Data
+Special Requirements
+Collapse all
+Attendance Requirement
+
+keyboard_arrow_down
+Description:Lectures and tutorials are designed to scaffold learning and assist students to gain an understanding of the subject content, and subsequently to complete their assessment tasks. Students should note that attendance is considered critical for students to gain full value from this subject, and is closely correlated with student success and grades. Students are encouraged to participate in all class activities, as non-engagement may seriously undermine a students ability to satisfactorily complete the subject.
+Offerings:Applies to all offerings
+Offerings
+Autumn
+Collapse all
+COMP1014-AUT-1-PS
+
+keyboard_arrow_down
+Location:Parramatta South
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Spring
+Collapse all
+COMP1014-SPR-1-PS
+
+keyboard_arrow_down
+Location:Parramatta South
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Sydney City Campus - Term 2
+Collapse all
+COMP1014-SC2-1-SC
+
+keyboard_arrow_down
+Location:Sydney City
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Vietnam Session 1
+Collapse all
+COMP1014-UT1-1-UE
+
+keyboard_arrow_down
+Location:Vietnam
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Vietnam Session 3
+Collapse all
+COMP1014-UT3-1-UE
+
+keyboard_arrow_down
+Location:Vietnam
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Assessments
+Collapse all
+Quiz
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):20
+Individual or Group:Individual
+Mandatory:No
+Score (Marked out of):20
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO3, SLO4
+Report
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):40
+Individual or Group:Group
+Mandatory:No
+Score (Marked out of):40
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO3, SLO4
+Final Exam
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):40
+Individual or Group:Individual
+Mandatory:Yes
+Type:Threshold
+Percentage:40
+Score (Marked out of):40
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO3, SLO4
+open_in_new
+Fees
+Understand your fees
+
+open_in_new
+Important Dates
+Check the WSU Online Calendar
+
+open_in_new
+Inherent requirements
+Check to see if your program has inherent requirements
+
+open_in_new
+Work Integrated Learning
+Find out more about Work Integrated Learning
+
+Logo alt text
+Western Sydney University Copyright © 2004-2025
+ABN 53 014 069 881
+CRICOS Provider No: 00917K
+TEQSA Provider ID: PRV12061 (Australian University)
+Accessibility
+Disclaimer
+Privacy
+Copyright
+Complaints Unit
+Website Feedback
+Powered by CourseLoop

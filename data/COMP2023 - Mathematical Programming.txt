@@ -1,0 +1,172 @@
+Skip to content
+Logo alt text
+Handbook
+search
+
+Browse
+menu
+Home
+/
+Mathematical Programming
+Subject
+
+print
+Print COMP2023 - Mathematical Programming page
+
+bookmark_border
+COMP2023 - Mathematical Programming
+You are viewing the 2026 version
+
+2026
+keyboard_arrow_down
+info
+
+Learning Outcomes
+keyboard_arrow_down
+Overview
+This subject will introduce the programming language Python, through which students will explore and investigate practical mathematical problems. Python is one of the most powerful versatile programming languages, and it is increasingly used by engineers and scientists as well as banks and financial institutions to tackle their computational problems. The… For more content click the Read More button below.
+This subject will introduce the programming language Python, through which students will explore and investigate practical mathematical problems. Python is one of the most powerful versatile programming languages, and it is increasingly used by engineers and scientists as well as banks and financial institutions to tackle their computational problems. The subject promotes an experimental side of mathematics and will employ Python-based computational tools to gain insight and intuition into problems, to discover mathematical patterns and relationships, and to use visualisation techniques to expose mathematical structures.
+Read Lessabout Overview
+Subject Level
+2 - UG - Level 2
+Credit Points
+10
+Student Types
+Domestic, International
+School
+Computer, Data and Mathematical Sciences
+Grading Schema
+Standard Grading Mode
+Field of Education
+info
+0201 - Computer Science
+Learning Outcomes
+Collapse all
+Upon completion of this subject, graduates will be able to:
+1.
+Compute complex numerical expressions by utilising the computational features of Python.
+
+keyboard_arrow_down
+2.
+Combine different styles of programming (functional, procedural, and list-based) to write powerful code in Python.
+
+keyboard_arrow_down
+3.
+Analyse, investigate, gain insight and intuition into, and thus solve, practical mathematical problems by using Python.
+
+keyboard_arrow_down
+4.
+Create complex graphics and solve equations by combining Python graphics capabilities.
+
+keyboard_arrow_down
+5.
+Communicate computational approaches to mathematical problems effectively in both spoken and written form.
+
+keyboard_arrow_down
+Requisites
+Collapse all
+Equivalent
+
+keyboard_arrow_down
+arrow_forward
+COMP2003
+10 CPs
+Computer Algebra
+Offerings
+Spring
+Collapse all
+COMP2023-SPR-1-CA
+
+keyboard_arrow_down
+Location:Campbelltown
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+COMP2023-SPR-1-KW
+
+keyboard_arrow_down
+Location:Penrith (Kingswood)
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+COMP2023-SPR-1-PS
+
+keyboard_arrow_down
+Location:Parramatta South
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Assessments
+Collapse all
+Practical Exam
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):10
+Individual or Group:Individual
+Mandatory:Yes
+Type:Mandatory
+Score (Marked out of):10
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO3, SLO4
+Presentation
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):10
+Individual or Group:Individual
+Mandatory:Yes
+Type:Mandatory
+Score (Marked out of):10
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO3, SLO4, SLO5
+Applied Project
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):30
+Individual or Group:Individual
+Mandatory:Yes
+Type:Mandatory
+Score (Marked out of):30
+Grade scale:Standard
+Learning Outcomes:SLO2, SLO3, SLO4, SLO5
+Final Exam
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):50
+Individual or Group:Individual
+Mandatory:Yes
+Type:Mandatory
+Score (Marked out of):50
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO3
+open_in_new
+Fees
+Understand your fees
+
+open_in_new
+Important Dates
+Check the WSU Online Calendar
+
+open_in_new
+Inherent requirements
+Check to see if your program has inherent requirements
+
+open_in_new
+Work Integrated Learning
+Find out more about Work Integrated Learning
+
+Logo alt text
+Western Sydney University Copyright © 2004-2025
+ABN 53 014 069 881
+CRICOS Provider No: 00917K
+TEQSA Provider ID: PRV12061 (Australian University)
+Accessibility
+Disclaimer
+Privacy
+Copyright
+Complaints Unit
+Website Feedback
+Powered by CourseLoop

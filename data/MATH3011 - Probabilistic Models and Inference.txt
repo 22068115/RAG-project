@@ -1,0 +1,158 @@
+Skip to content
+Logo alt text
+Handbook
+search
+
+Browse
+menu
+Home
+/
+Probabilistic Models and Inference
+Subject
+
+print
+Print MATH3011 - Probabilistic Models and Inference page
+
+bookmark_border
+MATH3011 - Probabilistic Models and Inference
+You are viewing the 2026 version
+
+2026
+keyboard_arrow_down
+info
+
+Overview
+keyboard_arrow_down
+Overview
+The subject provides students with an understanding of probabilistic models and inference. It covers model-based approaches for complex systems - from constructing these models to applying information to models. The models, which can be created manually and obtained by learning from data, will also be useful to make decisions under… For more content click the Read More button below.
+The subject provides students with an understanding of probabilistic models and inference. It covers model-based approaches for complex systems - from constructing these models to applying information to models. The models, which can be created manually and obtained by learning from data, will also be useful to make decisions under uncertainty. A variety of models and techniques will be discussed; examples include Monte Carlo Methods, Decision Theory, Bayesian networks, Markov networks, and the use of information theory.
+Read Lessabout Overview
+Subject Level
+3 - UG - Level 3
+Credit Points
+10
+Student Types
+Domestic, International
+School
+Computer, Data and Mathematical Sciences
+Grading Schema
+Standard Grading Mode
+Field of Education
+info
+0101 - Mathematical Sciences
+Learning Outcomes
+Collapse all
+Upon completion of this subject, graduates will be able to:
+1.
+Manually construct probabilistic models for specific data.
+
+keyboard_arrow_down
+2.
+Automatically construct probabilistic models by learning from data.
+
+keyboard_arrow_down
+3.
+Use the models to make decisions under uncertainty.
+
+keyboard_arrow_down
+4.
+Accurately represent a probabilistic model using a graphical representation.
+
+keyboard_arrow_down
+Requisites
+Collapse all
+Pre-requisite
+
+keyboard_arrow_down
+arrow_forward
+MATH1033
+10 CPs
+Thinking About Data
+OR
+arrow_forward
+MATH1028
+10 CPs
+Statistical Decision Making
+AND
+arrow_forward
+COMP1013
+10 CPs
+Analytics Programming
+OR
+arrow_forward
+COMP2023
+10 CPs
+Mathematical Programming
+Offerings
+Autumn
+Collapse all
+MATH3011-AUT-1-PS
+
+keyboard_arrow_down
+Location:Parramatta South
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Assessments
+Collapse all
+Intra-session Exam
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):30
+Individual or Group:Individual
+Mandatory:Yes
+Type:Mandatory
+Score (Marked out of):30
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO3
+Applied Project
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):40
+Individual or Group:Individual
+Mandatory:Yes
+Type:Mandatory
+Score (Marked out of):40
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO3, SLO4
+Quiz
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):30
+Individual or Group:Individual
+Mandatory:Yes
+Type:Mandatory
+Score (Marked out of):30
+Grade scale:Standard
+Learning Outcomes:SLO2, SLO3, SLO4
+open_in_new
+Fees
+Understand your fees
+
+open_in_new
+Important Dates
+Check the WSU Online Calendar
+
+open_in_new
+Inherent requirements
+Check to see if your program has inherent requirements
+
+open_in_new
+Work Integrated Learning
+Find out more about Work Integrated Learning
+
+Logo alt text
+Western Sydney University Copyright © 2004-2025
+ABN 53 014 069 881
+CRICOS Provider No: 00917K
+TEQSA Provider ID: PRV12061 (Australian University)
+Accessibility
+Disclaimer
+Privacy
+Copyright
+Complaints Unit
+Website Feedback
+Powered by CourseLoop

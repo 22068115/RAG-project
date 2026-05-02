@@ -1,0 +1,182 @@
+Skip to content
+Logo alt text
+Handbook
+search
+
+Browse
+menu
+Home
+/
+Introduction to Data Science
+Subject
+
+print
+Print COMP2025 - Introduction to Data Science page
+
+bookmark_border
+COMP2025 - Introduction to Data Science
+You are viewing the 2026 version
+
+2026
+keyboard_arrow_down
+info
+
+Overview
+keyboard_arrow_down
+Overview
+Analysis of data is essential for scientific investigation, modelling processes and predicting future events. Data Science is the investigation of the tools required that allow us to perform this modelling and prediction. The increase in accessible data over the past few decades has promoted the use of Data Science, making… For more content click the Read More button below.
+Analysis of data is essential for scientific investigation, modelling processes and predicting future events. Data Science is the investigation of the tools required that allow us to perform this modelling and prediction. The increase in accessible data over the past few decades has promoted the use of Data Science, making it a desired skill in many professions. In this subject we further investigate the methods of regression, clustering and classification that form the basis of a data scientist's toolbox.
+Read Lessabout Overview
+Subject Level
+2 - UG - Level 2
+Credit Points
+10
+Student Types
+Domestic, International, Offshore
+School
+Computer, Data and Mathematical Sciences
+Grading Schema
+Standard Grading Mode
+Field of Education
+info
+0201 - Computer Science
+Learning Outcomes
+Collapse all
+Upon completion of this subject, graduates will be able to:
+1.
+Discuss the issues (computational and social) in data science
+
+keyboard_arrow_down
+2.
+Choose and apply appropriate data analysis methods for a given set of data
+
+keyboard_arrow_down
+3.
+Define the assumptions required behind each data analysis model
+
+keyboard_arrow_down
+4.
+Choose and apply appropriate evaluation methods to computed models to gain insight into the effectiveness of the models
+
+keyboard_arrow_down
+5.
+Use computer software (R ) to achieve the above
+
+keyboard_arrow_down
+Offerings
+Spring
+Collapse all
+COMP2025-SPR-1-CA
+
+keyboard_arrow_down
+Location:Campbelltown
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+COMP2025-SPR-1-PS
+
+keyboard_arrow_down
+Location:Parramatta South
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Surabaya Semester 2
+Collapse all
+COMP2025-IS2-1-SU
+
+keyboard_arrow_down
+Location:Surabaya
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Sydney City Campus - Term 1
+Collapse all
+COMP2025-SC1-1-SC
+
+keyboard_arrow_down
+Location:Sydney City
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Vietnam Session 2
+Collapse all
+COMP2025-UT2-1-UE
+
+keyboard_arrow_down
+Location:Vietnam
+Mode of Study: On-site
+Self Enrol:Yes
+Language of Instruction:English
+Assessments
+Collapse all
+Multiple Choice
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):20
+Individual or Group:Individual
+Mandatory:No
+Score (Marked out of):20
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO3, SLO4
+Numerical Problem Solving
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):30
+Individual or Group:Individual
+Mandatory:Yes
+Type:Mandatory
+Score (Marked out of):30
+Grade scale:Standard
+Learning Outcomes:SLO2, SLO3, SLO4, SLO5
+Interview
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):10
+Individual or Group:Individual
+Mandatory:Yes
+Type:Mandatory
+Score (Marked out of):10
+Grade scale:Standard
+Learning Outcomes:SLO2, SLO4
+Numerical Problem Solving
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):40
+Individual or Group:Individual
+Mandatory:Yes
+Type:Mandatory
+Score (Marked out of):40
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO3, SLO4, SLO5
+open_in_new
+Fees
+Understand your fees
+
+open_in_new
+Important Dates
+Check the WSU Online Calendar
+
+open_in_new
+Inherent requirements
+Check to see if your program has inherent requirements
+
+open_in_new
+Work Integrated Learning
+Find out more about Work Integrated Learning
+
+Logo alt text
+Western Sydney University Copyright © 2004-2025
+ABN 53 014 069 881
+CRICOS Provider No: 00917K
+TEQSA Provider ID: PRV12061 (Australian University)
+Accessibility
+Disclaimer
+Privacy
+Copyright
+Complaints Unit
+Website Feedback
+Powered by CourseLoop

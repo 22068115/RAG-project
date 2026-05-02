@@ -1,0 +1,218 @@
+Skip to content
+Logo alt text
+Handbook
+search
+
+Browse
+menu
+Home
+/
+Mathematics 1A
+Subject
+
+print
+Print MATH1014 - Mathematics 1A page
+
+bookmark_border
+MATH1014 - Mathematics 1A
+You are viewing the 2026 version
+
+2026
+keyboard_arrow_down
+info
+
+Overview
+keyboard_arrow_down
+Overview
+This level one subject provides a solid foundation in the theory and applications of differential calculus, as well as some introductory work on complex numbers. It is the first of two subjects developing aspects of calculus.Assumed Knowledge: Mathematics achieved at Bands 5-6, or knowledge equivalent to MATH1001 Analysis of Change.
+This level one subject provides a solid foundation in the theory and applications of differential calculus, as well as some introductory work on complex numbers. It is the first of two subjects developing aspects of calculus.
+
+
+Assumed Knowledge: Mathematics achieved at Bands 5-6, or knowledge equivalent to MATH1001 Analysis of Change.
+
+Read Lessabout Overview
+Subject Level
+1 - UG - Level 1
+Credit Points
+10
+Student Types
+Domestic, International
+School
+Computer, Data and Mathematical Sciences
+Grading Schema
+Standard Grading Mode
+Field of Education
+info
+0101 - Mathematical Sciences
+Learning Outcomes
+Collapse all
+Upon completion of this subject, graduates will be able to:
+1.
+Define and operate with complex numbers.
+
+keyboard_arrow_down
+2.
+Define and manipulate the following functions: exponential, trigonometric, hyperbolic, logarithmic, inverse trig and inverse hyperbolic.
+
+keyboard_arrow_down
+3.
+Find limits of functions and determine if a function is continuous or differentiable.
+
+keyboard_arrow_down
+4.
+Find the derivatives of functions.
+
+keyboard_arrow_down
+5.
+Apply correctly techniques of differential calculus to problems involving optimization, curve sketching and rates of change.
+
+keyboard_arrow_down
+6.
+Calculate basic integrals.
+
+keyboard_arrow_down
+Requisites
+Collapse all
+Incompatible
+
+keyboard_arrow_down
+arrow_forward
+MATH1016
+10 CPs
+Mathematics for Engineers 1
+Enrolment Rules
+Collapse all
+Level Restriction
+
+keyboard_arrow_down
+Students may complete the following subjects - MATH1026 Quantitative Thinking, MATH1001 Analysis of Change and MATH1014 Mathematics 1A in the following order:
+
+MATH1026 Quantitative Thinking before MATH1001 Analysis of Change, but NOT after successfully completing MATH1001 Analysis of Change.
+
+Students may take MATH1026 Quantitative Thinking or MATH1001 Analysis of Change BEFORE MATH1014 Mathematics 1A, but NOT after successfully completing MATH1014 Mathematics 1A.
+
+Students cannot take a lower-level mathematics subject (i.e. MATH1026) after successfully completing a high-level one (MATH1001 or MATH1014) because the material in the lower-level subject is already assumed knowledge. Students may not register into any two of these subjects in the same teaching session.
+Special Requirements
+Collapse all
+Attendance Requirement
+
+keyboard_arrow_down
+Description:For students attending On-campus: To successfully complete this subject, it is strongly recommended that you attend all scheduled learning activities. If your attendance is less than 80%, there is a greater chance that you will not be able to obtain the necessary skills and learnings to meet the Subject Learning Outcomes. It is mandatory to attend classes in which tutorial tests are held.
+Offerings:Applies to all offerings
+Offerings
+Autumn
+Collapse all
+MATH1014-AUT-3-CA
+
+keyboard_arrow_down
+Location:Campbelltown
+Mode of Study: Hybrid
+Self Enrol:Yes
+Language of Instruction:English
+MATH1014-AUT-3-KW
+
+keyboard_arrow_down
+Location:Penrith (Kingswood)
+Mode of Study: Hybrid
+Self Enrol:Yes
+Language of Instruction:English
+MATH1014-AUT-3-PS
+
+keyboard_arrow_down
+Location:Parramatta South
+Mode of Study: Hybrid
+Self Enrol:Yes
+Language of Instruction:English
+Assessments
+Collapse all
+Short Answer
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):10
+Individual or Group:Individual
+Mandatory:Yes
+Type:Mandatory
+Score (Marked out of):50
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2
+Short Answer
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):10
+Individual or Group:Individual
+Mandatory:Yes
+Type:Mandatory
+Score (Marked out of):50
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO3
+Short Answer
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):15
+Individual or Group:Individual
+Mandatory:Yes
+Type:Mandatory
+Score (Marked out of):50
+Grade scale:Standard
+Learning Outcomes:SLO3, SLO4
+Short Answer
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):15
+Individual or Group:Individual
+Mandatory:Yes
+Type:Mandatory
+Score (Marked out of):50
+Grade scale:Standard
+Learning Outcomes:SLO3, SLO4, SLO5
+Final Exam
+
+keyboard_arrow_down
+Weighting:Weighting %
+Weighting (%):50
+Individual or Group:Individual
+Mandatory:Yes
+Type:Threshold
+Percentage:40
+Score (Marked out of):120
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO3, SLO4, SLO5, SLO6
+Learning Resources
+Collapse all
+Other
+
+keyboard_arrow_down
+Description:Scientific calculator.
+Offerings:Applies to all offerings
+open_in_new
+Fees
+Understand your fees
+
+open_in_new
+Important Dates
+Check the WSU Online Calendar
+
+open_in_new
+Inherent requirements
+Check to see if your program has inherent requirements
+
+open_in_new
+Work Integrated Learning
+Find out more about Work Integrated Learning
+
+Logo alt text
+Western Sydney University Copyright © 2004-2025
+ABN 53 014 069 881
+CRICOS Provider No: 00917K
+TEQSA Provider ID: PRV12061 (Australian University)
+Accessibility
+Disclaimer
+Privacy
+Copyright
+Complaints Unit
+Website Feedback
+Powered by CourseLoop
