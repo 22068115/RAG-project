@@ -28,7 +28,10 @@ for name in file_names:
         documents.append(text[:9000])
 
 client = chromadb.Client()
-collection = client.create_collection(name="docs")
+collection = client.create_collection(
+    name="docs",
+    metadata={"hnsw:space": "cosine"}
+)
 
 for i, d in enumerate(documents):
     response = ollama.embed(model="nomic-embed-text-v2-moe", input=d)
@@ -40,7 +43,7 @@ for i, d in enumerate(documents):
         metadatas=[{"file_name": file_names[i]}]
     )
 
-input = "Who is the coordinator of COMP2025 Introduction to Data Science?"
+input = "What are the core subjects in the Bachelor of Data Science?"
 
 response = ollama.embed(
     model="nomic-embed-text-v2-moe",
