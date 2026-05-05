@@ -1,7 +1,8 @@
 import ollama
+import csv
 from data import cos_collection
 
-question = "	Which subjects are offered in Autumn and Spring?"
+question =  "	Which subjects are offered in only one semester (Autumn or Spring)? "
 
 response = ollama.embed(
     model="nomic-embed-text-v2-moe",
@@ -24,16 +25,28 @@ for i in range(len(results["metadatas"][0])):
 
 data = results["documents"][0][0]
 
-output = ollama.generate(
-    model="qwen3:4b",
-    prompt=f"""Answer the question using only the provided documentation.
-If the answer is not in the documentation, say: I don't have the answer for your question.
+result = {}
+
+for i in range(30):
+    output = ollama.generate(
+        model="qwen3:4b",
+        prompt=f"""Answer the question using only the provided documentation.
+If the answer is not in the documentation, say: I don't have the answer.
 
 Using this data:
 {data}
 
 Respond to this prompt:
 {question}"""
-)
+    )
 
-print(output["response"])
+    result[f"Run {i+1}"] = output["response"]
+
+ 
+
+with open(r"C:\Users\lon09\New folder\output12b.csv", "w", newline="", encoding="utf-8") as csvfile:
+    csvwriter = csv.writer(csvfile)
+
+    for row in result.items():
+        csvwriter.writerow(row)
+

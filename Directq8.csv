@@ -1,0 +1,85 @@
+Run 1,I don't have the answer.
+Run 2,I don't have the answer.
+Run 3,I don't have the answer.
+Run 4,I don't have the answer.
+Run 5,I don't have the answer.
+Run 6,I don't have the answer.
+Run 7,I don't have the answer.
+Run 8,I don't have the answer.
+Run 9,"Based on the provided documentation, MATH1014 (Mathematics 1A) has a credit point restriction. The documentation explicitly states: ""Students may take MATH1026 Quantitative Thinking or MATH1001 Analysis of Change BEFORE MATH1014 Mathematics 1A, but NOT after successfully completing MATH1014 Mathematics 1A."" This indicates that MATH1014 cannot be taken after successfully completing other subjects (MATH1001 or MATH1026), which constitutes a credit point restriction related to the order of enrollment.
+
+While MATH1026 also has restrictions (it cannot be taken after completing MATH1001 or MATH1014), the primary subject highlighted in the context of credit point restrictions is MATH1014, as it is the higher-level subject with specific enrollment constraints.
+
+**Answer: MATH1014**"
+Run 10,"After carefully reviewing the provided documentation, I cannot find a specific answer to the question ""Which subjects have credit point restriction?"" 
+
+The documentation mentions:
+- MATH1014 has 10 credit points (in the ""Credit Points"" section).
+- MATH1016 has 10 credit points (implied by the incompatibility statement).
+- There is an incompatibility between MATH1014 and MATH1016 (stated as ""MATH1014 is incompatible with MATH1016"").
+- MATH1014 has assumed knowledge requirements (equivalent to MATH1001).
+
+However, the term ""credit point restriction"" is not explicitly defined or applied to any subject in the documentation. The documentation describes credit points for subjects and incompatibilities, but it does not state which subjects have restrictions on credit points (e.g., minimum or maximum credit points a student must have to take a subject). 
+
+The question asks for ""which subjects have credit point restriction,"" but the documentation does not provide a clear list of subjects with such restrictions. While MATH1014 has assumed knowledge requirements that could be interpreted as credit point prerequisites, the documentation does not explicitly use the phrase ""credit point restriction"" or define it in this context.
+
+Therefore, based on the provided information, I do not have the answer.
+
+**Final Answer**: I don't have the answer."
+Run 11,I don't have the answer.
+Run 12,"Based on the provided documentation, the subject that has credit point restrictions is **MATH1014 Mathematics 1A**. 
+
+This is determined from the ""Enrolment Rules"" section, which states:  
+""Students may take MATH1026 Quantitative Thinking or MATH1001 Analysis of Change BEFORE MATH1014 Mathematics 1A, but NOT after successfully completing MATH1014 Mathematics 1A.""  
+
+This indicates that MATH1014 has specific enrollment requirements that affect when it can be taken (i.e., it requires other subjects to be completed before it), which constitutes a credit point restriction in the context of academic sequencing. Additionally, MATH1014 is listed as having 10 credit points and is incompatible with MATH1016 (also 10 credit points), further highlighting its restricted enrollment status.
+
+No other subjects in the documentation are explicitly described as having credit point restrictions in this manner. Therefore, the answer is **MATH1014 Mathematics 1A**.
+
+**Final Answer: MATH1014 Mathematics 1A**"
+Run 13,
+Run 14,"I don't have the answer.
+
+The documentation shows that MATH1014 (Mathematics 1A) is a 10 credit point subject and MATH1016 (Mathematics for Engineers 1) is also a 10 credit point subject. However, the documentation does not explicitly state which subjects have ""credit point restrictions"" (meaning limitations on how many credit points you can have for a subject). The documentation mentions enrollment rules about subject order but doesn't specify credit point restrictions for any subjects."
+Run 15,"I don't have the answer.
+
+The documentation provides information about MATH1014 Mathematics 1A (10 credit points) and MATH1016 Mathematics for Engineers 1 (10 credit points), but it doesn't explicitly state which subjects have credit point restrictions. The document mentions subject incompatibilities and enrollment order rules, but it doesn't specify credit point restrictions for any subject. The term ""credit point restriction"" isn't used in the documentation to describe any specific subject limitations."
+Run 16,I don't have the answer.
+Run 17,"Based on the provided documentation, the only subject explicitly mentioned with a credit point restriction is **MATH1014 (Mathematics 1A)**. The documentation states: ""Requisites: Incompatible with MATH1016 (10 CPs) - Mathematics for Engineers 1"". This indicates that MATH1014 has a credit point restriction with MATH1016, as they are incompatible.
+
+Additionally, the documentation notes that students ""may take MATH1026 Quantitative Thinking or MATH1001 Analysis of Change BEFORE MATH1014 Mathematics 1A, but NOT after successfully completing MATH1014"". This further confirms that MATH1014 has credit point restrictions (prerequisites) with MATH1026 and MATH1001.
+
+However, the question asks ""Which subjects have credit point restriction?"" (plural). While MATH1014 is the subject with credit point restrictions, the documentation does not indicate that other subjects (e.g., MATH1016, MATH1026, MATH1001) have credit point restrictions *themselves* in the same context. The restrictions are defined relative to MATH1014.
+
+Therefore, **MATH1014** is the subject with credit point restrictions as described in the documentation.
+
+**Final Answer: MATH1014**"
+Run 18,I don't have the answer.
+Run 19,
+Run 20,I don't have the answer.
+Run 21,"The provided text states: ""Students cannot take a lower-level mathematics subject (i.e. MATH1026) after successfully completing a high-level one (MATH1001 or MATH1014)."" This indicates that MATH1026 has a restriction on when it can be taken—it cannot be enrolled after successfully completing higher-level subjects (MATH1001 or MATH1014). 
+
+The term ""credit point restriction"" is not explicitly used in the text, but the context describes an enrollment restriction related to prior credit completion, which aligns with the concept of a credit point restriction in this educational context. The text does not mention any other subjects having such restrictions.
+
+Therefore, based on the provided text, MATH1026 is the subject with a credit point restriction.
+
+\boxed{MATH1026}"
+Run 22,I don't have the answer.
+Run 23,I don't have the answer.
+Run 24,"I don't have the answer.
+
+The documentation shows that MATH1014 Mathematics 1A is a 10-credit point subject, and MATH1016 Mathematics for Engineers 1 has 10 CPs (credit points) as indicated in the Incompatible section. However, the documentation doesn't explicitly state which subjects have credit point restrictions (meaning requirements or limitations on credit points that students must meet to enroll in those subjects). The enrollment rules section mentions order requirements for taking subjects, but it doesn't specify credit point restrictions for any particular subject."
+Run 25,I don't have the answer.
+Run 26,I don't have the answer.
+Run 27,I don't have the answer.
+Run 28,"After carefully reviewing the provided documentation, I do not find any explicit statement about which subjects have credit point restrictions. The document mentions credit points for specific subjects (e.g., MATH1014 has 10 credit points, and MATH1016 has 10 credit points in the prerequisites section), but it does not specify which subjects have credit point restrictions (i.e., requirements that students must meet in terms of credit points before enrolling).
+
+The documentation discusses subject order constraints (e.g., students cannot take lower-level subjects after completing high-level ones) but does not explicitly define credit point restrictions for any subject. Therefore, the answer to the question ""Which subjects have credit point restriction?"" is not present in the provided documentation.
+
+I don't have the answer."
+Run 29,"The documentation provided does not explicitly state which subjects have ""credit point restrictions"" as a defined term. However, the enrollment rules section indicates that **MATH1014 (Mathematics 1A)** has prerequisites that students must complete before enrolling. Specifically, the rules state: ""Students may take MATH1026 Quantitative Thinking or MATH1001 Analysis of Change BEFORE MATH1014 Mathematics 1A."" This implies that MATH1014 has a credit point-related restriction in the sense that it requires prior completion of other subjects (MATH1001 or MATH1026) to be enrolled, which is a form of credit point dependency.
+
+No other subjects in the documentation are explicitly described as having such restrictions. Therefore, based on the given information, **MATH1014** is the subject that has a credit point restriction (prerequisite requirement).
+
+**Final Answer**: MATH1014"
+Run 30,I don't have the answer.
