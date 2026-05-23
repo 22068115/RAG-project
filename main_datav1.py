@@ -1,8 +1,9 @@
 import ollama
 import csv
-from data import cos_collection
+from data_manual_chunking import cos_collection
 
-question =  "		Do I need to give a presentation in Project Management?    "
+
+question = "What are the learning outcomes of Thinking About Data?"
 
 response = ollama.embed(
     model="nomic-embed-text-v2-moe",
@@ -23,7 +24,18 @@ for i in range(len(results["metadatas"][0])):
     print("Cosine similarity:", similarity)
     print()
 
-data = "\n\n".join(results["documents"][0])
+data = results["documents"][0][0]
+
+csv_path = r"C:\Users\lon09\New folder\output12b.csv"
+
+old_rows = []
+
+with open(csv_path, "r", newline="", encoding="utf-8") as csvfile:
+    csvreader = csv.reader(csvfile)
+
+    for row in csvreader:
+        old_rows.append(row)
+
 
 result = {}
 
@@ -42,11 +54,13 @@ Respond to this prompt:
 
     result[f"Run {i+1}"] = output["response"]
 
- 
 
-with open(r"C:\Users\lon09\New folder\Indirectq2.csv", "w", newline="", encoding="utf-8") as csvfile:
+for i in range(10):
+    old_rows[i].append(result[f"Run {i+1}"])
+
+
+with open(csv_path, "w", newline="", encoding="utf-8") as csvfile:
     csvwriter = csv.writer(csvfile)
 
-    for row in result.items():
+    for row in old_rows:
         csvwriter.writerow(row)
-

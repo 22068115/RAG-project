@@ -1,64 +1,311 @@
-Run 1,I don't have the answer.
-Run 2,"I don't have the answer. 
+Run time,Result for non chunking,Result for equal chunking,Result for manual chunking overlap,Result for LangChain,Result for LangChain overlap,Answer
+Run 1,"Based on the information provided in the text, the question ""Which subjects have prerequisites?"" is addressed as follows:
 
-The provided documentation only shows information about NATS1019 - Scientific Literacy (2026 version) and specifically lists an equivalent subject (NATS1020) under the ""Requisites"" section, but it doesn't contain comprehensive information about which subjects have prerequisites across the university's offerings. The documentation doesn't provide a list of subjects and their prerequisite requirements."
-Run 3,"I don't have the answer.
+- The text explicitly states for MATH1001, MATH1002, and MATH1003 that ""Prerequisites: This subject has no prerequisites."" This indicates that these three subjects do not have any prerequisites.
+- For the other subjects (MATH1004 through MATH1017), the text only mentions ""Requisites: Incompatible: MATH2004 (10 CPs)"" for each. This refers to incompatibilities (courses that cannot be taken together) but does not specify any prerequisites for these subjects. The phrase ""Requisites"" here is used in the context of incompatibilities, not prerequisites.
+- The text does not provide any information about which subjects have prerequisites (i.e., courses that require other courses to be completed first). There is no mention of prerequisites for any subject beyond the explicit statement that MATH1001, MATH1002, and MATH1003 have none.
 
-The provided documentation only shows information about NATS1019 - Scientific Literacy (2026 version) and its equivalent subject (NATS1020), but it does not contain any information about which subjects have prerequisites. The documentation is specifically for this subject and doesn't list prerequisites for any subject in the system."
-Run 4,I don't have the answer.
-Run 5,I don't have the answer.
-Run 6,"I don't have the answer.
+Therefore, based solely on the provided information, **none of the subjects have prerequisites specified**. The text does not identify any subjects that require prerequisites to be taken first.
 
-The provided documentation only shows details about NATS1019 - Scientific Literacy (2026 version), including its overview, learning outcomes, requisites (which show equivalent subjects), offerings, and assessments. The documentation does not contain information about which subjects have prerequisites. The ""Requisites"" section only shows equivalent subjects (NATS1020) but does not list prerequisites for any subject."
-Run 7,I don't have the answer.
-Run 8,"I don't have the answer.
+**Final Answer**: None.","After carefully reviewing the provided documentation, it is clear that the subject with a prerequisite (specifically a co-requisite) is **COMP1013 (Data Science)**. The documentation explicitly states under the ""Requisites"" section: ""Co-requisite: COMP3032 10 CPs Machine Learning."" This indicates that COMP1013 (Data Science) requires COMP3032 (Machine Learning) as a co-requisite. 
 
-The provided documentation shows information about NATS1019 - Scientific Literacy (2026 version), including its overview, learning outcomes, requisites (which shows NATS1020 as an equivalent subject), offerings, and assessments. However, there is no information in the documentation that specifies which subjects have prerequisites. The ""Requisites"" section only shows an equivalent subject (NATS1020) but does not list prerequisites for any subject."
-Run 9,"I don't have the answer.
+The context of the documentation further supports this conclusion, as COMP1013 is described with detailed offerings (e.g., ""Applies to all offerings"" for Autumn and Spring semesters) and learning outcomes. Additionally, the mention of ""Students must be enrolled in 3769 Bachelor of Data Science"" aligns with COMP1013 being part of this program.
 
-The provided documentation shows information about NATS1019 - Scientific Literacy, including its overview, learning outcomes, offerings, and assessments. However, it does not contain any information about which subjects have prerequisites for this subject or any other subjects. The ""Requisites"" section only shows NATS1020 as an equivalent subject (10 CPs), not as a prerequisite. There is no explicit information about prerequisites in the documentation."
-Run 10,I don't have the answer.
-Run 11,I don't have the answer.
-Run 12,I don't have the answer.
-Run 13,"I don't have the answer. 
+While the documentation does not explicitly state the subject name for the co-requisite, the context and structure of the information strongly indicate that **COMP1013 (Data Science)** is the subject with the prerequisite.
 
-The provided documentation shows details about NATS1019 - Scientific Literacy (2026 version) but does not contain information about which subjects have prerequisites. The documentation includes a ""Requisites"" section that shows equivalent subjects (NATS1020), but this does not indicate prerequisites for any subject. The documentation does not list prerequisites for NATS1019 or any other subjects."
-Run 14,"I don't have the answer.
+\boxed{COMP1013}","Based on the provided documentation, the subject that has a prerequisite is **MATH1006 (Discrete Mathematics)**. The documentation indicates that MATH1006 has a prerequisite of MATH2004 (Discrete Structures and Complexity). 
 
-The provided documentation only shows information about NATS1019 - Scientific Literacy (2026 version) and doesn't contain any information about which subjects have prerequisites. The documentation mentions an equivalent subject (NATS1020) but doesn't list any prerequisites for subjects. The documentation is focused on this specific subject and doesn't provide a comprehensive list of subjects with their prerequisites."
-Run 15,"I don't have the answer.
+This information is derived from the ""Requisites"" section of the documentation, which lists MATH2004 as a prerequisite under the context of MATH1006.
 
-The provided documentation shows information about NATS1019 (Scientific Literacy) but doesn't explicitly state which subjects have prerequisites. The ""Requisites"" section only shows that NATS1020 is equivalent to Scientific Literacy (WSTC) with 10 CPs, but it doesn't indicate which subjects have prerequisites for NATS1019 or other subjects. The documentation doesn't provide a comprehensive list of prerequisites for any subjects."
-Run 16,"I don't have the answer.
+**Final Answer**: MATH1006 (Discrete Mathematics)",I don't have the answer.,"Based on the provided documentation, the only subject with prerequisites mentioned is COMP3002 (Applications of Big Data). The documentation specifies in the ""Requisites"" section that COMP3002 has prerequisites: either COMP1013 (Analytics Programming) or COMP1005 (Programming Fundamentals), each worth 10 credit points.
 
-The provided documentation shows information about NATS1019 - Scientific Literacy (2026 version), including its equivalent subject (NATS1020), but it doesn't contain any information about which subjects have prerequisites. The documentation specifically lists ""Requisites"" for NATS1019 as having an equivalent subject (NATS1020), but this is not the same as prerequisites. There is no section in the documentation that identifies subjects with prerequisites."
-Run 17,"I don't have the answer.
+This information is found in the ""Requisites"" section which states:
+```
+Pre-requisite
 
-The provided documentation only shows information about NATS1019 - Scientific Literacy (2026 version) and indicates that NATS1020 is an equivalent subject (10 CPs), but it doesn't list any prerequisites for this subject or any other subjects that have prerequisites. The documentation shows a ""Requisites"" section with ""Equivalent"" listed, but doesn't provide information about which subjects have prerequisites."
-Run 18,I don't have the answer.
-Run 19,I don't have the answer.
-Run 20,"I don't have the answer. 
+arrow_forward
+COMP1013
+10 CPs
+Analytics Programming
+OR
+arrow_forward
+COMP1005
+10 CPs
+Programming Fundamentals
+```
 
-The provided documentation shows information about NATS1019 - Scientific Literacy (2026 version), including its equivalent subject NATS1020 (10 CPs), but it doesn't list any prerequisites for this subject or information about which subjects have prerequisites. The documentation only shows ""Requisites"" with an equivalent subject, not actual prerequisites that students must complete before taking the subject."
-Run 21,I don't have the answer.
-Run 22,I don't have the answer.
-Run 23,"I don't have the answer.
+The documentation does not mention any other subjects with prerequisites.","COMP3002 – Applications of Big Data ,COMP3020 – Social Web Analytics ,COMP3032 – Machine Learning ,MATH3011 –  Probabilistic Models and Inference ,INFO3019 – Project Management "
+Run 2,"The user provided a list of subjects: NAT101 (Natural Science), NAT102 (Natural Science), and MATH1006 (Discrete Mathematics). However, the text does not include any information about prerequisites for these subjects. The question asks which subjects have prerequisites, but the provided context does not specify any prerequisites for any of the listed subjects.
 
-The provided documentation only shows information about NATS1019 - Scientific Literacy (2026 version), including its equivalent subject NATS1020 (10 CPs), but it doesn't contain information about which subjects have prerequisites across the university. The documentation is specifically for this one subject and doesn't provide a list of subjects with their prerequisites."
-Run 24,"I don't have the answer.
+Therefore, based on the information given, none of the subjects have prerequisites listed in the provided text.
 
-The provided documentation shows information about NATS1019 - Scientific Literacy (2026 version), including its equivalent subject NATS1020 (Scientific Literacy), but it does not contain information about which subjects have prerequisites. The documentation mentions ""Requisites"" but only shows equivalent subjects, not prerequisites for any subject."
-Run 25,"I don't have the answer.
+\boxed{None}","Based on the provided documentation, I can see that there is information about a subject with a co-requisite. Specifically, under the ""Requisites"" section, it states:
 
-The provided documentation only shows details about NATS1019 - Scientific Literacy subject and mentions that NATS1020 is an equivalent subject (10 CPs), but it doesn't list any prerequisites for this subject or information about which subjects have prerequisites. The documentation doesn't contain information about prerequisites for any subjects."
-Run 26,I don't have the answer.
-Run 27,"I don't have the answer.
+""Co-requisite keyboard_arrow_down arrow_forward COMP3032 10 CPs Machine Learning""
 
-The provided documentation only shows information about NATS1019 - Scientific Literacy (2026 version), including its overview, learning outcomes, requisites (which shows NATS1020 as an equivalent subject), offerings, and assessments. The documentation does not contain information about which subjects have prerequisites for any courses. The prompt asks about which subjects have prerequisites, but this information is not present in the provided documentation."
-Run 28,"I don't have the answer.
+This indicates that COMP3032 (Machine Learning) is a co-requisite for the subject that appears to be COMP1013 (based on the context of the learning outcomes describing R programming, data science tasks, etc.). 
 
-The provided documentation shows information about NATS1019 - Scientific Literacy (2026 version), including its overview, learning outcomes, requisites, offerings, and assessments. The ""Requisites"" section indicates that NATS1020 is equivalent to this subject (10 CPs, Scientific Literacy (WSTC)), but it doesn't list any prerequisites for NATS1019 or any other subjects. The documentation doesn't contain information about which subjects have prerequisites."
-Run 29,I don't have the answer.
-Run 30,"I don't have the answer.
+The documentation does not explicitly state traditional prerequisites (subjects that must be completed before taking the subject) for any subject, but it does show that COMP1013 has a co-requisite (which is a type of prerequisite).
 
-The provided documentation only shows information about NATS1019 - Scientific Literacy (the 2026 version) and does not contain information about which subjects have prerequisites. The documentation mentions ""Requisites"" but only shows that NATS1020 is an equivalent subject (10 CPs) for Scientific Literacy, not that NATS1019 has prerequisites or which other subjects have prerequisites. The documentation doesn't provide a list of subjects with their respective prerequisites."
+Therefore, the subject with prerequisites (co-requisites) is COMP1013.","I need to find which subjects have prerequisites in the provided documentation.
+
+Looking through the documentation, I found the following information under ""Requisites"" for MATH1006:
+
+```
+Requisites Collapse all Incompatible keyboard_arrow_down arrow_forward MATH2004 10 CPs Discrete Structures and Complexity
+```
+
+This clearly indicates that MATH1006 (Discrete Mathematics) has a prerequisite of MATH2004 (Discrete Structures and Complexity).
+
+I don't see any other subjects with specific prerequisites mentioned in the documentation.
+
+Therefore, the answer is: MATH1006 has a prerequisite of MATH2004.",I don't have the answer.,"Based on the provided documentation, there is a section labeled ""Requisites"" that lists prerequisites. Specifically, it states:
+
+```
+Pre-requisite
+
+keyboard_arrow_forward
+COMP1013
+10 CPs
+Analytics Programming
+OR
+keyboard_arrow_forward
+COMP1005
+10 CPs
+Programming Fundamentals
+```
+
+This information indicates that a subject has prerequisites (either COMP1013 or COMP1005), but the documentation does not explicitly state which subject these prerequisites apply to. While the context of the course offerings (e.g., COMP3002 being offered in multiple locations and terms) suggests that this prerequisite list is likely for COMP3002, the documentation does not explicitly confirm this.
+
+Given the instructions to state ""I don't have the answer"" if the answer is not in the documentation, I must conclude that the documentation does not explicitly identify which subject has these prerequisites. Therefore, the answer is:
+
+I don't have the answer.","COMP3002 – Applications of Big Data ,COMP3020 – Social Web Analytics ,COMP3032 – Machine Learning ,MATH3011 –  Probabilistic Models and Inference ,INFO3019 – Project Management "
+Run 3,"The question asks which subjects have prerequisites. From the provided text, it is specified that:
+
+- **MATH1006 - Discrete Mathematics** has a prerequisite listed as **MATH2004 - Discrete Structures and Complexity**.
+
+This is indicated in the ""Requisites"" section of the subject details, which states:  
+""Requisites: Incompatible: MATH2004 10 CPs Discrete Structures and Complexity"".
+
+In academic contexts, the term ""Requisites"" typically refers to the prerequisites that must be completed before enrolling in a subject. Therefore, **MATH1006** is the subject with a prerequisite.
+
+No other subjects in the provided text are explicitly stated to have prerequisites.
+
+Thus, the final answer is:
+
+$$
+\boxed{MATH1006}
+$$","Based on the provided documentation, I can see that COMP1013 has a prerequisite (specifically a co-requisite) of COMP3032 (10 CPs, Machine Learning). This information appears in the ""Requisites"" section under the COMP1013 subject.
+
+The documentation states: ""Co-requisite keyboard_arrow_down arrow_forward COMP3032 10 CPs Machine Learning""
+
+Therefore, the subject that has prerequisites is COMP1013.
+
+COMP1013",I don't have the answer.,I don't have the answer.,"Based on the provided documentation, the only subject with prerequisites mentioned is COMP3002. 
+
+The documentation states under ""Requisites"" > ""Pre-requisite"":
+
+```
+Pre-requisite
+
+arrow_forward
+COMP1013
+10 CPs
+Analytics Programming
+OR
+arrow_forward
+COMP1005
+10 CPs
+Programming Fundamentals
+```
+
+This indicates that COMP3002 has prerequisites: either COMP1013 (Analytics Programming) or COMP1005 (Programming Fundamentals).
+
+I don't see any other subjects with explicitly stated prerequisites in the documentation.","COMP3002 – Applications of Big Data ,COMP3020 – Social Web Analytics ,COMP3032 – Machine Learning ,MATH3011 –  Probabilistic Models and Inference ,INFO3019 – Project Management "
+Run 4,"The question asks which subjects have prerequisites based on the provided text. After carefully reviewing the text, the only subject with a clear prerequisite listed is **MATH1006 (Discrete Mathematics)**. The ""Requisites"" section for this subject explicitly mentions **MATH2004 (Discrete Structures and Complexity)** as an incompatible subject, which in this context implies that MATH2004 is a prerequisite for MATH1006. 
+
+While the term ""incompatible"" might suggest overlap or timing conflicts, in the context of university course structures, this phrasing often indicates a prerequisite relationship. No other subjects in the provided text are explicitly stated to have prerequisites.
+
+Thus, the subject that has a prerequisite is:
+
+$$
+\boxed{MATH1006}
+$$","Based on the provided documentation, the only subject that has a prerequisite requirement (specifically a co-requisite) is **COMP1013**. The documentation states: ""Requisites Collapse all Co-requisite keyboard_arrow_forward COMP3032 10 CPs Machine Learning"". This indicates that COMP1013 requires COMP3032 as a co-requisite. 
+
+While the term ""prerequisites"" typically refers to subjects that must be completed before taking the subject (in academic contexts), the documentation uses the broader term ""Requisites"" to include co-requisites. Given the question's context and the information provided, COMP1013 is the subject that has prerequisites (in the broader sense).
+
+No other subjects (such as NATS1019) are mentioned with prerequisite requirements in the documentation.
+
+**Final Answer: COMP1013**",I don't have the answer.,"Subject 2026 has prerequisites. This is indicated by the presence of a ""Requisites"" section in the documentation for subject 2026. However, the documentation does not provide a complete list of all subjects with prerequisites, so this is the only subject explicitly identified with prerequisites in the given information. 
+
+Note: The documentation does not specify what the prerequisites are for subject 2026, only that a Requisites section exists. The question asks for ""which subjects"" (plural), but the documentation only confirms one subject with prerequisites. Therefore, the answer is limited to this subject based on the provided information.","Based on the provided documentation, I can see that COMP3002 has prerequisites. Specifically, under the ""Requisites"" section, it states:
+
+```
+Pre-requisite
+
+keyboard_arrow_down
+arrow_forward
+COMP1013
+10 CPs
+Analytics Programming
+OR
+arrow_forward
+COMP1005
+10 CPs
+Programming Fundamentals
+```
+
+This indicates that COMP3002 requires students to have completed either COMP1013 (Analytics Programming) or COMP1005 (Programming Fundamentals) as prerequisites.
+
+Therefore, the subject with prerequisites is COMP3002.","COMP3002 – Applications of Big Data ,COMP3020 – Social Web Analytics ,COMP3032 – Machine Learning ,MATH3011 –  Probabilistic Models and Inference ,INFO3019 – Project Management "
+Run 5,"After carefully reviewing the information provided, I can determine that none of the subjects explicitly have prerequisites listed in the information given. 
+
+The only subject with a ""Requisites"" section mentioned is MATH1006 (Discrete Mathematics), which states ""Incompatible with MATH2004"". This indicates that MATH1006 and MATH2004 cannot be taken simultaneously, but it does not mean that MATH2004 is a prerequisite for MATH1006. In fact, ""incompatible"" refers to a conflict between subjects, not a prerequisite relationship.
+
+In university course systems, prerequisites are subjects that must be completed before taking another subject, while ""incompatible"" means you cannot take both subjects at the same time (they might have conflicting content or assessments). The information provided does not list any actual prerequisites for any subject.
+
+Therefore, based on the information provided, none of the subjects have prerequisites listed.","Based on the provided documentation, I can see that COMP1013 has prerequisites. Specifically, it has a co-requisite of COMP3032 (10 CPs, Machine Learning).
+
+The documentation states under ""Requisites"" for COMP1013:
+""Co-requisite keyboard_arrow_down arrow_forward COMP3032 10 CPs Machine Learning""
+
+This indicates that COMP1013 requires COMP3032 as a co-requisite (a type of prerequisite relationship).
+
+No other subjects with clear prerequisites are mentioned in the documentation.
+
+So the answer is: COMP1013 (with a co-requisite of COMP3032)",I don't have the answer.,I don't have the answer.,"The documentation explicitly lists the following under ""Requisites"" with a ""Pre-requisite"" section:
+
+```
+Pre-requisite
+
+keyboard_arrow_forward
+COMP1013
+10 CPs
+Analytics Programming
+OR
+keyboard_arrow_forward
+COMP1005
+10 CPs
+Programming Fundamentals
+```
+
+This section indicates that the subject has prerequisites: either **COMP1013 (Analytics Programming)** or **COMP1005 (Programming Fundamentals)**. 
+
+Given the context of the document and the fact that **COMP3002 (Applications of Big Data)** is listed in the ""Offerings"" section with 80 credit points, it is reasonable to infer that these prerequisites apply to **COMP3002**. The documentation does not explicitly state which subject has these prerequisites, but the context strongly suggests that **COMP3002** is the subject in question.
+
+Thus, the subject that has prerequisites is **COMP3002**.
+
+\boxed{COMP3002}","COMP3002 – Applications of Big Data ,COMP3020 – Social Web Analytics ,COMP3032 – Machine Learning ,MATH3011 –  Probabilistic Models and Inference ,INFO3019 – Project Management "
+Run 6,"After carefully reviewing the provided text, I cannot identify any subjects that have prerequisites explicitly listed. The text describes a list of subjects with their descriptions, but it does not include any section specifying prerequisites for any of the subjects. 
+
+Specifically, the text mentions a ""Requisites"" section for ""MATH1006 - Discrete Mathematics"" that states ""Incompatible: MATH2004 (10 CPs) - Discrete Structures and Complexity."" However, this indicates incompatibility (subjects that cannot be taken together), not prerequisites (subjects that must be completed first). In academic contexts, prerequisites are typically listed as ""Prerequisites: [list of subjects]"" in the documentation, but the provided text does not contain this information for any subject.
+
+Therefore, based on the information provided, **none of the subjects have prerequisites explicitly listed**.
+
+**Final Answer**: None of the subjects have prerequisites explicitly listed in the provided text.","Based on the provided documentation, I can see that COMP1013 has a prerequisite (specifically a co-requisite) of COMP3032 (10 CPs, Machine Learning). This information appears in the ""Requisites"" section under the COMP1013 subject.
+
+The documentation states: ""Co-requisite keyboard_arrow_down arrow_forward COMP3032 10 CPs Machine Learning""
+
+Therefore, the subject that has prerequisites is COMP1013.
+
+COMP1013
+","Based on the provided documentation, I can identify that MATH1006 (Discrete Mathematics) has a prerequisite of MATH2004 (Discrete Structures and Complexity). 
+
+This is indicated in the ""Requisites"" section where it states: ""Incompatible keyboard_arrow_down arrow_forward MATH2004 10 CPs Discrete Structures and Complexity"". In academic contexts, when a subject is listed as incompatible with another, it typically means that one subject is a prerequisite for the other. Here, this suggests that MATH2004 is a prerequisite for MATH1006.
+
+The documentation does not explicitly state prerequisites for any other subjects. While there is information about assumed knowledge for admission (HSC Mathematics Advanced and any two units of HSC English), this is not about prerequisites for specific subjects.
+
+Therefore, the only subject with a prerequisite mentioned in the documentation is MATH1006 (Discrete Mathematics), which requires MATH2004 (Discrete Structures and Complexity) as a prerequisite.",I don't have the answer.,"Based on the provided documentation, I can see that there is one subject with prerequisites listed. In the ""Requisites"" section under ""Pre-requisite"", it states:
+
+```
+Pre-requisite
+
+arrow_forward
+COMP1013
+10 CPs
+Analytics Programming
+OR
+arrow_forward
+COMP1005
+10 CPs
+Programming Fundamentals
+```
+
+This indicates that COMP3002 (Applications of Big Data) has prerequisites: either COMP1013 (Analytics Programming) or COMP1005 (Programming Fundamentals).
+
+Therefore, the subject with prerequisites is COMP3002 (Applications of Big Data).","COMP3002 – Applications of Big Data ,COMP3020 – Social Web Analytics ,COMP3032 – Machine Learning ,MATH3011 –  Probabilistic Models and Inference ,INFO3019 – Project Management "
+Run 7,"After carefully reviewing the provided information, I can identify which subjects have prerequisites listed.
+
+The information shows that for MATH1006 (Discrete Mathematics) and MATH1014 (Discrete Mathematics), there's a ""Requisites"" section that lists ""Incompatible"" with MATH2004 (Discrete Structures and Complexity). 
+
+In academic contexts, when a subject is listed as incompatible with another subject, it typically indicates that the subject is a prerequisite for the other subject. This means that MATH2004 is a prerequisite for both MATH1006 and MATH1014.
+
+Therefore, the subjects that have prerequisites listed in the provided information are:
+
+- MATH1006 (Discrete Mathematics) - prerequisite: MATH2004
+- MATH1014 (Discrete Mathematics) - prerequisite: MATH2004
+
+These are the only subjects in the provided information that have prerequisites listed.","I don't have the answer.
+
+The documentation shows that there is a co-requisite of COMP3032 (10 CPs - Machine Learning) for a subject, but it doesn't explicitly state which subject has prerequisites. The documentation mentions ""Requisites Collapse all Co-requisite keyboard_arrow_down arrow_forward COMP3032 10 CPs Machine Learning"" but doesn't clearly identify the subject that has this prerequisite. The documentation describes COMP1013 (Data Science) but doesn't explicitly state that COMP1013 has prerequisites - it only shows a co-requisite relationship. The question asks for ""prerequisites"" (courses that must be completed before taking a course), but the documentation only shows a co-requisite relationship (courses that must be taken simultaneously), and doesn't clearly identify which subject has prerequisites.",I don't have the answer.,I don't have the answer.,"Based on the provided documentation, the only subject that has prerequisites mentioned is COMP3002. The documentation shows under the ""Requisites"" section that COMP3002 has prerequisites of either:
+
+- COMP1013 (Analytics Programming) - 10 credit points
+- OR
+- COMP1005 (Programming Fundamentals) - 10 credit points
+
+No other subjects with prerequisites are explicitly mentioned in the documentation.
+
+COMP3002","COMP3002 – Applications of Big Data ,COMP3020 – Social Web Analytics ,COMP3032 – Machine Learning ,MATH3011 –  Probabilistic Models and Inference ,INFO3019 – Project Management "
+Run 8,"After carefully reviewing the provided course information, I can see that none of the subjects have prerequisites listed in the text. The information shows ""Requisites"" sections that indicate incompatible subjects (like ""Incompatible with MATH2004"" for MATH1006 and MATH1014), but this refers to courses that cannot be taken together, not prerequisites (courses that must be completed before taking another course).
+
+The text does not mention any subjects that have prerequisites listed as required courses. The ""Special Requirements"" section for MATH1014 mentions attendance requirements but does not list prerequisites.
+
+Therefore, based on the provided information, **none of the subjects have prerequisites listed**.",I don't have the answer.,I don't have the answer.,I don't have the answer.,"Based on the provided documentation, the only subject with prerequisites mentioned is COMP3002 (Applications of Big Data). The prerequisites are stated in the ""Requisites"" section as:
+
+- COMP1013 (Analytics Programming) - 10 CPs
+- OR
+- COMP1005 (Programming Fundamentals) - 10 CPs
+
+This information appears in the ""Pre-requisite"" section of the Requisites documentation.","COMP3002 – Applications of Big Data ,COMP3020 – Social Web Analytics ,COMP3032 – Machine Learning ,MATH3011 –  Probabilistic Models and Inference ,INFO3019 – Project Management "
+Run 9,"After carefully reviewing the provided text, I assessed which subjects explicitly state that they have prerequisites. The text includes a section for **MATH1006 (Discrete Mathematics)** with a ""Requisites"" subsection that lists **MATH2004 (Discrete Structures)** under the heading **""Incompatible""**. 
+
+This indicates that MATH1006 is **incompatible** with MATH2004, meaning the two subjects cannot be taken together. However, the term ""Incompatible"" explicitly clarifies that this is **not** a prerequisite relationship. In educational contexts, ""requisites"" typically refers to prerequisites, but here it is specifically labeled as ""Incompatible,"" which means the relationship is one of conflict, not dependency.
+
+No other subject in the provided text lists any prerequisites. Therefore, **none** of the subjects have prerequisites explicitly stated in the provided text.
+
+$$
+\boxed{None}
+$$",I don't have the answer.,I don't have the answer.,I don't have the answer.,"Based on the provided documentation, there is a ""Pre-requisite"" section that lists COMP1013 (Analytics Programming) and COMP1005 (Programming Fundamentals) as required prerequisites. While the documentation does not explicitly state which specific subject these prerequisites apply to, the context of the program structure indicates that these prerequisites are most likely for **COMP3002 (Applications of Big Data)**. 
+
+This conclusion is supported by:
+1. COMP3002 being listed in the ""Elective Subjects"" section with 80 Credit Points.
+2. The nature of the subject (Applications of Big Data) requiring foundational programming knowledge, aligning with the prerequisites listed (COMP1013 and COMP1005).
+
+Therefore, the subject with prerequisites is **COMP3002 (Applications of Big Data)**, requiring students to complete either COMP1013 or COMP1005.","COMP3002 – Applications of Big Data ,COMP3020 – Social Web Analytics ,COMP3032 – Machine Learning ,MATH3011 –  Probabilistic Models and Inference ,INFO3019 – Project Management "
+Run 10,"Based on the information provided in the prompt, the subject that has a prerequisite listed is **MATH1006 (Discrete Mathematics)**. 
+
+The prompt shows that MATH1006 has a ""Requisites"" section indicating it is incompatible with MATH2004 (Discrete Structures and Complexity). In academic systems, this typically implies that MATH2004 is a prerequisite for MATH1006, meaning students must complete MATH2004 before enrolling in MATH1006. 
+
+The other subjects (MATH1014 and NATS1006) do not have a ""Requisites"" section explicitly listed in the prompt, so no prerequisites are identified for them.
+
+**Final Answer:** MATH1006 (Discrete Mathematics) has a prerequisite.",I don't have the answer.,I don't have the answer.,I don't have the answer.,"Based on the provided documentation, I can see that COMP3002 (Applications of Big Data) has prerequisites. 
+
+In the ""Requisites"" section under ""Pre-requisite"", it states:
+
+```
+Pre-requisite
+
+arrow_forward
+COMP1013
+10 CPs
+Analytics Programming
+OR
+arrow_forward
+COMP1005
+10 CPs
+Programming Fundamentals
+```
+
+So COMP3002 has prerequisites: either COMP1013 (Analytics Programming) or COMP1005 (Programming Fundamentals).
+
+This information appears in the documentation for COMP3002 offerings across different locations and terms.","COMP3002 – Applications of Big Data ,COMP3020 – Social Web Analytics ,COMP3032 – Machine Learning ,MATH3011 –  Probabilistic Models and Inference ,INFO3019 – Project Management "

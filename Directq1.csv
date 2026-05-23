@@ -1,3 +1,4 @@
+Run time,Result for non chunking,Result for equal chunking,Result for manual chunking overlap,Result for LangChain,Result for LangChain overlap,Answer
 Run 1,"Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
 
 1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
@@ -6,7 +7,36 @@ Run 1,"Based on the provided documentation, the learning outcomes of Thinking Ab
 
 3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
 
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
+4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.","Based on the provided documentation, the learning outcomes for Thinking About Data (COMP1014) are:
+
+""Upon completion of this subject, graduates will be able to: 1. Describe different types of data with reference""
+
+The documentation only shows this one learning outcome, which appears to be incomplete (cut off at ""with reference"").","Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
+
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
+4. Examine relationships between variables.","Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
+
+1. Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+
+2. Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+
+3. Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.","Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
+
+1. Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+
+2. Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+
+3. Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.
+
+These are listed as learning outcomes 4, 5, and 6 in the documentation.","Upon completion of this program, graduates will be able to:
+1.Select appropriate techniques for extracting, modelling, predicting, visualising, and managing data in practical scenarios, drawing on statistics, mathematics, and computer science approaches.
+2.Use data ethically and responsibly to provide information and advice that is reliable, valid, timely, innovative and relevant for their chosen specialty.
+3.Communicate effectively to diverse audiences the findings of data analyses which integrates computational, statistical, and machine learning methods, programming tools, and critical evaluation to ensure integrity, validity and quality assurance.
+4.Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+5.Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+6.Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science."
 Run 2,"Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
 
 1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
@@ -15,7 +45,36 @@ Run 2,"Based on the provided documentation, the learning outcomes of Thinking Ab
 
 3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
 
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
+4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.","Based on the provided documentation, the learning outcomes for Thinking About Data (COMP1014) are:
+
+""Upon completion of this subject, graduates will be able to: 1. Describe different types of data with reference""
+
+The documentation shows this as the first learning outcome but appears to be cut off (the phrase ""with reference"" is incomplete). The documentation does not provide additional learning outcomes beyond this point.","Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
+
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
+4. Examine relationships between variables","Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
+
+1. Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+
+2. Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+
+3. Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.
+
+These outcomes are clearly listed in the documentation under the ""Learning Outcomes"" section for the 2026 version of COMP1014.","Based on the provided documentation for COMP1014 - Thinking About Data, the learning outcomes are:
+
+4. Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+
+5. Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+
+6. Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.","Upon completion of this program, graduates will be able to:
+1.Select appropriate techniques for extracting, modelling, predicting, visualising, and managing data in practical scenarios, drawing on statistics, mathematics, and computer science approaches.
+2.Use data ethically and responsibly to provide information and advice that is reliable, valid, timely, innovative and relevant for their chosen specialty.
+3.Communicate effectively to diverse audiences the findings of data analyses which integrates computational, statistical, and machine learning methods, programming tools, and critical evaluation to ensure integrity, validity and quality assurance.
+4.Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+5.Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+6.Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science."
 Run 3,"Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
 
 1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
@@ -24,7 +83,36 @@ Run 3,"Based on the provided documentation, the learning outcomes of Thinking Ab
 
 3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
 
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
+4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.","Based on the provided documentation, the learning outcomes for Thinking About Data (COMP1014) are listed as: ""Upon completion of this subject, graduates will be able to: 1. Describe different types of data with reference""
+
+The documentation shows this is the first learning outcome but appears to be cut off (it says ""with reference"" without completing the phrase). The documentation does not provide any additional learning outcomes beyond this incomplete statement.","Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
+
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
+4. Examine relationships between variables","Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
+
+1. Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+
+2. Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+
+3. Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.
+
+These are listed in the documentation as points 4, 5, and 6 under the ""Learning Outcomes"" section for the COMP1014 subject.","Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
+
+4. Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+
+5. Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+
+6. Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.
+
+These are the specific learning outcomes listed in the documentation for this subject.","Upon completion of this program, graduates will be able to:
+1.Select appropriate techniques for extracting, modelling, predicting, visualising, and managing data in practical scenarios, drawing on statistics, mathematics, and computer science approaches.
+2.Use data ethically and responsibly to provide information and advice that is reliable, valid, timely, innovative and relevant for their chosen specialty.
+3.Communicate effectively to diverse audiences the findings of data analyses which integrates computational, statistical, and machine learning methods, programming tools, and critical evaluation to ensure integrity, validity and quality assurance.
+4.Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+5.Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+6.Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science."
 Run 4,"Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), the learning outcomes are:
 
 1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
@@ -33,7 +121,37 @@ Run 4,"Based on the provided documentation for COMP1014 - Thinking About Data (2
 
 3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
 
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
+4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.","Based on the provided documentation, the learning outcomes for Thinking About Data (COMP1014) are:
+
+Upon completion of this subject, graduates will be able to:
+1. Describe different types of data with reference
+
+This is the only learning outcome explicitly listed in the documentation.","Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
+
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
+4. Examine relationships between variables.","Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), the learning outcomes are:
+
+4. Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+
+5. Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+
+6. Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.","Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
+
+1. Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+
+2. Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+
+3. Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.
+
+These are listed as learning outcomes 4, 5, and 6 in the documentation.","Upon completion of this program, graduates will be able to:
+1.Select appropriate techniques for extracting, modelling, predicting, visualising, and managing data in practical scenarios, drawing on statistics, mathematics, and computer science approaches.
+2.Use data ethically and responsibly to provide information and advice that is reliable, valid, timely, innovative and relevant for their chosen specialty.
+3.Communicate effectively to diverse audiences the findings of data analyses which integrates computational, statistical, and machine learning methods, programming tools, and critical evaluation to ensure integrity, validity and quality assurance.
+4.Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+5.Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+6.Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science."
 Run 5,"Based on the provided documentation, the learning outcomes for Thinking About Data (COMP1014) are:
 
 1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
@@ -42,7 +160,36 @@ Run 5,"Based on the provided documentation, the learning outcomes for Thinking A
 
 3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
 
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
+4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.","Based on the provided documentation, the learning outcomes for Thinking About Data (COMP1014) are:
+
+Upon completion of this subject, graduates will be able to: 1. Describe different types of data with reference
+
+The documentation shows this as the first learning outcome, though the sentence appears to be cut off at ""with reference"".","Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
+
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
+4. Examine relationships between variables.","Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
+
+4. Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+
+5. Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+
+6. Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.
+
+These are the learning outcomes explicitly listed in the documentation for the 2026 version of the subject.","Based on the provided documentation for COMP1014 - Thinking About Data, the learning outcomes are:
+
+4. Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+
+5. Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+
+6. Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.","Upon completion of this program, graduates will be able to:
+1.Select appropriate techniques for extracting, modelling, predicting, visualising, and managing data in practical scenarios, drawing on statistics, mathematics, and computer science approaches.
+2.Use data ethically and responsibly to provide information and advice that is reliable, valid, timely, innovative and relevant for their chosen specialty.
+3.Communicate effectively to diverse audiences the findings of data analyses which integrates computational, statistical, and machine learning methods, programming tools, and critical evaluation to ensure integrity, validity and quality assurance.
+4.Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+5.Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+6.Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science."
 Run 6,"Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
 
 1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
@@ -51,12 +198,71 @@ Run 6,"Based on the provided documentation, the learning outcomes of Thinking Ab
 
 3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
 
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
+4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.","Upon completion of this subject, graduates will be able to: 1. Describe different types of data with reference","Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
+
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
+
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
+
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
+
+4. Examine relationships between variables","Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
+
+1. Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+
+2. Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+
+3. Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.
+
+These are the learning outcomes explicitly listed in the documentation under the ""Learning Outcomes"" section for the 2026 version of COMP1014.","Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), the learning outcomes are:
+
+4. Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+
+5. Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+
+6. Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.
+
+These are the three learning outcomes specified in the documentation for this subject.","Upon completion of this program, graduates will be able to:
+1.Select appropriate techniques for extracting, modelling, predicting, visualising, and managing data in practical scenarios, drawing on statistics, mathematics, and computer science approaches.
+2.Use data ethically and responsibly to provide information and advice that is reliable, valid, timely, innovative and relevant for their chosen specialty.
+3.Communicate effectively to diverse audiences the findings of data analyses which integrates computational, statistical, and machine learning methods, programming tools, and critical evaluation to ensure integrity, validity and quality assurance.
+4.Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+5.Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+6.Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science."
 Run 7,"Upon completion of this subject, graduates will be able to:
 1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
 2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
 3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
+4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.","Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
+
+Upon completion of this subject, graduates will be able to: 1. Describe different types of data with reference
+
+The documentation shows this is the only learning outcome explicitly listed, though it appears to be cut off at ""with reference"" in the text.","Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
+
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
+4. Examine relationships between variables","Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), the learning outcomes are:
+
+4. Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+
+5. Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+
+6. Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.","Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
+
+1. Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+
+2. Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+
+3. Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.
+
+These learning outcomes are explicitly listed in the documentation under the ""Learning Outcomes"" section for COMP1014.","Upon completion of this program, graduates will be able to:
+1.Select appropriate techniques for extracting, modelling, predicting, visualising, and managing data in practical scenarios, drawing on statistics, mathematics, and computer science approaches.
+2.Use data ethically and responsibly to provide information and advice that is reliable, valid, timely, innovative and relevant for their chosen specialty.
+3.Communicate effectively to diverse audiences the findings of data analyses which integrates computational, statistical, and machine learning methods, programming tools, and critical evaluation to ensure integrity, validity and quality assurance.
+4.Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+5.Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+6.Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science."
 Run 8,"Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
 
 1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
@@ -65,7 +271,34 @@ Run 8,"Based on the provided documentation, the learning outcomes of Thinking Ab
 
 3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
 
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
+4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.","According to the provided documentation, the learning outcomes for Thinking About Data (COMP1014) state that ""Upon completion of this subject, graduates will be able to: 1. Describe different types of data with reference""
+
+The documentation shows this as the first learning outcome, but appears to be cut off after ""with reference"" so the complete description isn't provided.","Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
+
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
+4. Examine relationships between variables.","Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
+
+1. Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+
+2. Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+
+3. Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.
+
+These three learning outcomes are explicitly listed in the documentation under the ""Learning Outcomes"" section for COMP1014 - Thinking About Data (2026 version).","Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
+
+1. Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+2. Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+3. Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.
+
+These are listed in the documentation as items 4, 5, and 6 under the ""Learning Outcomes"" section for COMP1014 - Thinking About Data (2026 version).","Upon completion of this program, graduates will be able to:
+1.Select appropriate techniques for extracting, modelling, predicting, visualising, and managing data in practical scenarios, drawing on statistics, mathematics, and computer science approaches.
+2.Use data ethically and responsibly to provide information and advice that is reliable, valid, timely, innovative and relevant for their chosen specialty.
+3.Communicate effectively to diverse audiences the findings of data analyses which integrates computational, statistical, and machine learning methods, programming tools, and critical evaluation to ensure integrity, validity and quality assurance.
+4.Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+5.Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+6.Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science."
 Run 9,"Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
 
 1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
@@ -74,7 +307,36 @@ Run 9,"Based on the provided documentation, the learning outcomes of Thinking Ab
 
 3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
 
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
+4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.","Based on the provided documentation, the learning outcomes for Thinking About Data (COMP1014) are:
+
+Upon completion of this subject, graduates will be able to: 1. Describe different types of data with reference
+
+The documentation shows only this first learning outcome is fully stated (the text appears to be cut off at ""with reference""). No additional learning outcomes are explicitly listed in the provided documentation.","Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
+
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
+4. Examine relationships between variables.","Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
+
+1. Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+
+2. Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+
+3. Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.
+
+These outcomes are listed in the documentation under the ""Learning Outcomes"" section as numbered 4, 5, and 6 (though the numbering appears to start from 4 in this document).","Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), the learning outcomes are:
+
+1. Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+
+2. Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+
+3. Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.","Upon completion of this program, graduates will be able to:
+1.Select appropriate techniques for extracting, modelling, predicting, visualising, and managing data in practical scenarios, drawing on statistics, mathematics, and computer science approaches.
+2.Use data ethically and responsibly to provide information and advice that is reliable, valid, timely, innovative and relevant for their chosen specialty.
+3.Communicate effectively to diverse audiences the findings of data analyses which integrates computational, statistical, and machine learning methods, programming tools, and critical evaluation to ensure integrity, validity and quality assurance.
+4.Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+5.Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+6.Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science."
 Run 10,"Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
 
 1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
@@ -83,184 +345,33 @@ Run 10,"Based on the provided documentation, the learning outcomes of Thinking A
 
 3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
 
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
-Run 11,"Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
+4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.","Based on the provided documentation, the learning outcomes for Thinking About Data (COMP1014) are:
 
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
+""Upon completion of this subject, graduates will be able to: 1. Describe different types of data with reference""
 
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
+This is the only learning outcome explicitly stated in the documentation. The documentation doesn't provide additional learning outcomes beyond this first point.","Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
 
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
-
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
-Run 12,"Based on the provided documentation, the learning outcomes for Thinking About Data (COMP1014) are:
-
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
-
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
-
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
-
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
-Run 13,"Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
-
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
-
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
-
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
-
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
-Run 14,"Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
-
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
-
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
-
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
-
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
-Run 15,"Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
-
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
-
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
-
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
-
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
-Run 16,"Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
-
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
-
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
-
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
-
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
-Run 17,"Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
-
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
-
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
-
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
-
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
-Run 18,"Based on the provided documentation for COMP1014 - Thinking About Data, the learning outcomes are:
-
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
-
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
-
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
-
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
-Run 19,"Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
-
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
-
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
-
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
-
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.
-
-These learning outcomes are clearly listed in the ""Learning Outcomes"" section of the documentation for COMP1014 - Thinking About Data (2026 version)."
-Run 20,"Upon completion of this subject, graduates will be able to:
 1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
 2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
 3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
-Run 21,"Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
+4. Examine relationships between variables.","Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
 
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
+4. Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
 
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
+5. Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
 
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
+6. Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.","Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), the learning outcomes are:
 
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
-Run 22,"Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
+1. Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
 
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
+2. Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
 
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
+3. Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.
 
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
-
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
-Run 23,"Upon completion of this subject, graduates will be able to:
-
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
-
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
-
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
-
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
-Run 24,"Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
-
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
-
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
-
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
-
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
-Run 25,"Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
-
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
-
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
-
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
-
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
-Run 26,"Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
-
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
-
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
-
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
-
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
-Run 27,"Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
-
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
-
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
-
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
-
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
-Run 28,"Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), the learning outcomes are:
-
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
-
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
-
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
-
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
-Run 29,"Based on the provided documentation for COMP1014 - Thinking About Data, the learning outcomes are:
-
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
-
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
-
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
-
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
-Run 30,"Based on the provided documentation, the learning outcomes of Thinking About Data (COMP1014) are:
-
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
-
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
-
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
-
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.
-
-These learning outcomes are labeled as SLO1, SLO2, SLO3, and SLO4 respectively in the documentation."
+These are listed as outcomes 4, 5, and 6 in the documentation.","Upon completion of this program, graduates will be able to:
+1.Select appropriate techniques for extracting, modelling, predicting, visualising, and managing data in practical scenarios, drawing on statistics, mathematics, and computer science approaches.
+2.Use data ethically and responsibly to provide information and advice that is reliable, valid, timely, innovative and relevant for their chosen specialty.
+3.Communicate effectively to diverse audiences the findings of data analyses which integrates computational, statistical, and machine learning methods, programming tools, and critical evaluation to ensure integrity, validity and quality assurance.
+4.Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+5.Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+6.Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science."

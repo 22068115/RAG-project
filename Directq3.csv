@@ -1,11 +1,5 @@
+Run time,Result for non chunking,Result for equal chunking,Result for manual chunking overlap,Result for LangChain ,Result for LangChain overlap,Answer
 Run 1,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
-
-1. Quiz (100% weighting, ungraded, threshold assessment) - Learning Outcomes: SLO1, SLO2, SLO3, SLO4
-2. Portfolio (40% weighting, standard grading) - Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5
-3. Quiz (20% weighting, standard grading) - Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5
-4. Applied Project (20% weighting, standard grading) - Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5
-5. Final Exam (20% weighting, standard grading) - Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5"
-Run 2,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
 
 1. Quiz (100% weighting, threshold assessment, S/U grade)
 2. Portfolio (40% weighting, threshold assessment)
@@ -13,8 +7,35 @@ Run 2,"Based on the provided documentation, the assessments for COMP1005 - Progr
 4. Applied Project (20% weighting, standard assessment)
 5. Final Exam (20% weighting, threshold assessment)
 
-These assessments are detailed in the ""Assessments"" section of the documentation, with specific weighting percentages, types, and learning outcomes associated with each assessment."
-Run 3,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+These assessments are detailed in the ""Assessments"" section of the documentation, with specific weighting percentages, types, and learning outcomes associated with each assessment.","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Quiz (100% weighting, mandatory, ungraded)
+2. Portfolio (40% weighting, mandatory)
+3. Quiz (20% weighting, not mandatory)
+4. Applied Project (20% weighting, not mandatory)
+5. Final Exam (20% weighting, mandatory)
+
+These assessments cover the learning outcomes SLO1 through SLO5 as specified in the documentation.","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Quiz - Weighting: 100% (S/U grade), Individual, Mandatory, Threshold Percentage
+2. Portfolio - Weighting: 40% (50% threshold), Individual, Mandatory, Standard grade
+
+These assessments cover Learning Outcomes SLO1, SLO2, SLO3, and SLO4.","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Multiple Choice (20%): Not mandatory
+2. Numerical Problem Solving (30%): Mandatory
+3. Interview (10%): Mandatory
+4. Numerical Problem Solving (40%): Mandatory
+
+These assessments are detailed in the ""Assessments"" section of the documentation with their respective weightings, mandatory status, and learning outcomes.","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Multiple Choice (20%)
+2. Numerical Problem Solving (30%)
+3. Interview (10%)
+4. Numerical Problem Solving (40%)
+
+The documentation lists these four assessments under the ""Assessments"" section with their respective weights, types, and learning outcomes.","Quiz, portfolio,quiz, applied project, and final exam "
+Run 2,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
 
 1. Quiz (ungraded, threshold): 100% of marks (1 mark)
 2. Portfolio: 40% (threshold)
@@ -22,8 +43,36 @@ Run 3,"Based on the provided documentation, the assessments for COMP1005 - Progr
 4. Applied Project: 20% (not mandatory)
 5. Final Exam: 20% (threshold)
 
-These assessments cover all the learning outcomes (SLOs) for the subject, with the portfolio being the main assessment component at 40% of the total marks."
-Run 4,"Based on the provided documentation for COMP1005 - Programming Fundamentals, the assessments are:
+These assessments cover all the learning outcomes (SLOs) for the subject, with the portfolio being the main assessment component at 40% of the total marks.","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. A quiz (threshold assessment, 1 mark, ungraded)
+2. A portfolio (40% of total grade, standard grading)
+3. A quiz (20% of total grade, standard grading)
+4. An applied project (20% of total grade, standard grading)
+5. A final exam (20% of total grade, standard grading)
+
+This information is clearly documented in the subject details with specific weightings and grading characteristics for each assessment. The first quiz is described as a threshold assessment (pass/fail) with only 1 mark and is ungraded, while the other assessments contribute to the total grade with standard grading scales. The portfolio is the largest component at 40% of the total grade, and the final exam is a standard assessment contributing 20% of the total grade.","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Quiz - Weighting: 100% (S/U grade), Individual, Mandatory, Threshold Percentage, Score (Marked out of): 1, Grade scale: Ungraded, Learning Outcomes: SLO1, SLO2, SLO3, SLO4
+
+2. Portfolio - Weighting: 40%, Individual, Mandatory, Threshold Percentage, Score (Marked out of): 40, Grade scale: Standard, Learning Outcomes: SLO1, SLO2, SLO3, SLO4
+
+These are the only assessments mentioned in the documentation for COMP1005.","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Multiple Choice (20%)
+2. Numerical Problem Solving (30%)
+3. Interview (10%)
+4. Numerical Problem Solving (40%)
+
+These assessments are listed under the ""Assessments"" section of the documentation with their respective weights, mandatory status, and learning outcomes.","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Multiple Choice (20%)
+2. Numerical Problem Solving (30%)
+3. Interview (10%)
+4. Numerical Problem Solving (40%)
+
+These assessments are listed under the ""Assessments"" section of the documentation, with their respective weightings, requirements, and learning outcomes.","Quiz, portfolio,quiz, applied project, and final exam "
+Run 3,"Based on the provided documentation for COMP1005 - Programming Fundamentals, the assessments are:
 
 1. Quiz (100% weighting, S/U pass/fail, individual, mandatory, threshold)
 2. Portfolio (40% weighting, individual, mandatory, threshold)
@@ -31,15 +80,166 @@ Run 4,"Based on the provided documentation for COMP1005 - Programming Fundamenta
 4. Applied Project (20% weighting, individual, not mandatory)
 5. Final Exam (20% weighting, individual, mandatory, threshold)
 
-These assessments cover all learning outcomes (SLO1-SLO5) as specified in the documentation."
-Run 5,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+These assessments cover all learning outcomes (SLO1-SLO5) as specified in the documentation.","After carefully analyzing the documentation, I can see that the assessment structure for COMP1005 - Programming Fundamentals includes the following components with their respective weights and attributes:
+
+1. **Quiz** (100% weight, ungraded, mandatory)  
+   *Note: This appears to be a special case where the quiz is a ""threshold"" assessment (100% pass/fail) but is still counted as 100% of the total assessment weight.*
+
+2. **Portfolio** (40% weight, standard grading, mandatory)  
+   *This is a graded component contributing 40% of the final assessment.*
+
+3. **Quiz** (20% weight, standard grading, not mandatory)  
+   *A secondary quiz that is optional but contributes 20% of the final grade.*
+
+4. **Applied Project** (20% weight, standard grading, not mandatory)  
+   *A project component that is optional but contributes 20% of the final grade.*
+
+5. **Final Exam** (20% weight, standard grading, mandatory)  
+   *The final assessment that is mandatory and contributes 20% of the final grade.*
+
+---
+
+### Important Note on Weighting:
+The total weight of all components (100% + 40% + 20% + 20% + 20%) sums to **200%**, which is **impossible** in a standard grading system (where weights should total 100%). This suggests there may be a **formatting error or mislabeling** in the documentation. 
+
+The most plausible explanation is that the ""Quiz"" with **100% weight** is a **special case** (e.g., a pass/fail threshold assessment) and **should not be counted as 100% of the total grade**. In practice, this component likely contributes **0%** to the final grade, while the other components (Portfolio, Quiz, Applied Project, Final Exam) collectively sum to 100%.
+
+If we assume the ""Quiz"" with 100% weight is a **pass/fail threshold** (not part of the grade calculation), the corrected weights would be:
+- Portfolio: 40%
+- Quiz: 20%
+- Applied Project: 20%
+- Final Exam: 20%  
+*(Total: 100%)*
+
+This aligns with standard grading practices.
+
+---
+
+### Final Answer:
+The assessments for **COMP1005 - Programming Fundamentals** are:
+- **Portfolio** (40% weight, standard grading, mandatory)
+- **Quiz** (20% weight, standard grading, not mandatory)
+- **Applied Project** (20% weight, standard grading, not mandatory)
+- **Final Exam** (20% weight, standard grading, mandatory)
+
+*(The ""Quiz"" labeled as 100% weight appears to be a special pass/fail threshold and does not contribute to the final grade.)*","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Quiz - Weighting: S/U (pass/fail), Individual, Mandatory, Threshold Percentage, Score: 1, Grade scale: Ungraded, Learning Outcomes: SLO1, SLO2, SLO3, SLO4
+
+2. Portfolio - Weighting: 40%, Individual, Mandatory, Threshold Percentage, Score: 40, Grade scale: Standard, Learning Outcomes: SLO1, SLO2, SLO3, SLO4
+
+These are the two assessments explicitly mentioned in the documentation for COMP1005.","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Multiple Choice (20%)
+2. Numerical Problem Solving (30%)
+3. Interview (10%)
+4. Numerical Problem Solving (40%)
+
+These assessments are clearly listed under the ""Assessments"" section of the documentation with their respective weightings, requirements, and learning outcomes.","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Multiple Choice (20%)
+   - Individual assessment
+   - Mandatory: No
+   - Score: 20
+   - Learning Outcomes: SLO1, SLO2, SLO3, SLO4
+
+2. Numerical Problem Solving (30%)
+   - Individual assessment
+   - Mandatory: Yes
+   - Score: 30
+   - Learning Outcomes: SLO2, SLO3, SLO4, SLO5
+
+3. Interview (10%)
+   - Individual assessment
+   - Mandatory: Yes
+   - Score: 10
+   - Learning Outcomes: SLO2, SLO4
+
+4. Numerical Problem Solving (40%)
+   - Individual assessment
+   - Mandatory: Yes
+   - Score: 40
+   - Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5
+
+Note: There are two ""Numerical Problem Solving"" assessments with different weights (30% and 40%).","Quiz, portfolio,quiz, applied project, and final exam "
+Run 4,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
 
 1. Quiz (100% weighting, S/U grade, mandatory, threshold assessment)
 2. Portfolio (40% weighting, individual, mandatory, threshold assessment)
 3. Quiz (20% weighting, individual, not mandatory)
 4. Applied Project (20% weighting, individual, not mandatory)
-5. Final Exam (20% weighting, individual, mandatory, threshold assessment)"
-Run 6,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+5. Final Exam (20% weighting, individual, mandatory, threshold assessment)","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Quiz (100%)
+   - Individual assessment
+   - Mandatory
+   - Ungraded
+   - Covers Learning Outcomes SLO1, SLO2, SLO3, SLO4
+
+2. Portfolio (40%)
+   - Individual assessment
+   - Mandatory
+   - Threshold Percentage
+   - Covers Learning Outcomes SLO1, SLO2, SLO3, SLO4, SLO5
+
+3. Quiz (20%)
+   - Individual assessment
+   - Not mandatory
+   - Standard grading
+   - Covers Learning Outcomes SLO1, SLO2, SLO3, SLO4, SLO5
+
+4. Applied Project (20%)
+   - Individual assessment
+   - Not mandatory
+   - Standard grading
+   - Covers Learning Outcomes SLO1, SLO2, SLO3, SLO4, SLO5
+
+5. Final Exam (20%)
+   - Individual assessment
+   - Mandatory
+   - Threshold Percentage
+   - Standard grading
+   - Covers Learning Outcomes SLO1, SLO2, SLO3, SLO4, SLO5","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. **Quiz**  
+   - Weighting: 100% (Score out of 1)  
+   - Grade scale: Ungraded (S/U)  
+   - Learning Outcomes: SLO1, SLO2, SLO3, SLO4  
+
+2. **Portfolio**  
+   - Weighting: 40% (Score out of 40)  
+   - Grade scale: Standard  
+   - Learning Outcomes: SLO1, SLO2, SLO3, SLO4  
+
+This information is clearly listed in the ""Assessments"" section of the documentation for COMP1005.","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Multiple Choice (20% - Mandatory: No)
+2. Numerical Problem Solving (30% - Mandatory: Yes)
+3. Interview (10% - Mandatory: Yes)
+4. Numerical Problem Solving (40% - Mandatory: Yes)
+
+These assessments are detailed in the ""Assessments"" section of the subject documentation.","Based on the provided documentation for COMP1005 - Programming Fundamentals, the assessments are:
+
+1. Multiple Choice (20%)
+   - Individual assessment
+   - Mandatory: No
+   - Learning Outcomes: SLO1, SLO2, SLO3, SLO4
+
+2. Numerical Problem Solving (30%)
+   - Individual assessment
+   - Mandatory: Yes
+   - Learning Outcomes: SLO2, SLO3, SLO4, SLO5
+
+3. Interview (10%)
+   - Individual assessment
+   - Mandatory: Yes
+   - Learning Outcomes: SLO2, SLO4
+
+4. Numerical Problem Solving (40%)
+   - Individual assessment
+   - Mandatory: Yes
+   - Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5","Quiz, portfolio, quiz, applied project, and final exam "
+Run 5,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
 
 1. Quiz (100% weighting, S/U grade, 1 mark, threshold assessment)
 2. Portfolio (40% weighting, threshold assessment, 50% of total marks, 40 marks)
@@ -47,8 +247,66 @@ Run 6,"Based on the provided documentation, the assessments for COMP1005 - Progr
 4. Applied Project (20% weighting, standard grade, 20 marks)
 5. Final Exam (20% weighting, threshold assessment, 50% of total marks, 20 marks)
 
-These assessments cover all learning outcomes SLO1 through SLO5."
-Run 7,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+These assessments cover all learning outcomes SLO1 through SLO5.","The assessments for COMP1005 - Programming Fundamentals, as documented, are:
+
+1. **Quiz (100%)** - This assessment is marked out of 1 and contributes 100% of the grade for this specific assessment.  
+2. **Portfolio (40%)** - This assessment contributes 40% of the total grade.  
+3. **Quiz (20%)** - This assessment contributes 20% of the total grade.  
+4. **Applied Project (20%)** - This assessment contributes 20% of the total grade.  
+5. **Final Exam (20%)** - This assessment contributes 20% of the total grade.  
+
+**Note**: The weights (100% + 40% + 20% + 20% + 20%) sum to 200%, which is unusual and may indicate a documentation error or specific context for the course. However, the answer is based strictly on the provided information. In typical educational systems, weights would sum to 100%, so this discrepancy should be verified with the course instructor or syllabus. 
+
+**Final Answer**:  
+The assessments are a quiz (100%), a portfolio (40%), a quiz (20%), an applied project (20%), and a final exam (20%).","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Quiz
+   - Weighting: 100% (Threshold Percentage)
+   - Score: 1 (Ungraded)
+   - Learning Outcomes: SLO1, SLO2, SLO3, SLO4
+   - Mandatory: Yes
+   - Individual: Yes
+
+2. Portfolio
+   - Weighting: 40%
+   - Score: 40 (Standard grading)
+   - Learning Outcomes: SLO1, SLO2, SLO3, SLO4
+   - Mandatory: Yes
+   - Individual: Yes
+
+These are the only assessments listed in the documentation for COMP1005 - Programming Fundamentals.","Based on the provided documentation for COMP1005 - Programming Fundamentals (2026 version), the assessments are:
+
+1. Multiple Choice (20%)
+2. Numerical Problem Solving (30%)
+3. Interview (10%)
+4. Numerical Problem Solving (40%)
+
+These assessments are listed under the ""Assessments"" section of the documentation, with their respective weights, mandatory status, and learning outcomes.","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Multiple Choice (20%)
+   - Individual
+   - Mandatory: No
+   - Score: 20
+   - Learning Outcomes: SLO1, SLO2, SLO3, SLO4
+
+2. Numerical Problem Solving (30%)
+   - Individual
+   - Mandatory: Yes
+   - Score: 30
+   - Learning Outcomes: SLO2, SLO3, SLO4, SLO5
+
+3. Interview (10%)
+   - Individual
+   - Mandatory: Yes
+   - Score: 10
+   - Learning Outcomes: SLO2, SLO4
+
+4. Numerical Problem Solving (40%)
+   - Individual
+   - Mandatory: Yes
+   - Score: 40
+   - Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5","Quiz, portfolio, quiz, applied project, and final exam "
+Run 6,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
 
 1. Quiz (100% threshold assessment) - Mandatory, S/U grade, ungraded
 2. Portfolio (40% weight) - Mandatory, threshold assessment
@@ -56,8 +314,80 @@ Run 7,"Based on the provided documentation, the assessments for COMP1005 - Progr
 4. Applied Project (20% weight) - Not mandatory
 5. Final Exam (20% weight) - Mandatory threshold assessment
 
-These assessments cover all learning outcomes (SLO1-SLO5) as specified in the documentation."
-Run 8,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+These assessments cover all learning outcomes (SLO1-SLO5) as specified in the documentation.","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Quiz (100% - ungraded)
+2. Portfolio (40% - standard grading)
+3. Quiz (20% - standard grading)
+4. Applied Project (20% - standard grading)
+5. Final Exam (20% - standard grading)
+
+This information is found in the ""Assessments"" section of the documentation, which lists each assessment with its weighting, grading scale, and learning outcomes.","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Quiz
+   - Weighting: 100% (Threshold Percentage)
+   - Score: 1 (out of 1)
+   - Grade scale: Ungraded
+   - Learning Outcomes: SLO1, SLO2, SLO3, SLO4
+
+2. Portfolio
+   - Weighting: 40%
+   - Score: 40 (out of 40)
+   - Grade scale: Standard
+   - Learning Outcomes: SLO1, SLO2, SLO3, SLO4
+
+These assessments are explicitly listed in the ""Assessments"" section of the documentation.","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Multiple Choice (20%)
+   - Weighting: 20%
+   - Individual or Group: Individual
+   - Mandatory: No
+   - Score: 20
+   - Learning Outcomes: SLO1, SLO2, SLO3, SLO4
+
+2. Numerical Problem Solving (30%)
+   - Weighting: 30%
+   - Individual or Group: Individual
+   - Mandatory: Yes
+   - Score: 30
+   - Learning Outcomes: SLO2, SLO3, SLO4, SLO5
+
+3. Interview (10%)
+   - Weighting: 10%
+   - Individual or Group: Individual
+   - Mandatory: Yes
+   - Score: 10
+   - Learning Outcomes: SLO2, SLO4
+
+4. Numerical Problem Solving (40%)
+   - Weighting: 40%
+   - Individual or Group: Individual
+   - Mandatory: Yes
+   - Score: 40
+   - Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Multiple Choice (20%)
+   - Individual assessment
+   - Mandatory: No
+   - Learning Outcomes: SLO1, SLO2, SLO3, SLO4
+
+2. Numerical Problem Solving (30%)
+   - Individual assessment
+   - Mandatory: Yes
+   - Learning Outcomes: SLO2, SLO3, SLO4, SLO5
+
+3. Interview (10%)
+   - Individual assessment
+   - Mandatory: Yes
+   - Learning Outcomes: SLO2, SLO4
+
+4. Numerical Problem Solving (40%)
+   - Individual assessment
+   - Mandatory: Yes
+   - Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5
+
+Note: There are two different ""Numerical Problem Solving"" assessments with different weightings (30% and 40%) listed in the documentation.","Quiz, portfolio, quiz, applied project, and final exam "
+Run 7,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
 
 1. Quiz (first assessment):
    - Weighting: 100%
@@ -90,8 +420,34 @@ Run 8,"Based on the provided documentation, the assessments for COMP1005 - Progr
    - Type: Threshold
    - Mandatory: Yes
    - Grade scale: Standard
-   - Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5"
-Run 9,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+   - Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Quiz (Weighting: 100%, Threshold Percentage, Score: 100, Grade scale: Ungraded, Learning Outcomes: SLO1, SLO2, SLO3, SLO4)
+2. Portfolio (Weighting: 40%, Threshold Percentage 50%, Score: 40, Grade scale: Standard, Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5)
+3. Quiz (Weighting: 20%, Score: 20, Grade scale: Standard, Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5)
+4. Applied Project (Weighting: 20%, Score: 20, Grade scale: Standard, Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5)
+5. Final Exam (Weighting: 20%, Score: 20, Grade scale: Standard, Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5)","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Quiz - Weighting: 100% (S/U grading), Score: 1, Individual, Mandatory, Threshold Percentage: 100, Learning Outcomes: SLO1, SLO2, SLO3, SLO4
+
+2. Portfolio - Weighting: 40% (50% threshold), Score: 40, Individual, Mandatory, Standard grading, Learning Outcomes: SLO1, SLO2, SLO3, SLO4
+
+These assessments are described in the ""Assessments"" section of the documentation.","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Multiple Choice (20%)
+2. Numerical Problem Solving (30%)
+3. Interview (10%)
+4. Numerical Problem Solving (40%)
+
+These assessments are listed under the ""Assessments"" section of the subject documentation.","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Multiple Choice (20%)
+2. Numerical Problem Solving (30%)
+3. Interview (10%)
+4. Numerical Problem Solving (40%)
+
+These assessments are listed under the ""Assessments"" section of the documentation with their respective weightings and learning outcomes.","Quiz, portfolio, quiz, applied project, and final exam "
+Run 8,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
 
 1. Quiz (Threshold assessment, ungraded): 100% weighting
 2. Portfolio: 40% weighting (threshold assessment)
@@ -99,7 +455,116 @@ Run 9,"Based on the provided documentation, the assessments for COMP1005 - Progr
 4. Applied Project: 20% weighting (non-mandatory)
 5. Final Exam: 20% weighting (threshold assessment)
 
-The documentation shows that these assessments collectively make up 100% of the course grade (40% + 20% + 20% + 20% = 100%), with the first quiz being a mandatory threshold assessment with S/U grading."
+The documentation shows that these assessments collectively make up 100% of the course grade (40% + 20% + 20% + 20% = 100%), with the first quiz being a mandatory threshold assessment with S/U grading.","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Quiz (100% weighting, ungraded)
+2. Portfolio (40% weighting)
+3. Quiz (20% weighting)
+4. Applied Project (20% weighting)
+5. Final Exam (20% weighting)
+
+These assessments cover the learning outcomes SLO1-SLO5 as specified in the documentation.","Based on the provided documentation, the assessments for **COMP1005 - Programming Fundamentals** are as follows:
+
+1. **Quiz**  
+   - Type: Threshold assessment (S/U grade)  
+   - Weighting: 1 point  
+   - Grade scale: Ungraded  
+   - Covers: SLO1, SLO2, SLO3, SLO4  
+
+2. **Portfolio**  
+   - Type: Standard assessment  
+   - Weighting: 40% of the total assessment  
+   - Score: 40 points  
+   - Grade scale: Standard (graded)  
+   - Covers: SLO1, SLO2, SLO3, SLO4  
+
+### Key Clarifications:
+- The **quiz** is a pass/fail (S/U) assessment with a fixed score of 1 point and no letter grade (ungraded). It serves as a threshold check for foundational learning outcomes.
+- The **portfolio** contributes **40%** of the total course grade and is evaluated on a standard grading scale (e.g., percentages). It requires a score of 40 points to meet the assessment's requirements.
+
+This structure aligns with the documentation's description of ""Weighting (%):40"" for the portfolio and ""Threshold Percentage:100"" for the quiz, indicating their role in the course grading system. 
+
+*Note: The documentation appears to be a simplified representation of assessment details, so actual implementation may vary slightly in practice.*","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Multiple Choice (20%)
+2. Numerical Problem Solving (30%)
+3. Interview (10%)
+4. Numerical Problem Solving (40%)
+
+These assessments are listed under the ""Assessments"" section of the documentation with their respective weights, requirements, and learning outcomes.","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Multiple Choice (20%)
+   - Individual assessment
+   - Mandatory: No
+   - Learning Outcomes: SLO1, SLO2, SLO3, SLO4
+
+2. Numerical Problem Solving (30%)
+   - Individual assessment
+   - Mandatory: Yes
+   - Learning Outcomes: SLO2, SLO3, SLO4, SLO5
+
+3. Interview (10%)
+   - Individual assessment
+   - Mandatory: Yes
+   - Learning Outcomes: SLO2, SLO4
+
+4. Numerical Problem Solving (40%)
+   - Individual assessment
+   - Mandatory: Yes
+   - Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5
+
+These assessments make up the full assessment for the subject.","Quiz, portfolio, quiz, applied project, and final exam "
+Run 9,"Based on the provided documentation for COMP1005 - Programming Fundamentals, the assessments are:
+
+1. Quiz (100% weighting, S/U grade scale, pass/fail, mandatory)
+2. Portfolio (40% weighting, standard grade scale, mandatory)
+3. Quiz (20% weighting, standard grade scale, non-mandatory)
+4. Applied Project (20% weighting, standard grade scale, non-mandatory)
+5. Final Exam (20% weighting, standard grade scale, mandatory)
+
+All assessments have specific learning outcomes associated with them, with the portfolio covering all 5 learning outcomes (SLO1-SLO5) while the other assessments cover a range of the learning outcomes.","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Quiz (100% weighting) - Ungraded, threshold percentage, mandatory, individual
+2. Portfolio (40% weighting) - Standard grading, threshold percentage, mandatory, individual
+3. Quiz (20% weighting) - Standard grading, not mandatory, individual
+4. Applied Project (20% weighting) - Standard grading, not mandatory, individual
+5. Final Exam (20% weighting) - Standard grading, threshold percentage, mandatory, individual
+
+These assessments cover all learning outcomes (SLOs) for the subject.","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Quiz: 
+   - Weighting Description: S/U (pass/fail grading)
+   - Individual or Group: Individual
+   - Mandatory: Yes
+   - Type: Threshold Percentage: 100
+   - Score (Marked out of): 1
+   - Grade scale: Ungraded
+   - Learning Outcomes: SLO1, SLO2, SLO3, SLO4
+
+2. Portfolio:
+   - Weighting (%): 40
+   - Individual or Group: Individual
+   - Mandatory: Yes
+   - Type: Threshold Percentage: 50
+   - Score (Marked out of): 40
+   - Grade scale: Standard
+   - Learning Outcomes: SLO1, SLO2, SLO3, SLO4
+
+These are the only two assessments listed in the documentation for COMP1005.","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Multiple Choice (20%)
+2. Numerical Problem Solving (30%)
+3. Interview (10%)
+4. Numerical Problem Solving (40%)
+
+These assessments are clearly listed under the ""Assessments"" section of the documentation with their respective weightings, requirements, and learning outcomes.","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+
+1. Multiple Choice - 20% (Mandatory: No)
+2. Numerical Problem Solving - 30% (Mandatory: Yes)
+3. Interview - 10% (Mandatory: Yes)
+4. Numerical Problem Solving - 40% (Mandatory: Yes)
+
+These assessments are listed under the ""Assessments"" section of the documentation with their respective weights, type, mandatory status, and learning outcomes.","Quiz, portfolio,quiz, applied project, and final exam "
 Run 10,"Based on the provided documentation for COMP1005 - Programming Fundamentals, the assessments are:
 
 1. Quiz (100% weighting, S/U grade scale, pass/fail, mandatory)
@@ -108,192 +573,37 @@ Run 10,"Based on the provided documentation for COMP1005 - Programming Fundament
 4. Applied Project (20% weighting, standard grade scale, non-mandatory)
 5. Final Exam (20% weighting, standard grade scale, mandatory)
 
-All assessments have specific learning outcomes associated with them, with the portfolio covering all 5 learning outcomes (SLO1-SLO5) while the other assessments cover a range of the learning outcomes."
-Run 11,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
+All assessments have specific learning outcomes associated with them, with the portfolio covering all 5 learning outcomes (SLO1-SLO5) while the other assessments cover a range of the learning outcomes.","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
 
-1. Quiz (100% weighting) - Threshold assessment, ungraded, learning outcomes: SLO1, SLO2, SLO3, SLO4
+1. Quiz - Weighting: 100% (S/U grading), Individual, Mandatory, Threshold Percentage: 100, Score (Marked out of): 1, Learning Outcomes: SLO1, SLO2, SLO3, SLO4
 
-2. Portfolio (40% weighting) - Threshold assessment, standard grading, learning outcomes: SLO1, SLO2, SLO3, SLO4, SLO5
+2. Portfolio - Weighting: 40% (Standard grading), Individual, Mandatory, Threshold Percentage: 50, Score (Marked out of): 40, Learning Outcomes: SLO1, SLO2, SLO3, SLO4
 
-3. Quiz (20% weighting) - Standard grading, learning outcomes: SLO1, SLO2, SLO3, SLO4, SLO5
+These assessments are clearly listed in the ""Assessments"" section of the documentation for COMP1005.","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
 
-4. Applied Project (20% weighting) - Standard grading, learning outcomes: SLO1, SLO2, SLO3, SLO4, SLO5
-
-5. Final Exam (20% weighting) - Threshold assessment, standard grading, learning outcomes: SLO1, SLO2, SLO3, SLO4, SLO5"
-Run 12,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
-
-1. Quiz (Threshold) - 100% weighting (S/U grade)
-2. Portfolio - 40% weighting (Standard grading)
-3. Quiz - 20% weighting (Standard grading)
-4. Applied Project - 20% weighting (Standard grading)
-5. Final Exam - 20% weighting (Threshold)
-
-These assessments cover all learning outcomes (SLO1-SLO5) as specified in the documentation."
-Run 13,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
-
-1. Quiz (100% weighting, ungraded, threshold assessment, learning outcomes: SLO1, SLO2, SLO3, SLO4)
-2. Portfolio (40% weighting, threshold assessment, learning outcomes: SLO1, SLO2, SLO3, SLO4, SLO5)
-3. Quiz (20% weighting, non-mandatory, standard grade scale, learning outcomes: SLO1, SLO2, SLO3, SLO4, SLO5)
-4. Applied Project (20% weighting, non-mandatory, standard grade scale, learning outcomes: SLO1, SLO2, SLO3, SLO4, SLO5)
-5. Final Exam (20% weighting, threshold assessment, standard grade scale, learning outcomes: SLO1, SLO2, SLO3, SLO4, SLO5)"
-Run 14,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
-
-1. Quiz (100% S/U, ungraded, mandatory, threshold type)
-2. Portfolio (40% of grade, individual, mandatory, threshold type)
-3. Quiz (20% of grade, individual, non-mandatory)
-4. Applied Project (20% of grade, individual, non-mandatory)
-5. Final Exam (20% of grade, individual, mandatory, threshold type)
-
-These assessments cover all learning outcomes (SLO1-SLO5) as specified in the documentation."
-Run 15,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
-
-1. Quiz (100% weighting, S/U grade, Individual, Mandatory, Threshold)
-2. Portfolio (40% weighting, Standard grade, Individual, Mandatory, Threshold)
-3. Quiz (20% weighting, Standard grade, Individual, Mandatory: No)
-4. Applied Project (20% weighting, Standard grade, Individual, Mandatory: No)
-5. Final Exam (20% weighting, Standard grade, Individual, Mandatory, Threshold)
-
-These assessments are listed under the ""Assessments"" section of the documentation with their respective weightings and requirements."
-Run 16,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
-
-1. Quiz (100% weighting, ungraded, threshold assessment)
-2. Portfolio (40% weighting, threshold assessment)
-3. Quiz (20% weighting, standard grading)
-4. Applied Project (20% weighting, standard grading)
-5. Final Exam (20% weighting, threshold assessment)
-
-These assessments cover all learning outcomes SLO1 through SLO5 as specified in the documentation."
-Run 17,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
-
-1. Quiz (100% weighting, S/U grade, Individual, Mandatory, Threshold)
-2. Portfolio (40% weighting, Standard grade, Individual, Mandatory, Threshold)
-3. Quiz (20% weighting, Standard grade, Individual, Not mandatory)
-4. Applied Project (20% weighting, Standard grade, Individual, Not mandatory)
-5. Final Exam (20% weighting, Standard grade, Individual, Mandatory, Threshold)
-
-All assessments relate to Learning Outcomes SLO1 through SLO5."
-Run 18,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
-
-1. Quiz (100% weighting, threshold assessment, S/U grade, score of 1) - Learning Outcomes: SLO1, SLO2, SLO3, SLO4
-
-2. Portfolio (40% weighting, threshold assessment, score of 40) - Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5
-
-3. Quiz (20% weighting, score of 20) - Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5
-
-4. Applied Project (20% weighting, score of 20) - Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5
-
-5. Final Exam (20% weighting, threshold assessment, score of 20) - Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5"
-Run 19,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
-
-1. Quiz (100% weighting, ungraded, threshold assessment)
-2. Portfolio (40% weighting, individual, threshold assessment)
-3. Quiz (20% weighting, individual, non-mandatory)
-4. Applied Project (20% weighting, individual, non-mandatory)
-5. Final Exam (20% weighting, individual, threshold assessment)
-
-These assessments cover all learning outcomes SLO1 through SLO5 as specified in the documentation."
-Run 20,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
-
-1. Quiz (Threshold, Ungraded) - 100% weighting
-2. Portfolio - 40% weighting (Threshold)
-3. Quiz - 20% weighting (Not mandatory)
-4. Applied Project - 20% weighting (Not mandatory)
-5. Final Exam (Threshold) - 20% weighting (Mandatory)
-
-These assessments cover all learning outcomes (SLO1-SLO5) as specified in the documentation."
-Run 21,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
-
-1. Quiz (100% weighting, S/U grade, threshold, 1 mark)
-2. Portfolio (40% weighting, threshold, 50% of marks, standard grade)
-3. Quiz (20% weighting, standard grade, not mandatory)
-4. Applied Project (20% weighting, standard grade, not mandatory)
-5. Final Exam (20% weighting, threshold, 50% of marks, standard grade)
-
-This information is found in the ""Assessments"" section of the documentation which lists these five assessment items with their respective weightings, types, and other details."
-Run 22,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
-
-1. Quiz (100% weighting, S/U grade, threshold assessment)
-   - Mandatory
+1. Multiple Choice (20%)
+   - Mandatory: No
+   - Score: 20
    - Learning Outcomes: SLO1, SLO2, SLO3, SLO4
 
-2. Portfolio (40% weighting, standard grade, threshold assessment)
-   - Mandatory
-   - Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5
+2. Numerical Problem Solving (30%)
+   - Mandatory: Yes
+   - Score: 30
+   - Learning Outcomes: SLO2, SLO3, SLO4, SLO5
 
-3. Quiz (20% weighting, standard grade)
-   - Not mandatory
-   - Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5
+3. Interview (10%)
+   - Mandatory: Yes
+   - Score: 10
+   - Learning Outcomes: SLO2, SLO4
 
-4. Applied Project (20% weighting, standard grade)
-   - Not mandatory
-   - Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5
+4. Numerical Problem Solving (40%)
+   - Mandatory: Yes
+   - Score: 40
+   - Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5","Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
 
-5. Final Exam (20% weighting, standard grade, threshold assessment)
-   - Mandatory
-   - Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5"
-Run 23,
-Run 24,"Based on the provided documentation for COMP1005 - Programming Fundamentals, the assessments are:
+1. Multiple Choice (20%)
+2. Numerical Problem Solving (30%)
+3. Interview (10%)
+4. Numerical Problem Solving (40%)
 
-1. Quiz (100% weighting, ungraded, threshold assessment, mandatory)
-2. Portfolio (40% weighting, threshold assessment, mandatory)
-3. Quiz (20% weighting, standard grading, non-mandatory)
-4. Applied Project (20% weighting, standard grading, non-mandatory)
-5. Final Exam (20% weighting, threshold assessment, mandatory)
-
-These assessments cover all learning outcomes (SLO1-SLO5) as specified in the documentation."
-Run 25,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
-
-1. Quiz (100% weighting, S/U grade, ungraded, threshold assessment) - Learning Outcomes: SLO1, SLO2, SLO3, SLO4
-
-2. Portfolio (40% weighting, threshold assessment, 50% percentage, standard grade) - Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5
-
-3. Quiz (20% weighting, standard grade) - Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5
-
-4. Applied Project (20% weighting, standard grade) - Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5
-
-5. Final Exam (20% weighting, threshold assessment, 50% percentage, standard grade) - Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5"
-Run 26,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
-
-1. Quiz (100% weighting, pass/fail grade, mandatory, threshold assessment)
-2. Portfolio (40% weighting, standard grade, mandatory, threshold assessment)
-3. Quiz (20% weighting, standard grade, non-mandatory)
-4. Applied Project (20% weighting, standard grade, non-mandatory)
-5. Final Exam (20% weighting, standard grade, mandatory, threshold assessment)
-
-The documentation shows these assessments with their respective weightings, grading scales, mandatory status, and learning outcomes."
-Run 27,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
-
-1. Quiz (S/U grade, 100% weighting, mandatory, threshold)
-2. Portfolio (40% weighting, mandatory, threshold)
-3. Quiz (20% weighting, optional)
-4. Applied Project (20% weighting, optional)
-5. Final Exam (20% weighting, mandatory, threshold)
-
-These assessments are listed under the ""Assessments"" section of the documentation with their respective weightings, types, mandatory status, and learning outcomes."
-Run 28,"The assessments for COMP1005 - Programming Fundamentals are:
-
-1. **Mandatory quiz** (S/U, threshold, ungraded)  
-2. **Mandatory portfolio** (40% weighting, threshold)  
-3. **Non-mandatory quiz** (20% weighting)  
-4. **Non-mandatory applied project** (20% weighting)  
-5. **Mandatory final exam** (20% weighting, threshold)  
-
-**Note**: The ""S/U"" indicates a pass/fail grading system for the first quiz, and ""threshold"" means the assessment is pass/fail with no partial credit. The percentages (e.g., 40%, 20%) represent the weight of each assessment in the final grade calculation. The total weighting sums to 100% (40% + 20% + 20% + 20% = 100%), with the first quiz being ungraded and thus not contributing to the final grade."
-Run 29,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
-
-1. Quiz (100%, S/U grade, Individual, Mandatory, Threshold)
-2. Portfolio (40%, Standard grade, Individual, Mandatory, Threshold)
-3. Quiz (20%, Standard grade, Individual, Not mandatory)
-4. Applied Project (20%, Standard grade, Individual, Not mandatory)
-5. Final Exam (20%, Standard grade, Individual, Mandatory, Threshold)
-
-These assessments are clearly listed in the ""Assessments"" section of the documentation with their respective weightings, grading scales, requirements and learning outcomes."
-Run 30,"Based on the provided documentation, the assessments for COMP1005 - Programming Fundamentals are:
-
-1. Quiz (100% - threshold, ungraded)
-2. Portfolio (40% - threshold)
-3. Quiz (20% - standard)
-4. Applied Project (20% - standard)
-5. Final Exam (20% - threshold)
-
-This information is found in the ""Assessments"" section of the documentation, which lists these five assessment items with their respective weightings, types, grading scales, and learning outcomes."
+These are listed under the ""Assessments"" section of the documentation with their respective weightings, types, and learning outcomes.","Quiz, portfolio, quiz, applied project, and final exam "

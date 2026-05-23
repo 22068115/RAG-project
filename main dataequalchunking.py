@@ -1,8 +1,9 @@
 import ollama
 import csv
-from data import cos_collection
+from dataequalchunking import cos_collection
 
-question =  "		Do I need to give a presentation in Project Management?    "
+
+question = "		Do I need to give a presentation in Project Management?      "
 
 response = ollama.embed(
     model="nomic-embed-text-v2-moe",
@@ -25,8 +26,18 @@ for i in range(len(results["metadatas"][0])):
 
 data = "\n\n".join(results["documents"][0])
 
-result = {}
+csv_path = r"C:\Users\lon09\New folder\Indirectq2.csv"
 
+old_rows = []
+
+with open(csv_path, "r", newline="", encoding="utf-8") as csvfile:
+    csvreader = csv.reader(csvfile)
+
+    for row in csvreader:
+        old_rows.append(row)
+
+
+result = {}
 for i in range(10):
     output = ollama.generate(
         model="qwen3:4b",
@@ -44,9 +55,8 @@ Respond to this prompt:
 
  
 
-with open(r"C:\Users\lon09\New folder\Indirectq2.csv", "w", newline="", encoding="utf-8") as csvfile:
+with open(r"C:\Users\lon09\New folder\Indirectq13.csv", "w", newline="", encoding="utf-8") as csvfile:
     csvwriter = csv.writer(csvfile)
 
     for row in result.items():
         csvwriter.writerow(row)
-

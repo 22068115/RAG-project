@@ -1,45 +1,262 @@
-Run 1,I don't have the answer.
-Run 2,"I don't have the answer. 
+Run time,Result for non chunking,Result for equal chunking,Result for manual chunking overlap,Result for LangChain,Result for LangChain overlap,Answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Run 1,"Based on the provided documentation, I can see that COMP3002 - Applications of Big Data is not offered in Spring.
 
-The documentation shows offerings for Autumn, Surabaya Semester 2, Sydney City Campus Term 3, and Vietnam Session 2/3, but it doesn't explicitly mention Spring as an offering for COMP3002. The documentation doesn't provide information about Spring semester offerings for this subject."
-Run 3,I don't have the answer.
-Run 4,I don't have the answer.
-Run 5,I don't have the answer.
-Run 6,I don't have the answer.
-Run 7,I don't have the answer.
-Run 8,"The provided documentation does not explicitly state whether COMP3002 is offered in Spring. While it mentions an offering for ""Surabaya Semester 2,"" the term ""Semester 2"" is used in the context of Western Sydney University (WSU), but the documentation does not specify that this corresponds to ""Spring"" in the academic calendar. In some academic contexts, ""Semester 2"" may be referred to as ""Spring,"" but the documentation does not use the term ""Spring"" itself. Additionally, the documentation references ""Important Dates"" linked to a WSU Online Calendar, but the specific details of that calendar are not provided in the given text. Therefore, based solely on the information provided, it is not possible to confirm whether COMP3002 is offered in Spring.
+The documentation shows the ""Offerings"" section for COMP3002 only lists Autumn offerings with the following details:
+- COMP3002-AUT-1-PS (Autumn)
+- COMP3002-IS2-1-SU (Surabaya Semester 2)
+- COMP3002-SC3-1-SC (Sydney City Campus - Term 3)
+- COMP3002-UT2-1-UE (Vietnam Session 2)
+- COMP3002-UT3-1-UE (Vietnam Session 3)
 
-\boxed{\text{I don't have the answer}}"
-Run 9,I don't have the answer.
-Run 10,I don't have the answer.
-Run 11,I don't have the answer.
-Run 12,I don't have the answer.
-Run 13,I don't have the answer.
-Run 14,"I don't have the answer. 
+There is no mention of any Spring offerings for this course in the documentation. The course is only listed as being offered in Autumn and various international sessions, but not in Spring.
 
-The documentation provided mentions that COMP3002 (Applications of Big Data) is offered in ""Autumn"" and ""Semester 2"" (specifically for Surabaya), but it does not explicitly use the term ""Spring"" to describe any offering. In the Australian academic context, ""Semester 2"" is typically not referred to as ""Spring"" (which is more commonly associated with the US academic system). Since the question specifically asks about ""Spring"" and the documentation does not confirm this terminology, I cannot determine if it is offered in Spring based on the given information. For precise details, you would need to check the university's official course schedule or the WSU Online Calendar mentioned in the documentation."
-Run 15,I don't have the answer.
-Run 16,I don't have the answer.
-Run 17,I don't have the answer.
-Run 18,I don't have the answer.
-Run 19,I don't have the answer.
-Run 20,I don't have the answer.
-Run 21,I don't have the answer.
-Run 22,I don't have the answer.
-Run 23,I don't have the answer.
-Run 24,I don't have the answer.
-Run 25,I don't have the answer.
-Run 26,"I don't have the answer.
+Therefore, the answer is no, COMP3002 - Applications of Big Data is not offered in Spring.","I don't have the answer.
 
-The provided documentation lists several offerings for COMP3002, including:
+The documentation shows that COMP3002 has an Autumn offering (COMP3002-AUT-1-PS) but does not explicitly mention any Spring offering for COMP3002. The Spring section in the documentation only shows an offering for COMP3032 (COMP3032-SPR-1-PS), not COMP3002. Since the documentation doesn't indicate that COMP3002 is offered in Spring, I cannot confirm it is offered in Spring based on the provided information.","No, COMP3002 - Applications of Big Data is not offered in Spring according to the provided documentation. The documentation shows that COMP3002 is offered in Autumn (with the code COMP3002-AUT-1-PS), but there is no indication of it being offered in Spring. The Spring offerings section only lists COMP3032, not COMP3002.","I don't have the answer.
+
+The documentation shows that COMP3002 has offerings for Autumn, Surabaya Semester 2, Sydney City Campus Term 3, and Vietnam Sessions 2 and 3. However, it does not list any Spring offerings for COMP3002. The ""Spring"" section in the documentation only shows COMP3032 (a different subject), not COMP3002. The documentation does not explicitly state whether COMP3002 is offered in Spring or not, but it does not list any Spring offerings for this subject.","I don't have the answer.
+
+The documentation shows that COMP3002 has offerings for ""Autumn"" (with locations including Parramatta South, Surabaya, Sydney City, and Vietnam Session 2), but it does not explicitly mention any Spring offerings. The documentation does not provide information about Spring semester offerings for this course. Since the question asks specifically about Spring, and the documentation only shows Autumn offerings, I cannot confirm if it's offered in Spring.","No. It is listed in Autumn for the main WSU offering, not Spring.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Run 2,"No, COMP3002 - Applications of Big Data is not offered in Spring according to the provided documentation. 
+
+In the ""Offerings"" section for COMP3002, the available sessions are:
 - Autumn (COMP3002-AUT-1-PS)
 - Surabaya Semester 2 (COMP3002-IS2-1-SU)
 - Sydney City Campus - Term 3 (COMP3002-SC3-1-SC)
 - Vietnam Session 2 (COMP3002-UT2-1-UE)
 - Vietnam Session 3 (COMP3002-UT3-1-UE)
 
-However, the documentation does not explicitly mention any Spring offering or indicate whether Spring is covered in the academic calendar for this subject. The documentation references ""Autumn"" but not ""Spring"" as a specific offering."
-Run 27,I don't have the answer.
-Run 28,I don't have the answer.
-Run 29,I don't have the answer.
-Run 30,I don't have the answer.
+There is no mention of Spring offerings for this subject in the documentation. The Spring semester is referenced for COMP3032 (Machine Learning), but not for COMP3002.","I don't have the answer.
+
+Actually, let me re-check the documentation carefully.
+
+Looking at the provided documentation, I can see that there is an offering section for COMP3002 that states: ""Offerings: Autumn Collapse all COMP3002-AUT-1-PS keyboard_arrow_down Location:Parramatta South Mode of Study: On-site Self Enrol:Yes Language of Instruction:English""
+
+This shows that COMP3002 is offered in Autumn, but there is no indication in the documentation that it is offered in Spring. The documentation also mentions a different subject (COMP3032) with a Spring offering: ""Offerings Spring Collapse all COMP3032-SPR-1-PS keyboard_arrow_down Location:Parramatta South Mode of Study: On-site Self Enrol:Yes Language of Instruction:English""
+
+Since the documentation only shows COMP3002 is offered in Autumn and does not mention any Spring offering for COMP3002, the answer to the question ""Is COMP3002 - Applications of Big Data offered in Spring?"" is no.
+
+Wait, I need to be precise. The documentation states COMP3002 has an Autumn offering (COMP3002-AUT-1-PS) but does not mention any Spring offering for COMP3002. The documentation does mention COMP3032 has a Spring offering, but that's a different subject.
+
+Actually, the documentation says: ""Offerings: Autumn"" for COMP3002, which means it's offered in Autumn, but it doesn't explicitly say it's not offered in Spring. However, in academic contexts, when a subject is listed with an offering for a particular semester, it typically means that's the only offering for that subject unless stated otherwise.
+
+Based on the documentation provided, I can say that COMP3002 is not offered in Spring.
+
+Let me be absolutely clear: The documentation shows COMP3002 is offered in Autumn (with code COMP3002-AUT-1-PS) but does not show any Spring offering for COMP3002. Therefore, according to the documentation, COMP3002 - Applications of Big Data is not offered in Spring.
+
+Actually, I'm double-checking one more time. The documentation states: ""Offerings: Autumn Collapse all COMP3002-AUT-1-PS..."" - this means COMP3002 is offered in Autumn. There is no mention of Spring offerings for COMP3002 in the documentation.
+
+Therefore, the answer is no, COMP3002 - Applications of Big Data is not offered in Spring according to this documentation.","Looking at the provided documentation, I can see that COMP3002 - Applications of Big Data is listed as being offered in Autumn with the code ""COMP3002-AUT-1-PS"" (Parramatta South location) and also in Vietnam sessions with codes ""COMP3002-UT2-1-UE"" and ""COMP3002-UT3-1-UE"". 
+
+However, there is no mention of COMP3002 being offered in Spring. The documentation does have a section labeled ""Offerings Spring"" but it only shows COMP3032 (a different course) with the code ""COMP3032-SPR-1-PS"", not COMP3002.
+
+Therefore, based on the provided documentation, COMP3002 - Applications of Big Data is not offered in Spring.","I don't have the answer.
+
+The provided documentation shows that COMP3002 - Applications of Big Data has an Autumn offering (COMP3002-AUT-1-PS) but does not list any Spring offerings for COMP3002. The Spring section only shows offerings for COMP3032 (COMP3032-SPR-1-PS), not COMP3002. Therefore, based on the provided documentation, COMP3002 is not offered in Spring.",I don't have the answer.,"No. It is listed in Autumn for the main WSU offering, not Spring.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Run 3,"After carefully reviewing the provided documentation for COMP3002 - Applications of Big Data, I can see that the ""Offerings"" section only lists the following periods:
+
+- Autumn (with COMP3002-AUT-1-PS)
+- Surabaya Semester 2 (with COMP3002-IS2-1-SU)
+- Sydney City Campus - Term 3 (with COMP3002-SC3-1-SC)
+- Vietnam Session 2 (with COMP3002-UT2-1-UE)
+- Vietnam Session 3 (with COMP3002-UT3-1-UE)
+
+The documentation does not explicitly mention ""Spring"" as an offering period for COMP3002. While the university has various academic terms and sessions listed (including Semester 2 and Term 3), there is no indication that Spring is an offering period for this course.
+
+Therefore, based on the provided documentation, **COMP3002 - Applications of Big Data is not offered in Spring**.","Based on the provided documentation, COMP3002 is explicitly listed under ""Offerings Autumn"" (with the code COMP3002-AUT-1-PS) but is not mentioned in the ""Offerings Spring"" section, which only lists COMP3032-SPR-1-PS. The documentation does not indicate any Spring offering for COMP3002. Therefore, COMP3002 is not offered in Spring.
+
+**Answer: No** (COMP3002 is not offered in Spring).","Based on the provided documentation, I do not have the answer to whether COMP3002 - Applications of Big Data is offered in Spring. The documentation explicitly shows that COMP3002 has an Autumn offering (COMP3002-AUT-1-PS) and Vietnam sessions (COMP3002-UT2-1-UE and COMP3002-UT3-1-UE), but it does not mention any Spring offering for COMP3002. While the document includes a section for ""Offerings Spring"" that lists COMP3032 (not COMP3002), there is no indication that COMP3002 is offered in Spring. Therefore, the answer is not present in the provided information.","I don't have the answer.
+
+Looking at the provided documentation, I can see that there are offerings listed for Spring, but they are for COMP3032 (not COMP3002). The Spring offerings section shows:
+- COMP3032-SPR-1-PS (Parramatta South)
+- COMP3032-SC1-1-SC (Sydney City)
+- COMP3032-UT1-1-UE (Vietnam Session 1)
+- COMP3032-UT3-1-UE (Vietnam Session 3)
+
+The documentation shows COMP3002 offerings for Autumn (with codes like COMP3002-AUT-1-PS, COMP3002-IS2-1-SU, etc.), but there are no COMP3002 offerings listed for Spring. The question asks specifically about COMP3002 being offered in Spring, and the documentation doesn't indicate that it is offered in Spring.",I don't have the answer.,"No. It is listed in Autumn for the main WSU offering, not Spring.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Run 4,"After carefully reviewing the provided documentation for COMP3002 - Applications of Big Data, I can see that the ""Offerings"" section only lists ""Autumn"" as the term with multiple sessions (Parramatta South, Surabaya, Sydney City, and Vietnam sessions). There is no mention of ""Spring"" as an offering term for this subject.
+
+The documentation explicitly shows:
+```
+Offerings
+Autumn
+Collapse all
+COMP3002-AUT-1-PS
+...
+```
+
+The section does not list any Spring offerings for COMP3002. While universities sometimes use different terminology for terms (like ""Semester 1"" or ""Semester 2""), the documentation specifically shows only ""Autumn"" as the term for this subject.
+
+Therefore, based on the provided documentation, COMP3002 - Applications of Big Data is not offered in Spring.","The documentation shows that COMP3002 has two offerings: one labeled ""Autumn"" (COMP3002-AUT-1-PS) and another labeled ""Semester 2"" (COMP3002-IS2-1-SU). Additionally, there is a section titled ""Offerings Spring"" that lists COMP3032-SPR-1-PS but does not include COMP3002. 
+
+While ""Semester 2"" might be interpreted as potentially corresponding to Spring in some educational systems, the documentation does not explicitly state that ""Semester 2"" is Spring. The absence of COMP3002 in the ""Offerings Spring"" section, combined with the specific labeling of ""Autumn"" and ""Semester 2,"" indicates that COMP3002 is not offered in Spring according to this documentation.
+
+Therefore, the answer is no.
+
+\boxed{no}","Based on the provided documentation, COMP3002 - Applications of Big Data is **not** explicitly stated to be offered in Spring. The documentation shows that COMP3002 has Autumn offerings (e.g., ""COMP3002-AUT-1-PS"" for Autumn), but there is no mention of Spring offerings for this subject. The section labeled ""Offerings Spring"" in the documentation refers to COMP3032, not COMP3002. 
+
+Therefore, according to the documentation, COMP3002 is not offered in Spring.
+
+**Answer: No**","I don't have the answer.
+
+The documentation shows that COMP3002 - Applications of Big Data is offered in Autumn (with code COMP3002-AUT-1-PS) and in Vietnam sessions (COMP3002-UT2-1-UE and COMP3002-UT3-1-UE), but it does not show any Spring offerings for COMP3002. The Spring section of the document only lists COMP3032 (a different subject), not COMP3002. Therefore, based on the provided documentation, COMP3002 - Applications of Big Data is not offered in Spring.",I don't have the answer.,"No. It is listed in Autumn for the main WSU offering, not Spring.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Run 5,"Based on the provided documentation, COMP3002 - Applications of Big Data is not offered in Spring semester.
+
+In the ""Offerings"" section for COMP3002, I can see that the available sessions are:
+- Autumn (COMP3002-AUT-1-PS)
+- Surabaya Semester 2 (COMP3002-IS2-1-SU)
+- Sydney City Campus - Term 3 (COMP3002-SC3-1-SC)
+- Vietnam Session 2 (COMP3002-UT2-1-UE)
+- Vietnam Session 3 (COMP3002-UT3-1-UE)
+
+There is no mention of any Spring semester offerings for this subject in the documentation. The Spring semester offerings are listed for COMP3032 - Machine Learning (COMP3032-SPR-1-PS), but not for COMP3002.",I don't have the answer.,"I don't have the answer.
+
+The documentation shows that COMP3002 has offerings in Autumn (specifically ""COMP3002-AUT-1-PS"" in the Autumn offerings section), but it does not mention any Spring offerings for COMP3002. The ""Offerings Spring"" section in the documentation lists COMP3032 (a different subject), not COMP3002. The documentation does not explicitly state that COMP3002 is offered in Spring.","After carefully reviewing the provided documentation, I can see that the Spring offerings section lists courses with the code ""COMP3032"" (such as COMP3032-SPR-1-PS, COMP3032-SC1-1-SC, etc.), not COMP3002. 
+
+The Autumn section shows multiple offerings for COMP3002 (COMP3002-AUT-1-PS, COMP3002-IS2-1-SU, etc.), but there is no mention of COMP3002 being offered in Spring.
+
+Therefore, based on the documentation, COMP3002 - Applications of Big Data is not offered in Spring.
+
+No",I don't have the answer.,"No. It is listed in Autumn for the main WSU offering, not Spring.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Run 6,"After carefully reviewing the provided documentation for COMP3002 - Applications of Big Data, I can see that the course offerings section only lists ""Autumn"" as the offering period. The documentation shows:
+
+```
+Offerings
+Autumn
+Collapse all
+COMP3002-AUT-1-PS
+```
+
+There are no Spring offerings listed for this course. The documentation shows various session options (Surabaya Semester 2, Sydney City Campus - Term 3, Vietnam Session 2, Vietnam Session 3), but all are under the ""Autumn"" category.
+
+The question asks specifically whether COMP3002 is offered in Spring, and the documentation does not indicate any Spring offerings for this course.
+
+Therefore, the answer is: No, COMP3002 - Applications of Big Data is not offered in Spring according to the provided documentation.",I don't have the answer.,"I don't have the answer.
+
+The documentation shows that COMP3002 - Applications of Big Data has offerings in Autumn (COMP3002-AUT-1-PS), Surabaya Semester 2 (COMP3002-IS2-1-SU), Sydney City Campus Term 3 (COMP3002-SC3-1-SC), Vietnam Session 2 (COMP3002-UT2-1-UE), and Vietnam Session 3 (COMP3002-UT3-1-UE). 
+
+However, there is no mention of Spring offerings for COMP3002 in the documentation. The ""Offerings Spring"" section only lists COMP3032 (a different subject), not COMP3002. Therefore, based on the provided documentation, I cannot confirm that COMP3002 is offered in Spring.","I don't have the answer.
+
+Looking at the provided documentation, I can see that the ""Offerings"" section shows Spring offerings only for COMP3032 (with code ""COMP3032-SPR-1-PS""), not for COMP3002. The documentation lists COMP3002 offerings for Autumn, Surabaya Semester 2, Sydney City Campus Term 3, and Vietnam Session 2/3, but does not show any COMP3002 offerings in the Spring term. The documentation does not explicitly state whether COMP3002 is offered in Spring, so I cannot confirm with certainty.",I don't have the answer.,"No. It is listed in Autumn for the main WSU offering, not Spring.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Run 7,"Looking at the provided documentation for COMP3002 - Applications of Big Data, I can see the offerings section:
+
+```
+Offerings
+Autumn
+Collapse all
+COMP3002-AUT-1-PS
+```
+
+The documentation shows that COMP3002 has offerings for:
+- Autumn (COMP3002-AUT-1-PS)
+- Surabaya Semester 2 (COMP3002-IS2-1-SU)
+- Sydney City Campus Term 3 (COMP3002-SC3-1-SC)
+- Vietnam Session 2 (COMP3002-UT2-1-UE)
+- Vietnam Session 3 (COMP3002-UT3-1-UE)
+
+There is no mention of Spring as an offering term for COMP3002 in the documentation. The offerings are specifically labeled as Autumn, Surabaya Semester 2, Sydney City Campus Term 3, and Vietnam Session offerings.
+
+Therefore, based on the provided documentation, COMP3002 - Applications of Big Data is not offered in Spring.","I don't have the answer.
+
+The documentation shows that COMP3002 has an Autumn offering (COMP3002-AUT-1-PS) but does not explicitly state that it is offered in Spring. While there is a Spring offering listed for COMP3032 (not COMP3002), the documentation does not indicate that COMP3002 is offered in Spring. The prompt asks specifically about Spring offerings for COMP3002, and the documentation does not provide information that would confirm it is offered in Spring.","I don't have the answer.
+
+Looking at the provided documentation, I can see that COMP3002 is offered in Autumn with specific sessions (Parramatta South, Surabaya, Sydney City, and Vietnam), but there is no mention of COMP3002 being offered in Spring. The documentation shows a section for ""Offerings Spring"" but it only lists COMP3032 courses, not COMP3002. The documentation does not indicate that COMP3002 is offered in Spring.","I don't have the answer.
+
+Actually, let me recheck carefully. Looking at the provided documentation, I can see:
+
+1. The subject is COMP3002 - Applications of Big Data
+2. The documentation shows ""Offerings"" for Autumn: ""COMP3002-AUT-1-PS"" (which indicates it's offered in Autumn)
+3. The documentation shows ""Offerings"" for Spring: ""COMP3032-SPR-1-PS"" (this is a different subject, COMP3032, not COMP3002)
+
+The documentation does not show any Spring offerings for COMP3002. The Spring section only lists COMP3032, not COMP3002.
+
+So the answer is: No, COMP3002 - Applications of Big Data is not offered in Spring according to the documentation.",I don't have the answer.,"No. It is listed in Autumn for the main WSU offering, not Spring.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Run 8,"After carefully reviewing the provided documentation for COMP3002 - Applications of Big Data, I can see that the course offerings are listed under ""Autumn"" with the following details:
+
+```
+Offerings
+Autumn
+Collapse all
+COMP3002-AUT-1-PS
+COMP3002-IS2-1-SU
+COMP3002-SC3-1-SC
+COMP3002-UT2-1-UE
+COMP3002-UT3-1-UE
+```
+
+The documentation specifically shows that COMP3002 is offered in Autumn (not Spring), with no mention of Spring semester offerings. The course listings are organized under ""Autumn"" as the semester, and there are no Spring offerings indicated in the documentation.
+
+Therefore, the answer to ""Is COMP3002 - Applications of Big Data offered in Spring?"" is **no**.",I don't have the answer.,"Based on the provided documentation, COMP3002 - Applications of Big Data is **not** offered in Spring. The documentation explicitly shows that COMP3002 is offered in Autumn (with the code ""COMP3002-AUT-1-PS"") and in various other locations such as Sydney City Campus (Term 3) and Vietnam sessions (Sessions 2 and 3). However, the ""Offerings Spring"" section only lists COMP3032-SPR-1-PS (a different subject), not COMP3002. This indicates that COMP3002 is not part of the Spring offerings according to the provided information.
+
+**Answer**: No, COMP3002 - Applications of Big Data is not offered in Spring.","I don't have the answer.
+
+The documentation shows that COMP3002 is offered in Autumn (with code ""COMP3002-AUT-1-PS"") and in Vietnam sessions (with codes ""COMP3002-UT2-1-UE"" and ""COMP3002-UT3-1-UE""), but there is no mention of COMP3002 being offered in Spring. The Spring section only shows COMP3032-SPR-1-PS, not COMP3002.",I don't have the answer.,"No. It is listed in Autumn for the main WSU offering, not Spring.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Run 9,"After carefully reviewing the provided documentation for COMP3002 - Applications of Big Data, I can see that the course offerings section lists:
+
+```
+Offerings
+Autumn
+Collapse all
+COMP3002-AUT-1-PS
+```
+
+This shows that COMP3002 is offered in Autumn (with the code COMP3002-AUT-1-PS), and also has other sessions including Surabaya Semester 2, Sydney City Campus Term 3, and Vietnam Sessions 2 and 3.
+
+However, there is no mention of any Spring offerings for COMP3002 in the documentation. The course offerings are specifically listed under ""Autumn"" with no Spring sessions indicated.
+
+Therefore, based on the provided information, **COMP3002 - Applications of Big Data is not offered in Spring**.","I don't have the answer. 
+
+The documentation shows that COMP3002 has an Autumn offering (COMP3002-AUT-1-PS) but does not explicitly mention any Spring offering for COMP3002. The Spring section only shows COMP3032 being offered (COMP3032-SPR-1-PS), not COMP3002. The documentation does not provide information confirming that COMP3002 is offered in Spring.","Based on the provided documentation, COMP3002 - Applications of Big Data is listed as having an Autumn offering (COMP3002-AUT-1-PS), but there is no mention of a Spring offering for COMP3002. The ""Offerings Spring"" section in the documentation shows courses for COMP3032 (not COMP3002). Therefore, the documentation indicates that COMP3002 is not offered in Spring.
+
+No.","I don't have the answer.
+
+Wait, let me check again carefully...
+
+Looking at the documentation, I see that there's a section labeled ""Offerings"" with ""Autumn"" offerings that include COMP3002 (with various locations), but there's no COMP3002 offering listed under ""Spring"" offerings. The Spring section only shows COMP3032 offerings (not COMP3002).
+
+Actually, I need to be precise about the question. The question asks if COMP3002 - Applications of Big Data is offered in Spring.
+
+After reviewing the documentation carefully, I can see that there are no Spring offerings listed for COMP3002. The Spring section only shows COMP3032 offerings.
+
+So the answer is no, COMP3002 - Applications of Big Data is not offered in Spring according to the provided documentation.
+
+Wait, I need to be absolutely precise. Let me check the documentation once more...
+
+The documentation shows:
+- Autumn offerings: COMP3002-AUT-1-PS (Parramatta South), COMP3002-IS2-1-SU (Surabaya), etc.
+- Spring offerings: COMP3032-SPR-1-PS (Parramatta South), COMP3032-SC1-1-SC (Sydney City), etc.
+
+There is no COMP3002 offering listed under Spring. The Spring section only shows COMP3032 offerings.
+
+Therefore, COMP3002 - Applications of Big Data is not offered in Spring according to the provided documentation.
+
+Actually, I think I've been too careful. Let me just state the answer clearly.
+
+The answer is no, COMP3002 - Applications of Big Data is not offered in Spring according to the provided documentation.","I don't have the answer. The documentation provided only specifies that COMP3002 has ""Autumn"" offerings, but it does not explicitly mention whether the course is offered in Spring or include information about Spring semesters. The documentation does not indicate any Spring offerings, but it also does not explicitly state that Spring offerings do not exist. Without additional context about the academic calendar or semester structure for this course in the 2026 academic year, it is not possible to determine if the course is offered in Spring.","No. It is listed in Autumn for the main WSU offering, not Spring.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Run 10,"After carefully reviewing the provided documentation, I can see that COMP3002 - Applications of Big Data has an ""Offerings"" section that lists:
+
+```
+Offerings
+Autumn
+Collapse all
+COMP3002-AUT-1-PS
+...
+```
+
+The documentation shows that COMP3002 is offered in Autumn with several specific offerings (Parramatta South, Surabaya, Sydney City, and Vietnam sessions), but there is no mention of Spring offerings in the documentation. The ""Offerings"" section only explicitly lists ""Autumn"" as the term, with no reference to Spring.
+
+While some universities use different terminology (like ""Semester 1"" for Spring), the documentation for COMP3002 doesn't indicate any Spring offerings. The other subjects in the documentation (COMP3032 and COMP2026) also only show Autumn offerings, not Spring.
+
+Therefore, based on the provided documentation, **COMP3002 - Applications of Big Data is not offered in Spring**.",I don't have the answer.,"Based on the provided documentation, COMP3002 - Applications of Big Data is not explicitly stated to be offered in Spring. The documentation shows that COMP3002 has Autumn offerings (listed under ""Offerings Autumn Collapse all""), but there is no mention of Spring offerings for COMP3002. The ""Offerings Spring"" section in the documentation lists COMP3032 (a different subject), not COMP3002.
+
+Therefore, according to the provided documentation, **COMP3002 - Applications of Big Data is not offered in Spring**.
+
+**Answer: No**","I don't have the answer.
+
+The documentation shows that COMP3002 has offerings in Autumn (with multiple locations including Parramatta South, Surabaya, Sydney City, and Vietnam), but there is no indication that COMP3002 is offered in Spring. The ""Spring"" section in the documentation only lists offerings for COMP3032 (a different subject), not COMP3002.","I don't have the answer.
+
+The provided documentation shows that COMP3002 - Applications of Big Data has offerings for ""Autumn"" (with specific course codes like COMP3002-AUT-1-PS), ""Surabaya Semester 2"", ""Sydney City Campus - Term 3"", and ""Vietnam Session 2"" and ""Vietnam Session 3"". However, there is no specific mention of ""Spring"" as an offering period in the documentation. The document doesn't explicitly state whether Spring is a semester in which this subject is offered.","No. It is listed in Autumn for the main WSU offering, not Spring.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

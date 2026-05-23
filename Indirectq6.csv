@@ -1,221 +1,353 @@
-Run 1,"The question asks whether the course ""Applications of Big Data"" is only available in Autumn or only available in Spring. 
+Run time,Result for non chunking,Result for equal chunking,Result for manual chunking overlap,Result for LangChain,Result for LangChain overlap,Answer
+Run 1,"The document provided does not explicitly state when ""Applications of Big Data"" (COMP3002) is available. While it lists this subject as part of the curriculum for the Surabaya campus, it does not include specific information about the terms or sessions during which this course is offered. The document does mention a naming convention for other subjects (e.g., COMP2026-AUT-1-PS for Autumn), but this pattern does not confirm the availability of COMP3002 in a specific term. Without additional details about the offerings for this subject, it is not possible to determine whether it is only available in Autumn, only in Spring, or both.
 
-The documentation shows that the course is offered in multiple sessions:
-- Autumn (Parramatta South)
-- Surabaya Semester 2
-- Sydney City Campus Term 3
-- Vietnam Session 2
-- Vietnam Session 3
+\boxed{The document does not provide specific information about when ""Applications of Big Data"" is available.}","Based on the provided documentation, Applications of Big Data (COMP3002) is available in both Autumn and Spring semesters. The documentation shows:
 
-This indicates that the course is available in more than one session throughout the year. In the context of Australian universities, ""Autumn"" typically refers to Semester 2, and ""Spring"" refers to Semester 1. However, the documentation does not explicitly mention a ""Spring"" session, but it confirms the course is available in multiple sessions, including what would be considered Autumn (Semester 2).
+- An Autumn offering: ""COMP3002-AUT-1-PS"" (Parramatta South)
+- A Semester 2 offering: ""COMP3002-IS2-1-SU"" (Surabaya, which corresponds to Spring)
 
-Since the course is not exclusively available in Autumn (as it is offered in other sessions) and the documentation does not provide explicit information about Spring sessions, the course is neither only available in Autumn nor only available in Spring.
+Therefore, it is not only available in Autumn or only in Spring. The answer is: No, it's available in both Autumn and Spring semesters.","Based on the provided documentation, the subject ""Applications of Big Data"" (COMP3002) is offered in multiple sessions throughout the year, including:
 
-Therefore, the answer to the question is no.
-
-\boxed{\text{no}}"
-Run 2,
-Run 3,"The question asks: ""Is Applications of Big Data only available in only in Autumn or only in Spring?"" This appears to contain a typo (""only in only in""), and it is interpreted as: ""Is Applications of Big Data only available in Autumn or only in Spring?""
-
-From the provided documentation, the course ""Applications of Big Data"" is available in multiple sessions:
-- Autumn: Available in Parramatta South (COMP3002-AUT-1-PS)
-- Semester 2: Available in Surabaya (COMP3002-IS2-1-SU)
-- Term 3: Available in Sydney City (COMP3002-SC3-1-SC)
-- Vietnam Session 2 and Vietnam Session 3: Also available
-
-In many university systems, ""Semester 2"" is often considered equivalent to ""Spring,"" and ""Term 3"" may fall within a different academic period. However, the documentation explicitly shows availability in more than one session, including Autumn and other sessions that could be interpreted as Spring.
-
-Therefore, the course is **not** exclusively available in Autumn (as it is also available in other sessions) and **not** exclusively available in Spring (as it is also available in Autumn and other sessions). The answer to the question is **no**.
-
-\boxed{\text{no}}"
-Run 4,"The provided information does not explicitly mention or define what ""Spring"" refers to in the context of academic terms. The documentation lists the subject as being offered in ""Autumn,"" ""Semester 2,"" and ""Term 3,"" but it does not specify that ""Semester 2"" is equivalent to ""Spring"" or provide any information about the term ""Spring"" itself. Therefore, it is impossible to determine whether the subject is only available in Spring or not based solely on the provided information.
-
-Additionally, the documentation shows that the subject is available in multiple terms (Autumn, Semester 2, Term 3), which means it is not exclusively available in Autumn. However, the question asks whether it is *only* available in Autumn *or* *only* available in Spring. Since the provided information does not address the term ""Spring"" at all, there is insufficient data to confirm or deny the second option.
-
-Thus, the answer cannot be determined from the provided information."
-Run 5,"No, Applications of Big Data (COMP3002) is **not** only available in Autumn or only available in Spring. The documentation shows it is offered in both **Autumn** (e.g., `COMP3002-AUT-1-PS`) and **Spring** (e.g., `COMP3002-IS2-1-SU`, which refers to ""Surabaya Semester 2""). Additionally, it has other terms (e.g., ""Sydney City Campus - Term 3"" and ""Vietnam Session 2/3""). 
-
-In the Australian academic context:
-- **Autumn** typically corresponds to Semester 1.
-- **Spring** typically corresponds to Semester 2.
-
-Therefore, the subject is available in **both** Autumn and Spring (as well as other regional or session-specific offerings), so it does not satisfy the condition of being ""only available in Autumn or only available in Spring."""
-Run 6,"I don't need to answer this question because the documentation shows that Applications of Big Data is available in multiple terms, not just Autumn or just Spring. The documentation explicitly lists:
-- An ""Autumn"" offering
-- A ""Semester 2"" offering (which would typically be Spring in many academic systems)
-- A ""Term 3"" offering
-- ""Session 2"" and ""Session 3"" offerings (Vietnam)
-
-Therefore, the course is available in both Autumn and Spring (Semester 2), so it's not ""only available in Autumn"" nor ""only available in Spring"". The answer to the question is no."
-Run 7,"No, Applications of Big Data is not only available in Autumn or only in Spring. The documentation shows that it is offered in multiple sessions across different locations and time periods, including:
-
-- Autumn (Parramatta South: `COMP3002-AUT-1-PS`)
-- Surabaya Semester 2 (`COMP3002-IS2-1-SU`)
-- Sydney City Campus Term 3 (`COMP3002-SC3-1-SC`)
-- Vietnam Session 2 (`COMP3002-UT2-1-UE`)
-- Vietnam Session 3 (`COMP3002-UT3-1-UE`)
-
-This indicates that the course is available in more than one session (beyond just Autumn), and the documentation does not explicitly use the term ""Spring"" to describe a specific offering. Therefore, it is not exclusively available in Autumn or only in Spring."
-Run 8,"The question asks: ""Is Applications of Big Data only available in only in Autumn or only in Spring?"" (Note: The phrasing ""only in only in"" appears to be a typo and is interpreted as ""only available in Autumn or only available in Spring"").
-
-Based on the provided documentation, the course ""Applications of Big Data"" is offered in **Autumn** (specifically listed as ""Autumn"" for Parramatta South) and also in **Semester 2** (listed as ""Surabaya Semester 2""). In the Australian university context, Semester 1 is typically referred to as ""Autumn"" and Semester 2 as ""Spring"" (or ""Spring semester""). Therefore, the course is available in **both** Autumn and Spring.
-
-The question is asking whether the course is **exclusively** available in Autumn (i.e., not in Spring) **or** exclusively available in Spring (i.e., not in Autumn). Since the course is offered in both terms, it is **not** exclusively available in Autumn and **not** exclusively available in Spring.
-
-**Conclusion**: The answer is **No** — the course is available in both Autumn and Spring, so it is not ""only available in Autumn"" nor ""only available in Spring"".
-
-**Additional context**: The documentation also shows other offerings (e.g., Sydney City Campus Term 3, Vietnam Session 2, Vietnam Session 3), but these do not change the fact that the course is offered in both Autumn and Spring semesters. The key point is that the course is not limited to a single term (Autumn or Spring)."
-Run 9,"Based on the provided documentation, the course ""Applications of Big Data"" (COMP3002) is not only available in Autumn or only in Spring. The documentation shows multiple offerings:
-
-1. Autumn: COMP3002-AUT-1-PS (Parramatta South)
-2. Surabaya Semester 2: COMP3002-IS2-1-SU
-3. Sydney City Campus - Term 3: COMP3002-SC3-1-SC
-4. Vietnam Session 2: COMP3002-UT2-1-UE
-5. Vietnam Session 3: COMP3002-UT3-1-UE
-
-The course is offered in multiple terms (Autumn, Semester 2, Term 3, Session 2, and Session 3), so it is not limited to only Autumn or only Spring. The documentation does not explicitly define what ""Spring"" refers to in this context, but it clearly shows the course is available in multiple terms beyond just Autumn.
-
-Therefore, the answer is no - Applications of Big Data is not only available in Autumn or only in Spring."
-Run 10,"Based on the provided documentation, the course ""Applications of Big Data"" (or the relevant offering) is **not** exclusively available in Autumn or exclusively available in Spring. Instead, it is available in multiple terms and locations, as indicated by the following offerings:
-
-- **Autumn**: COMP3002-AUT-1-PS
-- **Surabaya Semester 2**: COMP3002-IS2-1-SU
+- **Autumn**: COMP3002-AUT-1-PS (Parramatta South)
+- **Semester 2**: COMP3002-IS2-1-SU (Surabaya)
 - **Sydney City Campus - Term 3**: COMP3002-SC3-1-SC
 - **Vietnam Session 2**: COMP3002-UT2-1-UE
 - **Vietnam Session 3**: COMP3002-UT3-1-UE
 
-The documentation shows that the course is offered across at least five distinct terms and locations. Therefore, it is **neither** only available in Autumn **nor** only available in Spring. The phrase ""only available in only in Autumn or only in Spring"" is awkwardly phrased, but the intended question likely asks whether the course is exclusively available in Autumn (and not in Spring) or exclusively available in Spring (and not in Autumn). Since the course is available in multiple terms (including Autumn and other terms), the answer is **no**.
+The documentation explicitly shows that the subject is available in both **Autumn** and **Semester 2** (which corresponds to Spring in many educational systems). Therefore, it is **not only available in Autumn** and **not only available in Spring**. The subject is offered in multiple sessions across different terms and locations.
 
-**Conclusion**: The course is **not** only available in Autumn and **not** only available in Spring. It is available in multiple terms."
-Run 11,"Based on the documentation provided, the course ""Applications of Big Data"" is **not** only available in Autumn or only in Spring. Here's why:
+**Answer**: No, Applications of Big Data is not only available in Autumn or only in Spring. It is available in multiple sessions throughout the year.","The question asks whether ""Applications of Big Data"" is only available in Autumn or only in Spring. 
 
-1. **The documentation explicitly shows it is available in Autumn**: The offering `COMP3002-AUT-1-PS` indicates an Autumn session.
-2. **It is also available in other sessions**: The documentation lists additional sessions, including:
-   - Surabaya Semester 2
-   - Sydney City Campus Term 3
-   - Vietnam Session 2
-   - Vietnam Session 3
+Based on the provided documentation, the subject is offered in multiple terms:
+- ""Autumn"" (which corresponds to the first semester)
+- ""Surabaya Semester 2"" (which corresponds to the second semester, often referred to as Spring in Australian university contexts)
+- ""Sydney City Campus - Term 3""
+- ""Vietnam Session 2""
+- ""Vietnam Session 3""
 
-This means the course is offered in **multiple sessions**, not exclusively in Autumn or exclusively in Spring. While ""Semester 2"" (for Surabaya) might correspond to a Spring term in some academic calendars, the documentation does not explicitly use the term ""Spring"" and shows the course is available in additional sessions beyond Autumn. Therefore, it is neither **only** available in Autumn nor **only** available in Spring.
+This indicates that the subject is available in both Autumn (the first semester) and what would be considered Spring (the second semester). Therefore, it is not exclusively available in Autumn, and it is not exclusively available in Spring.
 
-**Conclusion**: No, the course is not only available in Autumn or only in Spring. It is available across multiple sessions."
-Run 12,
-Run 13,I don't have the answer.
-Run 14,"The question asks whether ""Applications of Big Data"" is only available in Autumn or only in Spring. Based on the provided documentation, the course is available in multiple terms:
+The question is phrased to ask if the subject is *only* available in Autumn *or* *only* available in Spring. Since it is available in both, the answer to this question is **No**.
 
-- **Autumn**: COMP3002-AUT-1-PS
+\boxed{No}","No. The documentation shows that ""Applications of Big Data"" (COMP3002) is available in multiple sessions beyond just Autumn, including Surabaya Semester 2, Sydney City Campus Term 3, Vietnam Session 2, and Vietnam Session 3. Therefore, it is not exclusively available in Autumn, and it is not exclusively available in Spring (as it is available in Autumn). The answer is not ""only available in Autumn"" or ""only available in Spring""."," COMP 3002 Applications of Big Data is offered in Autumn at
+Parramatta, Surabaya Semester 2,Sydney City Campus Term 3 ,Vietnam Session 2,Vietnam Session 3."
+Run 2,"The document does not provide specific information about the availability of ""Applications of Big Data"" in Autumn or Spring. The text lists ""COMP3002 - Applications of Big Data"" as a subject that Surabaya Campus students must complete, but it does not specify the terms (e.g., Autumn, Spring) during which this subject is offered. The document includes details about other subjects like ""COMP2026 - Visual Analytics"" with their respective terms (e.g., Autumn, Surabaya Semester 2), but no information about the availability of ""Applications of Big Data"" is provided in the context of academic terms. 
+
+Therefore, the answer is that the document does not specify whether ""Applications of Big Data"" is available only in Autumn, only in Spring, or both.","Based on the provided documentation, Applications of Big Data (COMP3002) is available in both Autumn and Spring semesters. The documentation shows:
+
+- An Autumn offering: ""COMP3002-AUT-1-PS"" (Parramatta South)
+- A Semester 2 offering: ""COMP3002-IS2-1-SU"" (Surabaya, which corresponds to Spring)
+
+Therefore, it is not only available in Autumn or only in Spring. The answer is: No, it's available in both Autumn and Spring semesters.","Based on the provided documentation, the subject ""Applications of Big Data"" (COMP3002) is offered in multiple sessions:
+
+- **Autumn**: COMP3002-AUT-1-PS (Parramatta South)
 - **Semester 2**: COMP3002-IS2-1-SU (Surabaya)
-- **Term 3**: COMP3002-SC3-1-SC (Sydney City)
-- **Session 2**: COMP3002-UT2-1-UE (Vietnam)
-- **Session 3**: COMP3002-UT3-1-UE (Vietnam)
+- **Sydney City Campus - Term 3**: COMP3002-SC3-1-SC
+- **Vietnam Session 2**: COMP3002-UT2-1-UE
+- **Vietnam Session 3**: COMP3002-UT3-1-UE
 
-This indicates that the course is **not only available in Autumn** (it is available in other terms as well). Additionally, ""Spring"" is not a standard term in Australian university contexts (which typically use ""Semester 1"" and ""Semester 2""), and the documentation does not specify availability in a ""Spring"" term. Therefore, the course is also **not only available in Spring** (as it is available in multiple terms).
+In the Australian academic context:
+- ""Autumn"" typically refers to **Semester 1** (the first semester of the academic year).
+- ""Semester 2"" is commonly referred to as **Spring** in many Australian universities.
 
-The answer to the question ""Is Applications of Big Data only available in Autumn or only in Spring?"" is **No**. The course is available in more than just Autumn, and ""Spring"" is not clearly defined in the documentation.
+Therefore, the subject is **available in both Autumn (Semester 1) and Spring (Semester 2)**, not exclusively in one or the other.
 
-**Final Answer**: No"
-Run 15,"Based on the provided documentation, the subject ""Applications of Big Data"" is offered in multiple sessions, including:
+The question asks: ""Is Applications of Big Data only available in Autumn or only in Spring?"" This is interpreted as:  
+- Is it **exclusively available in Autumn** (and not Spring)? **No**.  
+- Is it **exclusively available in Spring** (and not Autumn)? **No**.
 
-- **Autumn** (Parramatta South)
-- **Semester 2** (Surabaya) — typically referred to as the Spring semester in the Australian academic context
-- **Term 3** (Sydney City)
+Since the subject is offered in both semesters, the answer to the question is **No**. It is not ""only"" available in Autumn and not ""only"" available in Spring—it is available in both.
+
+**Final Answer**: No.","The documentation indicates that the subject ""Applications of Big Data"" is available in both **Autumn** (specifically, the offering labeled ""Autumn"" for Parramatta South) and **Semester 2** (which corresponds to the Spring semester in the Australian academic context). Therefore, it is **not** exclusively available in Autumn or exclusively available in Spring. The subject is available in both semesters, so the answer to the question ""Is Applications of Big Data only available in Autumn or only in Spring?"" is **no**.
+
+**Key points from the documentation**:
+- Autumn offering: `COMP3002-AUT-1-PS` (Parramatta South)
+- Semester 2 offering: `COMP3002-IS2-1-SU` (Surabaya)
+
+In Australian universities, **Semester 1** is typically referred to as **Autumn**, and **Semester 2** is typically referred to as **Spring**. Since the subject is offered in both, it is not ""only"" available in one or the other. The documentation also shows additional offerings (e.g., Term 3 and Vietnam sessions), but this does not change the fact that it is available in both Autumn and Spring. 
+
+Thus, the answer is **no**.","Based on the provided documentation, Applications of Big Data is **not** only available in Autumn and **not** only available in Spring. The documentation explicitly shows:
+
+- An **Autumn** offering.
+- Additional sessions, including ""Surabaya Semester 2"" and ""Sydney City Campus - Term 3,"" which could correspond to Spring in some academic calendars (though the term ""Spring"" is not explicitly used in the documentation).
+
+This indicates that the subject is available in **multiple sessions throughout the year**, including Autumn and likely Spring (via Semester 2). Therefore, it does not meet the criteria of being ""only available in Autumn"" or ""only available in Spring.""
+
+**Answer:** No."," COMP 3002 Applications of Big Data is offered in Autumn at
+Parramatta, Surabaya Semester 2,Sydney City Campus Term 3 ,Vietnam Session 2,Vietnam Session 3."
+Run 3,"The document does not provide specific information about the availability of ""Applications of Big Data"" in Autumn or Spring. The text lists ""COMP3002 - Applications of Big Data"" as a subject that Surabaya Campus students must complete, but it does not specify the terms (e.g., Autumn, Spring) during which this subject is offered. The document includes details about other subjects like ""COMP2026 - Visual Analytics"" with their respective terms (e.g., Autumn, Surabaya Semester 2), but no information about the availability of ""Applications of Big Data"" is provided in the context of academic terms. 
+
+Therefore, the answer is that the document does not specify whether ""Applications of Big Data"" is available only in Autumn, only in Spring, or both.","No, Applications of Big Data is available in both Autumn and Spring. The documentation shows two offerings: ""COMP3002-AUT-1-PS"" for Autumn and ""COMP3002-IS2-1-SU"" for Semester 2 (which corresponds to Spring in the Australian university context). Therefore, it is not exclusively available in Autumn or exclusively available in Spring.",I don't have the answer.,,"The documentation shows that ""Applications of Big Data"" (the course code is COMP3002) is available in **Autumn** (as indicated by the offering ""COMP3002-AUT-1-PS"" for Parramatta South) and also in **Semester 2** (as indicated by ""COMP3002-IS2-1-SU"" for Surabaya). In academic contexts, ""Semester 2"" typically corresponds to the **Spring** semester. Therefore, the course is available in both Autumn and Spring (at least in some locations).
+
+The question asks: ""Is Applications of Big Data only available in Autumn or only in Spring?"" This is interpreted as whether the course is exclusively available in Autumn **or** exclusively available in Spring. Since the course is available in both semesters, the answer is **no**.
+
+**Final Answer: No**"," COMP 3002 Applications of Big Data is offered in Autumn at
+Parramatta, Surabaya Semester 2,Sydney City Campus Term 3 ,Vietnam Session 2,Vietnam Session 3."
+Run 4,"The document does not explicitly state the specific sessions in which Applications of Big Data (COMP3002) is offered. However, based on the pattern of offerings for other subjects (such as COMP2026, which includes ""Autumn"" and ""Sydney City Campus - Term 2"" as sessions), and the fact that COMP3002 is listed as a core subject for Surabaya students, it is reasonable to infer that Applications of Big Data is likely available in multiple sessions, including both Autumn and Spring. 
+
+The question asks whether Applications of Big Data is ""only available in Autumn or only in Spring."" Given the context of academic calendars in many universities (where ""Term 2"" typically corresponds to Spring), and the lack of specific exclusivity in the document, Applications of Big Data is not limited to a single season but is available in both.
+
+Thus, the answer is that Applications of Big Data is available in both Autumn and Spring.
+
+\boxed{Applications of Big Data is available in both Autumn and Spring}","No, it is available in both Autumn and Spring. The documentation shows two offerings:  
+- **Autumn**: COMP3002-AUT-1-PS (Parramatta South)  
+- **Semester 2 (Spring)**: COMP3002-IS2-1-SU (Surabaya)  
+
+In Australian university contexts, Semester 2 typically corresponds to Spring. Therefore, Applications of Big Data is not exclusively available in Autumn nor exclusively in Spring.","Based on the provided information, Applications of Big Data (COMP3002) is **not only available in Autumn or only in Spring**. The documentation shows that the subject is offered in multiple sessions, including:
+
+- **Autumn** (Semester 1, as indicated by ""Offerings Autumn"")
+- **Semester 2** (which corresponds to Spring in many Australian university terms)
+- **Term 3** (Sydney City Campus)
 - **Vietnam Session 2** and **Vietnam Session 3**
 
-This indicates that the subject is **not exclusively available in Autumn** (as it is also offered in Spring) and **not exclusively available in Spring** (as it is also offered in Autumn). Therefore, the answer to the question ""Is Applications of Big Data only available in Autumn or only in Spring?"" is **no**.
+This confirms that the subject is available in both Autumn and Spring (Semester 2), and also in additional sessions. Therefore, it is **not exclusively available in Autumn** and **not exclusively available in Spring**.
 
-The documentation shows that the subject is available in both Autumn and Spring (Semester 2), as well as other terms, so it does not meet the criteria of being ""only"" available in one of these semesters.
+**Answer**: No.","I don't have the answer. 
 
-**Final Answer**: No."
-Run 16,"Based on the provided documentation, the course ""Applications of Big Data"" (course code: COMP3002) is **not** only available in Autumn or only available in Spring. The documentation explicitly lists multiple offerings across different terms and locations:
+The documentation shows that ""Applications of Big Data"" (COMP3002) is available in Autumn (with the code COMP3002-AUT-1-PS) and also in other sessions such as ""Surabaya Semester 2,"" ""Sydney City Campus - Term 3,"" ""Vietnam Session 2,"" and ""Vietnam Session 3."" However, the documentation does not explicitly use the term ""Spring"" to describe any of these offerings, nor does it clarify whether the subject is exclusively available in Autumn or exclusively in Spring. In some educational contexts, ""Semester 2"" might be referred to as ""Spring,"" but the documentation does not confirm this or provide enough detail to determine if the subject is ""only"" available in one or the other. Therefore, based on the provided information, I cannot definitively answer whether it is ""only available in Autumn"" or ""only in Spring.""","Based on the provided documentation, Applications of Big Data is **not** only available in Autumn and **not** only available in Spring. The documentation explicitly shows:
 
-- **Autumn**: COMP3002-AUT-1-PS (Autumn term)
-- **Semester 2**: COMP3002-IS2-1-SU (Surabaya Semester 2)
-- **Term 3**: COMP3002-SC3-1-SC (Sydney City Campus Term 3)
-- **Session 2**: COMP3002-UT2-1-UE (Vietnam Session 2)
-- **Session 3**: COMP3002-UT3-1-UE (Vietnam Session 3)
+- An **Autumn** offering.
+- Additional sessions, including ""Surabaya Semester 2"" and ""Sydney City Campus - Term 3,"" which could correspond to Spring in some academic calendars (though the term ""Spring"" is not explicitly used in the documentation).
 
-This indicates that the course is available in **multiple terms**, including Autumn and Semester 2 (which typically corresponds to the ""Spring"" semester in many academic calendars). Therefore, it is **not exclusively available in Autumn** and **not exclusively available in Spring** (as ""Spring"" is not explicitly used in the documentation, but Semester 2 is commonly interpreted as the equivalent of Spring).
+This indicates that the subject is available in **multiple sessions throughout the year**, including Autumn and likely Spring (via Semester 2). Therefore, it does not meet the criteria of being ""only available in Autumn"" or ""only available in Spring.""
 
-**Answer**: No, it is not only available in Autumn or only in Spring."
-Run 17,"No. The documentation shows that ""Applications of Big Data"" is available in both Autumn (e.g., Parramatta South) and Spring (e.g., Surabaya Semester 2), as well as other terms like Term 3 and Sessions 2/3. Therefore, it is not exclusively available in Autumn or exclusively in Spring. The phrasing ""only in only in"" appears to be a typo, but based on the available information, the answer is that it is not limited to either term."
-Run 18,"The question asks whether ""Applications of Big Data"" is **only available in Autumn** or **only available in Spring** (meaning exclusively in one or the other).
+**Answer:** No."," COMP 3002 Applications of Big Data is offered in Autumn at
+Parramatta, Surabaya Semester 2,Sydney City Campus Term 3 ,Vietnam Session 2,Vietnam Session 3."
+Run 5,"The document does not specify when ""Applications of Big Data"" (COMP3002) is offered. While the document lists this subject as part of the required curriculum for the Surabaya Campus, it does not provide details about the specific semesters or academic periods in which the course is available (e.g., whether it is offered in Autumn only, Spring only, or both). The document includes offering patterns for other courses like COMP2026, but no information is given about the schedule for COMP3002. Therefore, based on the provided information, it cannot be determined whether ""Applications of Big Data"" is only available in Autumn or only in Spring.","Based on the provided documentation, Applications of Big Data (COMP3002) is available in both Autumn and Spring semesters. The documentation shows:
 
-Based on the provided documentation:
-- The course is explicitly listed as available in **Autumn** (e.g., `COMP3002-AUT-1-PS`).
-- Additionally, the documentation shows the course is available in **Semester 2** (e.g., `COMP3002-IS2-1-SU`), **Term 3** (e.g., `COMP3002-SC3-1-SC`), and **Session 2/3** (e.g., `COMP3002-UT2-1-UE` and `COMP3002-UT3-1-UE`).
+- ""COMP3002-AUT-1-PS"" (Autumn semester, Parramatta South)
+- ""COMP3002-IS2-1-SU"" (Semester 2, Surabaya)
 
-This indicates that the course is **not exclusively available in Autumn** (it is available in multiple terms/semesters). The documentation does not use the term ""Spring"" explicitly, so there is no clear information about whether it is exclusively available in Spring.
+Since the subject is offered in both semesters (Autumn and Semester 2/Spring), it is not ""only"" available in Autumn and it is not ""only"" available in Spring. Therefore, the answer to the question ""Is Applications of Big Data only available in Autumn or only in Spring?"" is no.","Based on the provided documentation, Applications of Big Data (COMP3002) is **not only available in Autumn or only in Spring**. The documentation shows specific offerings for:
 
-Therefore, the answer to the question is **no**—the course is not only available in Autumn or only available in Spring.
+- **Autumn**: `COMP3002-AUT-1-PS` (Parramatta South)
+- **Semester 2**: `COMP3002-IS2-1-SU` (Surabaya)
 
-**Key reason**: The course is available in more than one term (Autumn, Semester 2, Term 3, Session 2, Session 3), so it is not exclusive to either Autumn or Spring."
-Run 19,"Based on the documentation provided, Applications of Big Data (the course) is **not** only available in Autumn or only available in Spring. Here's the breakdown:
+In many academic contexts, ""Semester 2"" corresponds to the **Spring term**. Therefore, the subject is available in **both Autumn and Spring** (Semester 2), meaning it is **neither exclusively available in Autumn nor exclusively available in Spring**.
 
-- The documentation explicitly lists **Autumn** as a session (COMP3002-AUT-1-PS).
-- It also lists other sessions where the course is available:
-  - Surabaya Semester 2 (COMP3002-IS2-1-SU)
-  - Sydney City Campus Term 3 (COMP3002-SC3-1-SC)
-  - Vietnam Session 2 (COMP3002-UT2-1-UE)
-  - Vietnam Session 3 (COMP3002-UT3-1-UE)
+The documentation also lists additional offerings (e.g., Sydney City Campus Term 3 and Vietnam sessions), but this confirms the subject is available across multiple terms, including both Autumn and Spring.
 
-This confirms that the course is offered in **multiple sessions** (including Autumn and other terms), so it is **not exclusively available in Autumn**. Additionally, the documentation does not mention ""Spring"" as a term, but since the course is available in Autumn, it is also **not exclusively available in Spring**.
-
-Therefore, the answer to the question ""Is Applications of Big Data only available in only in Autumn or only in Spring?"" is **no**. The course is available in multiple sessions, not restricted to just one term."
-Run 20,"Based on the provided documentation, the course ""Applications of Big Data"" (likely a typo for ""Applications of Big Data"") is explicitly available in **Autumn** (labeled as ""Autumn"" in the Offerings section). Additionally, it is available in **Semester 2** (labeled as ""Surabaya Semester 2""), which in the context of Australian academic calendars is commonly referred to as **Spring**.
-
-Therefore, the course is **not only available in Autumn** and **not only available in Spring**. It is available in both Autumn and Spring (Semester 2), so the answer to the question ""Is Applications of Big Data only available in Autumn or only in Spring?"" is **no**.
-
-**Key clarification**:  
-- In Australian universities, Semester 1 is typically called ""Autumn"" (e.g., starting in January), and Semester 2 is typically called ""Spring"" (e.g., starting in June). The documentation shows the course is offered in both periods, confirming it is not limited to one season.  
-- The documentation does not explicitly use the term ""Spring,"" but the context of ""Semester 2"" aligns with standard Australian academic terminology for Spring.
-
-**Final Answer**: No."
-Run 21,"No. The course ""Applications of Big Data"" is not exclusively available in Autumn (Semester 1) or exclusively available in Spring (Semester 2). The documentation shows it is offered in multiple terms across different locations, including:
-
-- Autumn (Semester 1)
-- Surabaya Semester 2 (Spring equivalent)
-- Sydney City Campus Term 3 (likely Spring equivalent)
-- Vietnam Session 2 and Session 3 (likely Spring equivalent)
-
-Therefore, it is available in both Autumn and Spring (and potentially other terms), so it is neither ""only"" available in Autumn nor ""only"" available in Spring."
-Run 22,
-Run 23,"No. The documentation shows that ""Applications of Big Data"" is available in both Autumn (e.g., COMP3002-AUT-1-PS at Parramatta South) and Spring (e.g., Surabaya Semester 2, Sydney City Campus Term 3, Vietnam Session 2, and Vietnam Session 3). Therefore, it is not exclusively available in Autumn or exclusively available in Spring."
-Run 24,"No, it's available in both Autumn and Spring. The documentation shows offerings for Autumn (COMP3002-AUT-1-PS) and Spring (Semester 2 in Surabaya and Term 3 in Sydney City Campus)."
-Run 25,"No. The documentation shows that ""Applications of Big Data"" (COMP3002) is available in Autumn (COMP3002-AUT-1-PS) and in other terms (Semester 2, Term 3, Vietnam Sessions). Therefore, it is not only available in Autumn and not only available in Spring (as ""Spring"" is not explicitly mentioned in the documentation, but the presence of multiple offerings confirms it is not limited to a single term). The documentation indicates it has multiple availability periods, so it does not satisfy the condition of being ""only available in Autumn"" or ""only available in Spring""."
-Run 26,"Based on the provided documentation, Applications of Big Data is offered in multiple terms, including an ""Autumn"" term (COMP3002-AUT-1-PS) and other terms such as ""Surabaya Semester 2"" (COMP3002-IS2-1-SU), ""Sydney City Campus - Term 3"" (COMP3002-SC3-1-SC), ""Vietnam Session 2"" (COMP3002-UT2-1-UE), and ""Vietnam Session 3"" (COMP3002-UT3-1-UE). The documentation does not explicitly label these terms as ""Autumn"" or ""Spring"" semesters in the university's context, but in typical university structures (like Western Sydney University), ""Autumn"" generally refers to Semester 1 and ""Spring"" to Semester 2.
-
-Since the course is offered in more than one term (including an Autumn term and potential Spring terms), it is not exclusively available in Autumn or exclusively available in Spring. Therefore, the answer to the question ""Is Applications of Big Data only available in only in Autumn or only in Spring?"" is **no**.
-
-However, the documentation does not explicitly confirm which of the listed terms correspond to Spring (Semester 2) versus Autumn (Semester 1). For precise confirmation, checking the WSU Online Calendar as noted in the documentation would be recommended. Given the information available, the course is not limited to a single term, so it does not meet the condition of being ""only available in Autumn"" or ""only available in Spring.""
-
-**Final Answer: No**"
-Run 27,"The question asks: ""Is Applications of Big Data only available in only in Autumn or only in Spring?""
-
-The documentation shows that the course is available in the following terms:
-- Autumn (specifically, COMP3002-AUT-1-PS)
+**Answer**: No. Applications of Big Data is available in both Autumn and Spring (Semester 2), so it is not only available in Autumn or only in Spring.","The documentation indicates that ""Applications of Big Data"" is offered in multiple sessions throughout the year, including:
+- Autumn (a semester)
 - Surabaya Semester 2
-- Sydney City Campus Term 3
+- Sydney City Campus - Term 3
 - Vietnam Session 2
 - Vietnam Session 3
 
-This indicates that the course is not exclusively available in Autumn (as it is also available in other sessions). Additionally, the documentation does not explicitly mention ""Spring"" as a term. In some university contexts, ""Spring"" may refer to a second semester, but here it is labeled as ""Semester 2"" for Surabaya, and the documentation does not confirm if Spring is a distinct term for this course.
+This shows that the subject is not exclusively available in Autumn (as it is also offered in other sessions) and not exclusively available in Spring (as ""Semester 2"" may be interpreted as Spring, but the documentation confirms additional sessions beyond Autumn and Spring). Therefore, the subject is not ""only available in Autumn"" nor ""only available in Spring.""
 
-Therefore, the course is not available ""only in Autumn"" (because it is available in other sessions) and it is not confirmed to be available ""only in Spring"" (because Spring is not explicitly mentioned in the documentation). The question asks if it is exclusively available in one of these two terms (Autumn or Spring), and the answer is no.
+The question asks whether the subject is ""only available in Autumn or only in Spring,"" meaning whether it is exclusively available in Autumn or exclusively available in Spring. Based on the documentation, the answer is no.
 
-\boxed{\text{no}}"
-Run 28,"The documentation shows that ""Applications of Big Data"" is available in multiple terms, including:
-- Autumn (COMP3002-AUT-1-PS)
-- Surabaya Semester 2 (COMP3002-IS2-1-SU)
-- Sydney City Campus - Term 3 (COMP3002-SC3-1-SC)
-- Vietnam Session 2 (COMP3002-UT2-1-UE)
-- Vietnam Session 3 (COMP3002-UT3-1-UE)
+\boxed{\text{no}}","The question asks whether ""Applications of Big Data"" is only available in Autumn or only in Spring. The documentation provided shows that the course has Autumn offerings (e.g., ""Autumn: COMP3002-AUT-1-PS (Parramatta South)""), as well as other offerings labeled as ""Semester 2"" and ""Term 3"" (e.g., ""Surabaya Semester 2: COMP3002-IS2-1-SU"", ""Sydney City Campus - Term 3: COMP3002-SC3-1-SC"", ""Vietnam Session 2: COMP3002-UT2-1-UE"", ""Vietnam Session 3: COMP3002-UT3-1-UE""). 
 
-This indicates that the course is **not** exclusively available in Autumn (as it is also available in other terms) and **not** exclusively available in Spring (as the documentation does not use the term ""Spring,"" but Semester 2 may correspond to Spring in some contexts; however, the course is available in multiple terms beyond Autumn, so it is not exclusively in Spring either).
+While ""Semester 2"" and ""Term 3"" might imply Spring terms in some university systems, the documentation does not explicitly state the academic terms or confirm whether these offerings correspond to Spring or other seasons. The question specifically asks if the course is **only** available in Autumn or **only** in Spring. The documentation shows Autumn offerings but does not provide clear evidence about Spring offerings, nor does it explicitly state whether the course is exclusive to one term or the other.
 
-Therefore, the answer to the question ""Is Applications of Big Data only available in only in Autumn or only in Spring?"" is **no**.
+Therefore, based on the provided information, it is not possible to determine if the course is only available in Autumn or only in Spring. The answer requires clarification about the academic terms and their correspondence to seasons, which is not fully provided.
 
-The answer is explicitly supported by the documentation, so no ""I don't have the answer"" response is needed.
+\boxed{I don't have the answer}"," COMP 3002 Applications of Big Data is offered in Autumn at
+Parramatta, Surabaya Semester 2,Sydney City Campus Term 3 ,Vietnam Session 2,Vietnam Session 3."
+Run 6,"Based on the provided text, I do not have enough information to determine whether ""Applications of Big Data"" (likely subject code COMP3002) is only available in Autumn or only in Spring. 
 
-**Final Answer: No**"
-Run 29,
-Run 30,"No. The documentation shows that ""Applications of Big Data"" is available in both Autumn (Semester 1) and Semester 2 (which is typically referred to as Spring in many educational systems). Therefore, it is not exclusively available in Autumn or exclusively available in Spring. The subject is offered in multiple terms, including Autumn and Semester 2."
+The text mentions that COMP3002 is part of the core subjects for the Surabaya campus curriculum, but it does not specify when this subject is offered (e.g., whether it is available in Autumn, Spring, both, or neither). Additionally, the text provides details about the offerings for COMP2026 (Visual Analytics), such as ""AUT"" for Autumn semester, but this information is not applicable to COMP3002.
+
+Without explicit information about the semester schedule for COMP3002, it is not possible to answer the question accurately. 
+
+**Final Answer**: I do not have enough information to determine whether ""Applications of Big Data"" is only available in Autumn or only in Spring.","I don't have the answer.
+
+The documentation shows that COMP3002 - Applications of Big Data has two offerings:
+- COMP3002-AUT-1-PS (Autumn offering at Parramatta South)
+- COMP3002-IS2-1-SU (Semester 2 offering at Surabaya)
+
+This indicates that the subject is available in both Autumn and Semester 2 (which is typically Spring in university terms). The question asks if it's ""only available in Autumn or only in Spring"" (meaning exclusively in one or the other), but the documentation shows it's available in both semesters. Therefore, the answer is that it's not only available in Autumn and not only available in Spring.
+
+However, the prompt specifically asks me to answer ""No"" if it's not exclusively available in either semester, but the instruction says to answer with ""I don't have the answer"" if I can't determine it. Since I can determine that it's available in both semesters (so the answer to the question is ""No""), I should answer ""No"" to the question.
+
+Actually, I need to be precise about the instruction. The prompt says ""Answer with 'I don't have the answer' if you can't determine it."" I can determine that it's available in both semesters, so the answer to the question ""Is Applications of Big Data only available in Autumn or only in Spring?"" is ""No"". But the prompt asks me to respond with ""I don't have the answer"" if I can't determine it. Since I can determine it, I should not respond with ""I don't have the answer"".
+
+Wait, let me check the prompt again: ""Answer with 'I don't have the answer' if you can't determine it."" I can determine that it's available in both semesters, so I should not respond with ""I don't have the answer"". But the question is phrased in a way that I need to say ""No"" to the question.
+
+Actually, I think I made a mistake in my analysis. Let me be very clear:
+
+The question: ""Is Applications of Big Data only available in Autumn or only in Spring?""
+
+This is asking if it's exclusively available in Autumn (and not in Spring) OR exclusively available in Spring (and not in Autumn).
+
+From the documentation, it's available in both semesters (Autumn and Semester 2/Spring), so the answer is ""No"" to the question.
+
+But the instruction says: ""Answer with 'I don't have the answer' if you can't determine it."" I can determine it, so I should answer ""No"".
+
+Wait, I'm confused. Let me think about this differently.
+
+The documentation shows:
+- COMP3002-AUT-1-PS (Autumn offering)
+- COMP3002-IS2-1-SU (Semester 2 offering)
+
+This means it's available in both semesters, so it's not ""only"" available in Autumn and not ""only"" available in Spring.
+
+Therefore, the answer to the question is ""No"".
+
+But the instruction says to answer with ""I don't have the answer"" if I can't determine it. Since I can determine it, I should answer ""No"".
+
+Actually, I think the correct answer is: No.
+
+But the prompt says: ""Answer with 'I don't have the answer' if you can't determine it."" I can determine it, so I should not answer with ""I don't have the answer"".
+
+After careful thought, I realize that I can determine that it's available in both semesters, so the answer to the question is ""No"". But since the instruction says to answer with ""I don't have the answer"" if I can't determine it, and I can determine it, I should answer ""No"".
+
+However, the instruction says: ""Answer with 'I don't have the answer' if you can't determine it."" I can determine it, so I should not answer with ""I don't have the answer"".
+
+I think the answer is: No.
+
+Actually, I'm going to be very precise. The documentation shows it's available in both semesters, so it's not ""only"" available in Autumn and not ""only"" available in Spring. Therefore, the answer to the question ""Is Applications of Big Data only available in Autumn or only in Spring?"" is: No.
+
+But the prompt says: ""Answer with 'I don't have the answer' if you can't determine it."" Since I can determine it, I should answer ""No"".
+
+I think I've overcomplicated this. The answer is: No.","Based on the provided documentation, Applications of Big Data (COMP3002) is **not only available in Autumn or only in Spring**. 
+
+The documentation explicitly shows that COMP3002 is offered in:
+- **Autumn** (as indicated by ""Offerings Autumn Collapse all"" with code `COMP3002-AUT-1-PS`)
+- **Semester 2** (which typically corresponds to Spring in academic systems, with code `COMP3002-IS2-1-SU` for Surabaya)
+
+This confirms that the course is available in **both Autumn and Spring** (Semester 2). Therefore, it is **not exclusively available in Autumn** and **not exclusively available in Spring**.
+
+The question asks if it is ""only available in Autumn or only in Spring"" (i.e., whether it is exclusively Autumn *or* exclusively Spring). Since it is available in both semesters, the answer is **no**.
+
+**Final Answer**: No, Applications of Big Data is not only available in Autumn or only in Spring.","No. The documentation shows that Applications of Big Data (COMP3002) is available in both Autumn and Semester 2 (which corresponds to Spring in many academic systems). Specifically, the ""Offerings"" section lists:
+- Autumn (with offerings)
+- Surabaya Semester 2 (which would be Spring)
+- Sydney City Campus Term 3 (which could be Spring)
+- Vietnam Session 2 (which could be Spring)
+- Vietnam Session 3 (which could be Spring)
+
+Therefore, it is not only available in Autumn and not only available in Spring.","Based on the documentation provided, the subject ""Applications of Big Data"" is available in **Autumn** (as indicated by the ""Autumn"" offering) and also in **Spring** (as indicated by the ""Surabaya Semester 2"" offering, which corresponds to the Spring semester in the Australian academic context). 
+
+The question asks whether it is *only* available in Autumn **or** *only* available in Spring. Since the subject is available in **both** Autumn and Spring (and also in other terms like Term 3 and Vietnam Sessions), it is **not** exclusively available in Autumn and **not** exclusively available in Spring. 
+
+Therefore, the answer to the question is: **No**. 
+
+This conclusion is based on the following evidence from the documentation:
+- ""Autumn"" offering (available in Autumn).
+- ""Surabaya Semester 2"" offering (available in Spring, as Semester 2 typically corresponds to Spring in Australian academic terms).
+
+The subject is not limited to one of these terms; it has multiple availability periods. Hence, it does not satisfy the condition of being ""only available in Autumn"" or ""only in Spring."""," COMP 3002 Applications of Big Data is offered in Autumn at
+Parramatta, Surabaya Semester 2,Sydney City Campus Term 3 ,Vietnam Session 2,Vietnam Session 3."
+Run 7,"The text provided does not include specific information about the term offerings for ""Applications of Big Data"" (COMP3002). The document describes the subject as part of the program but does not specify whether it is offered in Autumn, Spring, or both. The text only mentions ""Autumn"" in the context of the Visual Analytics subject (COMP2026), which is a different subject and not relevant to the query. Therefore, based on the given information, it is impossible to determine when ""Applications of Big Data"" is available. 
+
+**Answer**: The text does not provide specific information about when ""Applications of Big Data"" (COMP3002) is offered.","I don't have the answer.
+
+The documentation shows that COMP3002 (Applications of Big Data) has:
+- An Autumn offering (COMP3002-AUT-1-PS)
+- A Semester 2 offering (COMP3002-IS2-1-SU)
+
+The documentation doesn't explicitly state whether ""Semester 2"" corresponds to Spring or Autumn in this academic context. While in many academic systems Semester 2 would typically correspond to Spring, the documentation doesn't provide a clear statement about the specific terms for the offerings. The question asks if it's ""only available in Autumn or only in Spring,"" but the documentation doesn't give enough information to determine if it's exclusively available in one term or the other.","No, Applications of Big Data (COMP3002) is not only available in Autumn or only in Spring. Based on the provided documentation, the subject is offered in both **Autumn** (e.g., COMP3002-AUT-1-PS) and **Semester 2** (e.g., COMP3002-IS2-1-SU), which corresponds to the equivalent of ""Spring"" in some academic contexts. Therefore, it is available in both periods, so it is not exclusively available in Autumn or exclusively in Semester 2 (Spring).","The question asks whether ""Applications of Big Data"" is only available in Autumn or only in Spring. 
+
+Based on the documentation provided:
+- The subject is explicitly listed as being available in ""Autumn"".
+- It is also listed as being available in ""Surabaya Semester 2"", which typically corresponds to the Spring semester in most academic calendars (where Semester 1 is Autumn and Semester 2 is Spring).
+- Additionally, there are offerings in ""Sydney City Campus - Term 3"" and ""Vietnam Session 2"" and ""Vietnam Session 3"", indicating availability in multiple terms.
+
+Since the subject is available in both Autumn and Spring (as well as other terms), it is not exclusively available in Autumn and not exclusively available in Spring. Therefore, the answer is neither.
+
+\boxed{\text{neither}}","Based on the provided documentation, Applications of Big Data is **not** only available in Autumn and **not** only available in Spring. The documentation explicitly shows:
+
+- An **Autumn** offering.
+- Additional sessions, including ""Surabaya Semester 2"" and ""Sydney City Campus - Term 3,"" which could correspond to Spring in some academic calendars (though the term ""Spring"" is not explicitly used in the documentation).
+
+This indicates that the subject is available in **multiple sessions throughout the year**, including Autumn and likely Spring (via Semester 2). Therefore, it does not meet the criteria of being ""only available in Autumn"" or ""only available in Spring.""
+
+**Answer:** No."," COMP 3002 Applications of Big Data is offered in Autumn at
+Parramatta, Surabaya Semester 2,Sydney City Campus Term 3 ,Vietnam Session 2,Vietnam Session 3."
+Run 8,"The document provided does not explicitly state when ""Applications of Big Data"" (COMP3002) is available. While it lists this subject as part of the curriculum for the Surabaya campus, it does not include specific information about the terms or sessions during which this course is offered. The document does mention a naming convention for other subjects (e.g., COMP2026-AUT-1-PS for Autumn), but this pattern does not confirm the availability of COMP3002 in a specific term. Without additional details about the offerings for this subject, it is not possible to determine whether it is only available in Autumn, only in Spring, or both.
+
+\boxed{The document does not provide specific information about when ""Applications of Big Data"" is available.}
+**Respuesta final:**  
+No es solo en Otoño ni solo en Primavera.","Based on the provided documentation, Applications of Big Data (COMP3002) is available in both Autumn and Semester 2 (which corresponds to Spring in Australian university terms). 
+
+The documentation shows:
+- An Autumn offering: ""COMP3002-AUT-1-PS"" (Parramatta South)
+- A Semester 2 offering: ""COMP3002-IS2-1-SU"" (Surabaya)
+
+Therefore, it is not only available in Autumn nor only in Spring. The answer to the question ""Is Applications of Big Data only available in Autumn or only in Spring?"" is: No.","Based on the provided documentation, Applications of Big Data (COMP3002) is **not only available in Autumn or only in Spring**. 
+
+The documentation explicitly shows that COMP3002 is offered in:
+- **Autumn** (as indicated by ""Offerings Autumn Collapse all"" with code `COMP3002-AUT-1-PS`)
+- **Semester 2** (which typically corresponds to Spring in academic systems, with code `COMP3002-IS2-1-SU` for Surabaya)
+
+This confirms that the course is available in **both Autumn and Spring** (Semester 2). Therefore, it is **not exclusively available in Autumn** and **not exclusively available in Spring**.
+
+The question asks if it is ""only available in Autumn or only in Spring"" (i.e., whether it is exclusively Autumn *or* exclusively Spring). Since it is available in both semesters, the answer is **no**.
+
+**Final Answer**: No, Applications of Big Data is not only available in Autumn or only in Spring.","The documentation shows that ""Applications of Big Data"" (referred to as the subject) has offerings in both ""Autumn"" and ""Semester 2"" (which corresponds to the Spring term in the Australian academic calendar). Specifically:
+
+- There is an ""Autumn"" offering (COMP3002-AUT-1-PS).
+- There is a ""Surabaya Semester 2"" offering (COMP3002-IS2-1-SU), which indicates availability in the Spring term.
+
+Since the subject is available in both Autumn and Spring, it is not exclusively available in Autumn and not exclusively available in Spring. Therefore, the answer to the question ""Is Applications of Big Data only available in Autumn or only in Spring?"" is **no**.
+
+This answer is directly supported by the documentation, which provides evidence of availability in both terms. The documentation does not indicate that the subject is only available in one term or the other.
+
+**Final Answer**: No.","No, Applications of Big Data (COMP3002) is not only available in Autumn or only in Spring. The documentation shows it has offerings in Autumn (COMP3002-AUT-1-PS), Surabaya Semester 2 (COMP3002-IS2-1-SU), Sydney City Campus Term 3 (COMP3002-SC3-1-SC), and Vietnam Session 2/3 (COMP3002-UT2-1-UE and COMP3002-UT3-1-UE). This confirms it is available in both Autumn and Spring (Semester 2) as well as other sessions."," COMP 3002 Applications of Big Data is offered in Autumn at
+Parramatta, Surabaya Semester 2,Sydney City Campus Term 3 ,Vietnam Session 2,Vietnam Session 3."
+Run 9,"After carefully reviewing the document provided, I cannot determine if Applications of Big Data (COMP3002) is only available in Autumn or only in Spring.
+
+The document lists COMP3002 as a core subject for Surabaya students, but it does not specify the terms (Autumn/Spring) when this subject is offered. The document shows offerings for other subjects (like COMP2026 - Visual Analytics) with terms such as ""Autumn,"" ""Surabaya Semester 2,"" and ""Vietnam Session 2,"" but it does not provide explicit information about the availability of COMP3002 in either Autumn or Spring terms.
+
+While Western Sydney University typically offers subjects in both Autumn and Spring terms, the document itself does not state this specific information for Applications of Big Data. Therefore, based on the provided document, we do not have enough information to determine if Applications of Big Data is only available in Autumn or only in Spring.","No, Applications of Big Data is available in both Autumn and Spring semesters, as indicated by the documentation showing both ""COMP3002-AUT-1-PS"" (Autumn offering) and ""COMP3002-IS2-1-SU"" (Semester 2 offering in Surabaya, which corresponds to Spring). Therefore, it is not exclusively available in Autumn nor exclusively in Spring.",,"The question asks whether Applications of Big Data (COMP3002) is **only available in Autumn** or **only available in Spring**.  
+
+Based on the provided documentation:  
+- There is an offering for ""Autumn"" (Parramatta South).  
+- There is an offering for ""Surabaya Semester 2"" (which corresponds to Spring in Australian university terms).  
+
+This confirms that the subject is **available in both Autumn and Spring** (Semester 2). Therefore, it is **not only available in Autumn** (as it is also available in Spring) and **not only available in Spring** (as it is also available in Autumn).  
+
+The answer to the question ""Is Applications of Big Data only available in Autumn or only in Spring?"" is **no**.  
+
+**Final Answer**: No","Based on the provided documentation, the subject ""Applications of Big Data"" (COMP3002) is offered in **both Autumn and Spring terms**, as indicated by the following:
+
+- **Autumn**: COMP3002-AUT-1-PS (Parramatta South)
+- **Semester 2** (typically referred to as ""Spring"" in Australian university contexts): COMP3002-IS2-1-SU (Surabaya)
+- Additional offerings include Sydney City Campus (Term 3) and Vietnam sessions (Sessions 2 and 3), but these confirm it is available across multiple terms.
+
+The question asks: **""Is Applications of Big Data only available in Autumn or only in Spring?""**  
+This phrasing implies two possibilities:
+1. It is **exclusively available in Autumn** (not in Spring).
+2. It is **exclusively available in Spring** (not in Autumn).
+
+However, the documentation shows it is **available in both Autumn and Spring** (Semester 2). Therefore, it is **neither exclusively available in Autumn nor exclusively available in Spring**.
+
+**Answer: No** (It is not only available in Autumn or only in Spring— it is available in both terms)."," COMP 3002 Applications of Big Data is offered in Autumn at
+Parramatta, Surabaya Semester 2,Sydney City Campus Term 3 ,Vietnam Session 2,Vietnam Session 3."
+Run 10,"Based on the information provided in the document, **Applications of Big Data (COMP3002) is available in both Autumn and Spring semesters**. Therefore, it is **not exclusively available in Autumn** and **not exclusively available in Spring**. 
+
+### Key Details:
+- **Autumn semester (Semester 1)**: Explicitly listed as `COMP3002-AUT-1-PS`.
+- **Spring semester (Semester 2)**: Implied through the ""Sydney City Campus - Term 2"" offering (`COMP3002-SC2-1-SC`), which corresponds to the second semester (Spring) in Western Sydney University's academic structure.
+
+### Why This Matters:
+The question asks whether the course is *only* available in Autumn or *only* available in Spring. Since it is offered in **both semesters**, the answer is **no**—it is not limited to a single semester. This ensures students have flexibility to enroll in either semester.
+
+### Summary:
+| Semester | Availability | Notes |
+|----------|---------------|-------|
+| Autumn (Semester 1) | Yes | Explicitly listed (`COMP3002-AUT-1-PS`) |
+| Spring (Semester 2) | Yes | Implied via ""Term 2"" offering (`COMP3002-SC2-1-SC`) |
+
+**Final Answer**: Applications of Big Data is **available in both semesters**, so it is **not only available in Autumn** and **not only available in Spring**.","No. The documentation shows that Applications of Big Data (COMP3002) has an Autumn offering (COMP3002-AUT-1-PS) and a Semester 2 offering (COMP3002-IS2-1-SU). Given the context of other subjects (e.g., COMP1013 has a Spring offering labeled as COMP1013-SPR-1-PS and a Semester 2 offering), it is reasonable to infer that Semester 2 corresponds to Spring in this university's academic calendar. Therefore, COMP3002 is available in both Autumn and Spring, not exclusively in one term. The question asks if it is ""only available in Autumn"" or ""only in Spring,"" and the answer is no because it is available in both terms.","Based on the information provided in the documentation, Applications of Big Data (COMP3002) is **not only available in Autumn or only in Spring**. Here's the breakdown:
+
+- The documentation lists specific offerings:
+  - **Autumn**: COMP3002-AUT-1-PS (Parramatta South)
+  - **Semester 2**: COMP3002-IS2-1-SU (Surabaya)
+  - **Term 3**: COMP3002-SC3-1-SC (Sydney City)
+  - **Vietnam Session 2**: COMP3002-UT2-1-UE (Vietnam)
+  - **Vietnam Session 3**: COMP3002-UT3-1-UE (Vietnam)
+
+In the Australian academic context (which this documentation follows):
+- ""Autumn"" typically refers to **Semester 1** (the first semester of the academic year).
+- ""Spring"" typically refers to **Semester 2** (the second semester of the academic year).
+
+Therefore, Applications of Big Data is offered in **both Autumn (Semester 1)** and **Spring (Semester 2)**, as well as additional terms (Term 3 and Vietnam sessions). 
+
+The question asks whether it is *only available in Autumn* **or** *only available in Spring*. Since it is available in **both** Autumn and Spring (and more), the answer is **no**—it is not exclusively available in one or the other.
+
+**Final Answer**: No, it is available in both Autumn and Spring.","Based on the provided documentation, Applications of Big Data is available in Autumn (as indicated by the ""Autumn"" offerings) and also in Semester 2 (as shown by the ""Surabaya Semester 2"" offerings). Therefore, it is not only available in Autumn and not only available in Spring (where Semester 2 is equivalent to the Spring semester in this academic context). The answer to the question ""Is Applications of Big Data only available in Autumn or only in Spring?"" is **no**.","No. The subject ""Applications of Big Data"" (COMP3002) is available in multiple terms, including Autumn and Semester 2 (which is typically referred to as Spring in many educational systems). Therefore, it is not exclusively available in Autumn and not exclusively available in Spring. The documentation shows offerings in Autumn (Parramatta South), Semester 2 (Surabaya), Term 3 (Sydney City), and Vietnam Sessions, confirming availability across multiple terms."," COMP 3002 Applications of Big Data is offered in Autumn at
+Parramatta, Surabaya Semester 2,Sydney City Campus Term 3 ,Vietnam Session 2,Vietnam Session 3."

@@ -1,147 +1,265 @@
-Run 1,"Based on the provided documentation, the only subject with campus information is MATH1014 (Mathematics 1A). The documentation shows three offerings:
+Run time,Result for non chunking,Result for equal chunking,Result for manual chunking overlap,Result for LangChain,Result for LangChain overlap,Answer,
+Run 1,"Based on the documentation provided, I can see that the following subjects have specific offerings at the city campus (Sydney City Campus) instead of other campuses:
 
-- MATH1014-AUT-3-CA: Location: Campbelltown
-- MATH1014-AUT-3-KW: Location: Penrith (Kingswood)
-- MATH1014-AUT-3-PS: Location: Parramatta South
+1. MATH1006 - Discrete Mathematics (offering: MATH1006-SC2-1-SC - Sydney City Campus)
+2. COMP1014 - Thinking About Data (offering: COMP1014-SC2-1-SC - Sydney City Campus)
 
-Parramatta South is the location that would be considered the city campus (as Parramatta is typically the city campus for Western Sydney University). Therefore, for MATH1014 (Mathematics 1A), you can take it at the city campus (Parramatta South) instead of other campuses (Campbelltown and Penrith).
+These are the only subjects explicitly mentioned in the documentation that have a ""Sydney City Campus"" option. The documentation shows that these subjects have different campus options (like Campbelltown, Penrith, and Parramatta South), but only the Sydney City Campus is listed as the city campus option.
 
-MATH1014 is the only subject with campus information in the documentation, so the answer is MATH1014 (Mathematics 1A)."
-Run 2,I don't have the answer.
-Run 3,"Based on the provided documentation, the only subject mentioned with campus options is **MATH1014 (Mathematics 1A)**. This subject has three campus offerings:  
-- Campbelltown (CA)  
-- Penrith (Kingswood) (KW)  
-- Parramatta South (PS)  
+The documentation indicates that these subjects have specific ""Sydney City Campus - Term 2"" offerings, which means you can take these subjects at the city campus instead of other campuses.","Based on the provided documentation, I can see that the following subjects have offerings at the Sydney City campus (which can be taken instead of other campuses like Vietnam):
 
-In the context of Western Sydney University, **Parramatta South** is widely recognized as the city campus location. Therefore, **MATH1014 (Mathematics 1A)** is the subject that can be taken at the city campus (Parramatta South) instead of the other campuses (Campbelltown and Penrith).  
+- COMP1005 (available at Sydney City Campus for Term 2 and Term 3)
+- COMP1013 (available at Sydney City Campus for Term 3)
+- COMP3032 (available at Sydney City Campus for Term 1)
 
-No other subjects are listed in the documentation with campus options, so this is the only subject that fits the query.  
+These subjects have both Sydney City campus options and Vietnam campus options (as indicated by ""UT"" for Vietnam sessions), so they are the subjects you can take at the city campus instead of other campuses.
 
-**Final Answer**: MATH1014 (Mathematics 1A)"
-Run 4,I don't have the answer.
-Run 5,I don't have the answer.
-Run 6,"I don't have the answer. 
+The documentation shows that ""SC"" represents Sydney City campus and ""UT"" represents Vietnam campus for these courses.","Based on the provided documentation, I can see that the following subjects are offered at the Sydney City Campus (which is referred to as ""city campus"" in the context of this question):
 
-The documentation only shows information about MATH1014 (Mathematics 1A) with three campus locations (Campbelltown, Penrith (Kingswood), and Parramatta South), but it doesn't provide:
-1. A clear definition of what constitutes a ""city campus""
-2. Information about which subjects (plural) are available at city campuses versus other campuses
-3. Details about other subjects beyond MATH1014
+1. COMP3002 - Applications of Big Data (offered in Term 3 at Sydney City Campus)
+2. COMP1013 - Analytics Programming (offered in Term 3 at Sydney City Campus)
 
-The documentation only shows one subject (MATH1014) with multiple campus locations, but the question asks about ""subjects"" (plural) that can be taken at city campuses instead of other campuses. Since the documentation doesn't provide information about other subjects or explicitly identify which locations are city campuses, I cannot answer the question using only the provided documentation."
-Run 7,"The provided documentation specifies that MATH1014 (Mathematics 1A) has three offerings with different locations:  
-- MATH1014-AUT-3-CA: Campbelltown  
-- MATH1014-AUT-3-KW: Penrith (Kingswood)  
-- MATH1014-AUT-3-PS: Parramatta South  
+These are the subjects that have specific campus options, including the Sydney City Campus, so they can be taken at the city campus instead of other campuses (like Greater Noida, Surabaya, or Vietnam).
 
-In the context of Western Sydney University, the Parramatta campus (specifically ""Parramatta South"" as listed) is widely recognized as the city campus. Therefore, MATH1014 (Mathematics 1A) is the subject that can be taken at the city campus (Parramatta South) instead of the other campuses (Campbelltown and Penrith).  
+The documentation shows that both subjects are also offered at other campuses (Parramatta South, Surabaya, and Vietnam), but the Sydney City Campus is one of the available options for these courses.
 
-No other subjects are mentioned in the documentation, so the answer is limited to this subject.  
+Therefore, the subjects you can take at the city campus instead of other campuses are COMP3002 and COMP1013.",I don't have the answer.,I don't have the answer.,"COMP1005, COMP1014, MATH1006, COMP1013, COMP2025, COMP2026, 
+COMP3002,COMP3032, COMP3020, INFS2001, and INFO3019 ",
+Run 2,"Based on the documentation provided, I can see that the following subjects have specific offerings at the city campus (Sydney City Campus) instead of other campuses:
 
-**Answer: MATH1014 (Mathematics 1A)**"
-Run 8,"Based on the provided documentation, for MATH1014 Mathematics 1A, you can take it at the city campus (Parramatta South) instead of other campuses. The documentation shows three offerings:
+1. MATH1006 - Discrete Mathematics (offering: MATH1006-SC2-1-SC - Sydney City Campus)
+2. COMP1014 - Thinking About Data (offering: COMP1014-SC2-1-SC - Sydney City Campus)
 
-- MATH1014-AUT-3-CA: Location: Campbelltown
-- MATH1014-AUT-3-KW: Location: Penrith (Kingswood)
-- MATH1014-AUT-3-PS: Location: Parramatta South (city campus)
+These are the only subjects explicitly mentioned in the documentation that have a ""Sydney City Campus"" option. The documentation shows that these subjects have different campus options (like Campbelltown, Penrith, and Parramatta South), but only the Sydney City Campus is listed as the city campus option.
 
-Parramatta South is identified as the city campus offering for this subject. The documentation does not provide information about other subjects beyond MATH1014, so I can only answer for this specific subject."
-Run 9,"I don't have the answer. 
+The documentation indicates that these subjects have specific ""Sydney City Campus - Term 2"" offerings, which means you can take these subjects at the city campus instead of other campuses.","Based on the provided documentation, I can see that courses with ""SC"" in their code indicate they are available at the Sydney City Campus. The courses that can be taken at the city campus instead of other campuses (like Vietnam) are:
 
-The documentation only provides information about MATH1014 (Mathematics 1A) and indicates that there is an option at ""Parramatta South"" (MATH1014-AUT-3-PS). However, the question asks about ""subjects"" (plural), and the documentation does not include information about other subjects or their campus options. Therefore, I cannot provide a complete answer to the question as phrased."
-Run 10,"Based on the provided documentation, I can see that for MATH1014 (Mathematics 1A), there are three locations listed:
+- COMP1005 (available at Sydney City Campus in Term 2 and Term 3)
+- COMP1013 (available at Sydney City Campus in Term 3)
+- COMP3032 (available at Sydney City Campus in Term 1)
 
-1. MATH1014-AUT-3-CA: Campbelltown
-2. MATH1014-AUT-3-KW: Penrith (Kingswood)
-3. MATH1014-AUT-3-PS: Parramatta South
+These courses have ""SC"" in their code (e.g., COMP1005-SC2-1-SC, COMP1005-SC3-1-SC, COMP1013-SC3-1-SC, COMP3032-SC1-1-SC) which specifically indicate they are available at the Sydney City Campus, as opposed to courses with ""UT"" in their code (e.g., COMP1013-UT1-1-UE, COMP3032-UT1-1-UE) which are available at Vietnam.","Based on the provided documentation, I can see that the following subjects are offered at the Sydney City Campus (which is the city campus) instead of other campuses:
 
-The documentation indicates that ""Parramatta South"" (PS) is the location that would be considered the city campus option. This is the only campus location listed that is in a city area (Parramatta is a major city in Sydney).
+1. COMP3002 (Applications of Big Data) - offered for Term 3 at Sydney City Campus (SC)
+2. COMP1013 (Analytics Programming) - offered for Term 3 at Sydney City Campus (SC)
 
-The documentation only provides information for MATH1014 (Mathematics 1A), not for other subjects. Therefore, I can only state that for MATH1014, you can take it at the city campus (Parramatta South) instead of the other campuses (Campbelltown and Penrith).
+These are the only subjects explicitly mentioned in the documentation as being available at the Sydney City Campus (with campus code ""SC"") instead of other campuses like Parramatta South (PS) or Surabaya (SU). Both subjects are offered on-site with English language instruction.","Based on the provided documentation, the only subject explicitly mentioned as being offered at the Sydney City campus (the city campus) is **COMP1005 (Programming Fundamentals)**. This is indicated by the course codes ""COMP1005-SC2-1-SC"" and ""COMP1005-SC3-1-SC"" under the Sydney City Campus offerings.
 
-I don't have information about other subjects or their campus options in this documentation."
-Run 11,I don't have the answer.
-Run 12,"The provided documentation only lists the campus locations for Mathematics 1A (MATH1014) as Campbelltown, Penrith (Kingswood), and Parramatta South. It does not explicitly state which of these locations is designated as the ""city campus."" Without this specific information in the documentation, it is not possible to determine which subjects can be taken at the city campus instead of other campuses. Therefore, the answer is not available based solely on the provided documentation.
+The documentation also shows that COMP1005 is a core subject required for Surabaya students, confirming that it is available at the Surabaya campus as well. Therefore, COMP1005 can be taken at the city campus (Sydney City) instead of other campuses, such as Surabaya.
 
-I don't have the answer."
-Run 13,"Based on the provided documentation, I can see that for MATH1014 (Mathematics 1A), there are three offerings in the Autumn semester:
+No other subjects are explicitly listed as being specific to or exclusively available at the city campus in the documentation. Elective subjects are noted as being ""any subject offered by the University,"" but the documentation does not specify which electives are campus-specific.
 
-- MATH1014-AUT-3-CA: Location: Campbelltown
-- MATH1014-AUT-3-KW: Location: Penrith (Kingswood)
-- MATH1014-AUT-3-PS: Location: Parramatta South
+Thus, the answer to the question ""Which subjects can I take at the city campus instead of other campuses?"" based on the provided information is:
 
-The documentation indicates that ""Parramatta South"" is the city campus offering (as Parramatta is typically considered the city campus for Western Sydney University). Therefore, for MATH1014 (Mathematics 1A), you can take it at the city campus (Parramatta South) instead of the other campuses (Campbelltown and Penrith).
+**COMP1005 (Programming Fundamentals)**.","I don't have the answer. 
 
-The documentation only provides information for this single subject (MATH1014), so I cannot identify other subjects that have city campus options.
+The documentation mentions that there is a Sydney City campus with specific course offerings (COMP1005-SC2-1-SC and COMP1005-SC3-1-SC), but it doesn't provide a comprehensive list of subjects that can be taken at the city campus instead of other campuses. The documentation mentions different campuses (Greater Noida and Surabaya) but doesn't clearly state which subjects are exclusive to the city campus or which subjects can be taken at the city campus instead of other campuses.","COMP1005, COMP1014, MATH1006, COMP1013, COMP2025, COMP2026, 
+COMP3002,COMP3032, COMP3020, INFS2001, and INFO3019 ",
+Run 3,"Based on the provided documentation, I can see that the following subjects have offerings at the Sydney City campus instead of other campuses:
 
-Answer: MATH1014 (Mathematics 1A)"
-Run 14,"I don't have the answer. 
+1. MATH1014 - Mathematics 1A
+   - Offered at Sydney City Campus (Term 2) with code ""MATH1014-SC2-1-SC"" (On-site mode)
 
-The provided documentation lists campus offerings for MATH1014 Mathematics 1A as Campbelltown, Penrith (Kingswood), and Parramatta South, but it does not explicitly identify which of these locations is the city campus. The documentation does not define what constitutes the ""city campus"" or provide any context to determine which location qualifies as the city campus. Therefore, based solely on the provided documentation, it is not possible to answer the question."
-Run 15,I don't have the answer.
-Run 16,"I don't have the answer. 
+2. COMP1014 - Thinking About Data
+   - Offered at Sydney City Campus (Term 2) with code ""COMP1014-SC2-1-SC"" (On-site mode)
 
-The documentation provided shows that MATH1014 (Mathematics 1A) is offered at three locations: Campbelltown, Penrith (Kingswood), and Parramatta South. However, it does not explicitly state which of these campuses is designated as the ""city campus."" The question asks about ""subjects"" (plural) that can be taken at the city campus, but the documentation only covers this single subject (MATH1014) and does not provide information about other subjects or explicitly identify which campus is the city campus. Without this specific information in the documentation, I cannot provide an accurate answer to the question. 
+Both subjects have Sydney City campus options that you can choose instead of other campus locations (such as Campbelltown, Penrith, or Vietnam). The documentation shows these are specifically listed as ""Sydney City Campus"" offerings with on-site study mode.
 
-The instruction requires that if the answer is not in the documentation, I should state ""I don't have the answer."" Since the documentation lacks explicit details about which campus is the city campus and does not cover other subjects, I do not have the answer."
-Run 17,"Based on the provided documentation, the only subject mentioned with campus offerings is MATH1014 (Mathematics 1A). The documentation shows that this subject has a Campbelltown offering (labeled as MATH1014-AUT-3-CA), which is the city campus option, compared to Penrith (Kingswood) and Parramatta South offerings.
+So, you can take MATH1014 and COMP1014 at the city campus (Sydney City) instead of other campuses.","Based on the provided documentation, I can see that the subjects offered at the Sydney City Campus (instead of other campuses like Vietnam) are:
 
-Therefore, the subject that can be taken at the city campus instead of other campuses is: MATH1014 (Mathematics 1A)"
-Run 18,"Based on the provided documentation for MATH1014 (Mathematics 1A), the city campus offering is **Parramatta South (PS)**. This is the only subject explicitly covered in the documentation, and it is the campus location designated as the city campus for Western Sydney University.
+- COMP1005 (offered in Term 2 and Term 3 at Sydney City Campus)
+- COMP1013 (offered in Term 3 at Sydney City Campus)
+- COMP3032 (offered in Term 1 at Sydney City Campus)
 
-- **Campbelltown (CA)**: Not the city campus.
-- **Penrith (Kingswood) (KW)**: Not the city campus.
-- **Parramatta South (PS)**: This is the city campus offering for MATH1014.
+The documentation shows these courses have ""SC"" in their code (indicating Sydney City Campus), while courses with ""UT"" in their code are offered in Vietnam. Therefore, these are the subjects that can be taken at the city campus instead of other campuses.
 
-The documentation does not provide information about other subjects or their campus offerings. Therefore, for the subject **MATH1014 (Mathematics 1A)**, you can take it at the city campus (Parramatta South) instead of Campbelltown or Penrith (Kingswood).
+COMP1005, COMP1013, and COMP3032","Based on the provided documentation, I can see that the city campus mentioned in the document is ""Sydney City Campus."" 
 
-**Note**: The question asks for ""subjects"" plural, but the documentation only covers MATH1014. No other subjects are listed in the provided information. If you need details about other subjects, additional documentation would be required."
-Run 19,"Based on the provided documentation, I can see that MATH1014 Mathematics 1A has an offering at Parramatta South (MATH1014-AUT-3-PS) which is listed as a ""Hybrid"" mode of study. The documentation shows three locations for this subject:
-- Campbelltown (MATH1014-AUT-3-CA)
-- Penrith (Kingswood) (MATH1014-AUT-3-KW)
-- Parramatta South (MATH1014-AUT-3-PS)
+The documentation shows two subjects that are specifically offered at Sydney City Campus:
 
-Parramatta South is typically considered the city campus at Western Sydney University, so MATH1014 Mathematics 1A (offering code MATH1014-AUT-3-PS) is available at the city campus instead of the other campuses (Campbelltown and Penrith).
+1. COMP3002 - Applications of Big Data (offered in Term 3 as ""COMP3002-SC3-1-SC"")
+2. COMP1013 - Analytics Programming (offered in Term 3 as ""COMP1013-SC3-1-SC"")
 
-The documentation only provides information for this specific subject, so I cannot identify other subjects that are available at the city campus."
-Run 20,"Based on the provided documentation, the only subject shown is MATH1014 - Mathematics 1A. The documentation lists three offerings for this subject:
+These are the only subjects explicitly listed as being available at the Sydney City Campus instead of other campuses (Parramatta South, Surabaya, or Vietnam locations) in the provided documentation.
 
-- MATH1014-AUT-3-CA: Location: Campbelltown
-- MATH1014-AUT-3-KW: Location: Penrith (Kingswood)
-- MATH1014-AUT-3-PS: Location: Parramatta South
+So the answer is: COMP3002 (Applications of Big Data) and COMP1013 (Analytics Programming).",I don't have the answer.,I don't have the answer.,"COMP1005, COMP1014, MATH1006, COMP1013, COMP2025, COMP2026, 
+COMP3002,COMP3032, COMP3020, INFS2001, and INFO3019 ",
+Run 4,"Based on the documentation provided, I can see that the following subjects have specific offerings at the city campus (Sydney City Campus) instead of other campuses:
 
-In Western Sydney University's context, Parramatta South is considered the city campus. Therefore, for MATH1014 - Mathematics 1A, you can take it at the city campus (Parramatta South) instead of other campuses (Campbelltown and Penrith).
+1. MATH1006 - Discrete Mathematics (offering: MATH1006-SC2-1-SC - Sydney City Campus)
+2. COMP1014 - Thinking About Data (offering: COMP1014-SC2-1-SC - Sydney City Campus)
 
-The documentation does not explicitly state ""city campus"" but based on standard Western Sydney University campus designations, Parramatta South is the city campus offering."
-Run 21,
-Run 22,"I don't have the answer.
+These are the only subjects explicitly mentioned in the documentation that have a ""Sydney City Campus"" option. The documentation shows that these subjects have different campus options (like Campbelltown, Penrith, and Parramatta South), but only the Sydney City Campus is listed as the city campus option.
 
-The provided documentation only shows information for MATH1014 - Mathematics 1A subject offerings in the Autumn semester, listing three campus locations (Campbelltown, Penrith (Kingswood), and Parramatta South). It doesn't provide any information about which campus is officially designated as the ""city campus"" or which subjects can be taken at the city campus instead of other campuses. The documentation doesn't contain a comprehensive list of subjects with their campus offerings, so I cannot determine which subjects can be taken at the city campus."
-Run 23,
-Run 24,"Based on the provided documentation, the subject that has an offering at Parramatta South (which is the city campus in Western Sydney University's context) is MATH1014 (Mathematics 1A). The documentation lists three locations for this subject: Campbelltown, Penrith (Kingswood), and Parramatta South. 
+The documentation indicates that these subjects have specific ""Sydney City Campus - Term 2"" offerings, which means you can take these subjects at the city campus instead of other campuses.","Based on the provided documentation, I can see that the following subjects can be taken at the Sydney City Campus instead of other campuses (specifically Vietnam sessions):
 
-The documentation does not explicitly state that ""Parramatta South"" is the city campus, but in the context of Western Sydney University, Parramatta is recognized as the city campus area. Therefore, MATH1014 (Mathematics 1A) is the subject that can be taken at the city campus (Parramatta South) instead of the other campuses (Campbelltown and Penrith).
+1. COMP1005 - Offered at Sydney City Campus for Term 2 and Term 3
+2. COMP3032 - Offered at Sydney City Campus for Term 1
 
-**Answer: MATH1014 (Mathematics 1A)**"
-Run 25,I don't have the answer.
-Run 26,"Looking at the provided documentation, I can see the campus offerings for MATH1014 Mathematics 1A:
+The documentation shows that COMP1005 and COMP3032 have Sydney City Campus options, while COMP1013 is only offered in Vietnam sessions. This information indicates that these specific courses can be taken at the city campus instead of other campuses (Vietnam sessions).
 
-- MATH1014-AUT-3-CA: Location: Campbelltown
-- MATH1014-AUT-3-KW: Location: Penrith (Kingswood)
-- MATH1014-AUT-3-PS: Location: Parramatta South
+I don't see any other subjects listed in the documentation that have Sydney City Campus options compared to other campus locations.","Based on the provided documentation, I can see that the city campus refers to ""Sydney City"" campus.
 
-Based on Western Sydney University's campus structure, Parramatta South is the city campus location. Therefore, for MATH1014 Mathematics 1A, you can take it at the Parramatta South campus (the city campus) instead of the other campuses (Campbelltown and Penrith).
+The subjects that can be taken at the Sydney City campus instead of other campuses are:
 
-The documentation only shows information for this specific subject, so I can only provide this answer for MATH1014 Mathematics 1A."
-Run 27,"I don't have the answer.
+1. COMP3002 (Applications of Big Data) - Offered as ""COMP3002-SC3-1-SC"" at Sydney City
+2. COMP1013 (Analytics Programming) - Offered as ""COMP1013-SC3-1-SC"" at Sydney City
 
-The provided documentation lists three campus locations for MATH1014 (Mathematics 1A): Campbelltown, Penrith (Kingswood), and Parramatta South. However, the documentation does not explicitly state which of these locations is classified as the ""city campus"" in the context of Western Sydney University. While external knowledge might suggest that Parramatta is typically the city campus, the question requires using only the provided documentation, and the documentation itself does not specify which location is the city campus. Therefore, based solely on the provided information, it is not possible to determine which campus is the city campus."
-Run 28,I don't have the answer.
-Run 29,"I don't have the answer.
+These are the only subjects explicitly listed with ""Sydney City"" as their location in the documentation. The documentation shows these subjects are available at the Sydney City campus with the code ""SC"" in the location identifier, while other campus locations include Parramatta South (PS), Surabaya (SU), and Vietnam (UE).",I don't have the answer.,I don't have the answer.,"COMP1005, COMP1014, MATH1006, COMP1013, COMP2025, COMP2026, 
+COMP3002,COMP3032, COMP3020, INFS2001, and INFO3019 ",
+Run 5,"Based on the documentation provided, I can see which subjects have the ""Sydney City"" campus option (which would be the city campus) instead of other campuses:
 
-The documentation only shows information about MATH1014 (Mathematics 1A) for the Autumn semester, with three different campus locations:
-- MATH1014-AUT-3-CA: Location: Campbelltown
-- MATH1014-AUT-3-KW: Location: Penrith (Kingswood)
-- MATH1014-AUT-3-PS: Location: Parramatta South
+1. MATH1006 (Discrete Mathematics) - Has a Sydney City campus option: MATH1006-SC2-1-SC
+2. COMP1014 (Thinking About Data) - Has a Sydney City campus option: COMP1014-SC2-1-SC
 
-While it mentions ""Parramatta South"" as a location, the documentation doesn't explicitly state that this is the ""city campus"" or provide information about other subjects that might be available at the city campus. The question asks about ""which subjects"" (plural) but the documentation only shows information for one subject (MATH1014). The documentation doesn't provide enough information to determine which subjects can be taken at the city campus instead of other campuses."
-Run 30,I don't have the answer.
+These are the only two subjects that have the ""Sydney City"" campus option listed in the documentation. The documentation shows that MATH1014 (Mathematics 1A) does not have a city campus option (its options are Campbelltown, Penrith, and Parramatta South).
+
+Therefore, you can take **MATH1006 (Discrete Mathematics)** and **COMP1014 (Thinking About Data)** at the city campus (Sydney City) instead of other campuses.","Based on the provided documentation, the only subject explicitly listed with a **Sydney City Campus** offering is **COMP1005** (specifically for Term 2 and Term 3). The documentation shows:
+
+- **COMP1005-SC2-1-SC**: Sydney City Campus, Term 2
+- **COMP1005-SC3-1-SC**: Sydney City Campus, Term 3
+
+In contrast, the other subjects (COMP1013 and COMP3032) are listed with **Vietnam campus** offerings (e.g., ""Vietnam Session 1"" and ""Vietnam Session 2/3"").
+
+The question asks: *""Which subjects can I take at the city campus instead of other campuses?""* This implies identifying subjects that have the **city campus (Sydney City)** as an alternative option. The documentation does not indicate that any other subject has Sydney City Campus offerings. Therefore, **COMP1005** is the only subject that can be taken at the city campus based on the given information.
+
+**Answer: COMP1005**","Based on the provided documentation, I can see that there are two subjects that have specific offerings at the Sydney City Campus (which appears to be the ""city campus"" mentioned in your question):
+
+1. COMP3002 (Applications of Big Data) - Sydney City Campus offering: COMP3002-SC3-1-SC
+2. COMP1013 (Analytics Programming) - Sydney City Campus offering: COMP1013-SC3-1-SC
+
+These are the only subjects explicitly listed in the documentation with ""Sydney City"" as the campus location. The documentation shows that these subjects also have offerings at other campuses (Parramatta South, Surabaya, and Vietnam), but these are the subjects that can be taken at the city campus instead of other campuses.
+
+So the answer is: COMP3002 (Applications of Big Data) and COMP1013 (Analytics Programming).","I don't have the answer. 
+
+The documentation shows that COMP1005 is offered at Sydney City campus (with codes COMP1005-SC2-1-SC and COMP1005-SC3-1-SC), but it doesn't provide a comprehensive list of subjects that can be taken at the city campus instead of other campuses. The documentation mentions different campuses (Greater Noida, Surabaya) and specific courses for Surabaya students, but it doesn't explicitly state which subjects are available at the city campus versus other campuses for comparison purposes.",I don't have the answer.,"COMP1005, COMP1014, MATH1006, COMP1013, COMP2025, COMP2026, 
+COMP3002,COMP3032, COMP3020, INFS2001, and INFO3019 ",
+Run 6,"Based on the provided documentation, I can see that there are two subjects that have offerings at the Sydney City campus (which appears to be the ""city campus"" mentioned in your question):
+
+1. MATH1006 - Discrete Mathematics (offering code: MATH1006-SC2-1-SC)
+2. COMP1014 - Thinking About Data (offering code: COMP1014-SC2-1-SC)
+
+These are the only two subjects explicitly listed with the ""SC"" (Sydney City) campus code in the documentation. 
+
+The documentation shows that MATH1014 - Mathematics 1A does not have a Sydney City campus offering - it only has offerings for Campbelltown (CA) and Penrith (KW).
+
+So to answer your question directly: You can take MATH1006 and COMP1014 at the city campus instead of other campuses.","Based on the provided documentation, I can see that COMP1013 and COMP3032 are the subjects that have offerings at the Sydney City campus (SC) as an alternative to Vietnam campus (UT) options.
+
+Specifically:
+- COMP1013 has Sydney City Campus (SC3) and Vietnam Session (UT1, UT2) offerings
+- COMP3032 has Sydney City Campus (SC1) and Vietnam Session (UT1, UT3) offerings
+
+These are the only subjects in the documentation that have both city campus and other campus (Vietnam) options. COMP1005 only shows Sydney City Campus offerings (SC2, SC3) without other campus options listed in the provided data.
+
+Therefore, the subjects you can take at the city campus instead of other campuses (Vietnam) are COMP1013 and COMP3032.","Based on the provided documentation, I can see that the following subjects are offered at the Sydney City Campus (city campus) instead of other campuses:
+
+1. COMP3002 - Applications of Big Data (offered for Term 3)
+2. COMP1013 - Analytics Programming (offered for Term 3)
+
+These subjects have specific campus codes indicating they are available at the Sydney City Campus:
+- COMP3002-SC3-1-SC (Sydney City Campus - Term 3)
+- COMP1013-SC3-1-SC (Sydney City Campus - Term 3)
+
+The documentation shows these are the only subjects explicitly listed as being available at the Sydney City Campus in the provided information.","I don't have the answer.
+
+The documentation shows that there are specific courses at the Sydney City campus (like COMP1005-SC2-1-SC for Term 2 and COMP1005-SC3-1-SC for Term 3), but it doesn't explicitly state which subjects can be taken at the city campus instead of other campuses. The documentation mentions that ""Elective Subjects can be any subject offered by the University"" but doesn't provide information about which specific subjects are exclusive to the city campus or can be taken as alternatives to other campuses.",I don't have the answer.,"COMP1005, COMP1014, MATH1006, COMP1013, COMP2025, COMP2026, 
+COMP3002,COMP3032, COMP3020, INFS2001, and INFO3019 ",
+Run 7,"Based on the provided documentation, I can see that there are two subjects that have specific offerings at the Sydney City campus instead of other campuses:
+
+1. **MATH1006 - Discrete Mathematics** (Sydney City Campus - Term 2)
+   - Offering code: MATH1006-SC2-1-SC
+   - Location: Sydney City
+   - Mode of Study: On-site
+
+2. **COMP1014 - Thinking About Data** (Sydney City Campus - Term 2)
+   - Offering code: COMP1014-SC2-1-SC
+   - Location: Sydney City
+   - Mode of Study: On-site
+
+These are the only two subjects with specific Sydney City campus offerings listed in the documentation. The other subjects (MATH1014 - Mathematics 1A) only have offerings at Campbelltown, Penrith, or Parramatta South campuses, but not at Sydney City.","Based on the provided documentation, I can see that Western Sydney University offers courses with different campus locations. The documentation shows that courses with ""SC"" in their code indicate Sydney City campus offerings, while courses with ""UT"" indicate Vietnam campus offerings.
+
+The subjects that can be taken at the city campus (Sydney City) instead of other campuses are:
+
+- COMP1005 (Sydney City Campus for Term 2 and Term 3)
+- COMP1013 (Sydney City Campus for Term 3)
+- COMP3032 (Sydney City Campus for Term 1)
+
+These courses have the ""SC"" prefix in their code indicating they are available at the Sydney City campus, as opposed to the Vietnam campus offerings (which have ""UT"" in their code).","Based on the provided documentation, I can see that the city campus refers to ""Sydney City Campus"" (SC).
+
+The subjects that can be taken at the Sydney City Campus (city campus) instead of other campuses are:
+
+1. COMP3002 (Applications of Big Data) - Offered as COMP3002-SC3-1-SC
+2. COMP1013 (Analytics Programming) - Offered as COMP1013-SC3-1-SC
+
+These subjects are explicitly listed in the documentation as being available at the Sydney City Campus (SC) location, with the ""SC"" code indicating this campus. The documentation shows that these subjects are also available at other campuses (Parramatta South, Surabaya, and Vietnam), but they can be taken at the city campus as an alternative option.",I don't have the answer.,I don't have the answer.,"COMP1005, COMP1014, MATH1006, COMP1013, COMP2025, COMP2026, 
+COMP3002,COMP3032, COMP3020, INFS2001, and INFO3019 ",
+Run 8,"Based on the provided documentation, I can see that there are two subjects that have specific offerings at the Sydney City Campus instead of other campuses:
+
+1. MATH1006 - Discrete Mathematics (offered as MATH1006-SC2-1-SC)
+2. COMP1014 - Thinking About Data (offered as COMP1014-SC2-1-SC)
+
+These are the only subjects with explicit Sydney City Campus offerings in the documentation. The other subjects (MATH1014 - Mathematics 1A) only have offerings at Campbelltown, Penrith, and Parramatta South campuses, but not at Sydney City.
+
+So you can take MATH1006 and COMP1014 at the city campus (Sydney City) instead of other campuses.","Based on the provided documentation, the subjects that can be taken at the city campus (Sydney City Campus) instead of other campuses (such as Vietnam) are:
+
+- **COMP1005** (with Sydney City Campus offerings for Term 2 and Term 3)
+- **COMP1013** (with Sydney City Campus offering for Term 3)
+- **COMP3032** (with Sydney City Campus offering for Term 1)
+
+These courses are explicitly identified with ""SC"" in their code (e.g., `COMP1005-SC2-1-SC`), indicating they are available at the Sydney City Campus. The documentation also shows that these courses have Vietnam session offerings (with ""UT"" in their code), confirming they are alternatives to other campuses.
+
+Thus, the answer is: **COMP1005, COMP1013, and COMP3032**.","Based on the provided documentation, I can see that there are two subjects that have offerings at the Sydney City campus (which appears to be the ""city campus"" referenced in your question):
+
+1. COMP3002 (Applications of Big Data) - with offering code: COMP3002-SC3-1-SC (Sydney City Campus)
+2. COMP1013 (Analytics Programming) - with offering code: COMP1013-SC3-1-SC (Sydney City Campus)
+
+These are the subjects that can be taken at the city campus (Sydney City) instead of other campuses like Parramatta South, Surabaya, or Vietnam.","I don't have the answer. 
+
+The documentation shows that there are courses listed for Sydney City Campus (like COMP1005 for Term 2 and Term 3), but it doesn't specifically state which subjects can be taken at the city campus instead of other campuses. The documentation mentions that Surabaya students must complete certain core subjects and Greater Noida students have specific requirements, but it doesn't provide a clear comparison of campus-specific subjects or which subjects are available exclusively at the city campus versus other campuses.",I don't have the answer.,"COMP1005, COMP1014, MATH1006, COMP1013, COMP2025, COMP2026, 
+COMP3002,COMP3032, COMP3020, INFS2001, and INFO3019 ",
+Run 9,"Based on the provided documentation, I can see that the following subjects can be taken at the city campus instead of other campuses:
+
+1. MATH1006 - Discrete Mathematics (has a ""Sydney City Campus"" option: MATH1006-SC2-1-SC)
+2. COMP1014 - Thinking About Data (has a ""Sydney City Campus"" option: COMP1014-SC2-1-SC)
+
+The documentation shows that MATH1014 - Mathematics 1A does not have a Sydney City campus option (it has Campbelltown and Penrith options instead).
+
+So you can take MATH1006 and COMP1014 at the Sydney City campus instead of other campuses.","Based on the provided documentation, the subjects that can be taken at the city campus (Sydney City) instead of other campuses (Vietnam) are:
+
+- COMP1005 (with Sydney City Campus offerings for Term 2 and Term 3)
+- COMP1013 (with Sydney City Campus offering for Term 3)
+- COMP3032 (with Sydney City Campus offering for Term 1)
+
+The documentation shows that courses with ""SC"" prefixes indicate Sydney City campus offerings, while courses with ""UT"" prefixes indicate Vietnam campus offerings. These are the only courses explicitly mentioned with both campus options in the documentation.","Based on the provided documentation, I can see that at least two subjects are offered at the Sydney City Campus:
+
+1. COMP3002 - Applications of Big Data (offered in Term 3 at Sydney City Campus)
+2. COMP1013 - Analytics Programming (offered in Term 3 at Sydney City Campus)
+
+These subjects are specifically listed with ""Location:Sydney City"" in the documentation, indicating they are available at the Sydney City Campus instead of other campuses like Greater Noida, Surabaya, or Parramatta South.
+
+The documentation doesn't list any other subjects that are specifically available at the city campus (Sydney City Campus) as opposed to other campuses.",I don't have the answer.,"I don't have the answer.
+
+The documentation shows that there is a Sydney City Campus with specific course offerings (like COMP1005-SC2-1-SC and COMP1005-SC3-1-SC), but it doesn't explicitly state which subjects can be taken at the city campus instead of other campuses. The documentation mentions that Surabaya students have different requirements and Greater Noida students have different requirements, but it doesn't provide clear information about which subjects are exclusive to the city campus versus other campuses.","COMP1005, COMP1014, MATH1006, COMP1013, COMP2025, COMP2026, 
+COMP3002,COMP3032, COMP3020, INFS2001, and INFO3019 ",
+Run 10,"Based on the provided documentation, I can see that there are two subjects that can be taken at the city campus (Sydney City) instead of other campuses:
+
+1. **MATH1006 - Discrete Mathematics** (offered at Sydney City campus with code MATH1006-SC2-1-SC)
+2. **COMP1014 - Thinking About Data** (offered at Sydney City campus with code COMP1014-SC2-1-SC)
+
+The documentation shows that these are the only subjects with specific ""Sydney City"" campus offerings. For comparison, MATH1014 (Mathematics 1A) only has offerings at Campbelltown (CA), Penrith (KW), and Parramatta South (PS) campuses, but no Sydney City campus option.
+
+So you can take MATH1006 and COMP1014 at the Sydney City campus instead of other campuses.","Based on the provided documentation, I can see that the subjects with offerings at the Sydney City campus (instead of other campuses like Vietnam) are:
+
+- COMP1005 (Sydney City Campus - Term 2 and Term 3)
+- COMP1013 (Sydney City Campus - Term 3)
+- COMP3032 (Sydney City Campus - Term 1)
+
+These are the subjects that have a Sydney City campus option rather than Vietnam sessions as indicated in the documentation.","Based on the provided documentation, I can see that the city campus is referred to as ""Sydney City Campus"" in the subject offerings. 
+
+The documentation shows that students can take the following subjects at the Sydney City Campus (instead of other campuses):
+
+1. COMP3002 (Applications of Big Data) - with the code ""COMP3002-SC3-1-SC""
+2. COMP1013 (Analytics Programming) - with the code ""COMP1013-SC3-1-SC""
+
+These are the specific subjects that have an option for the Sydney City Campus location in the offerings. The documentation indicates that ""SC"" stands for ""Sydney City"" in the campus location codes, while other locations are labeled as ""PS"" (Parramatta South), ""SU"" (Surabaya), and ""UE"" (Vietnam).",I don't have the answer.,I don't have the answer.,"COMP1005, COMP1014, MATH1006, COMP1013, COMP2025, COMP2026, 
+COMP3002,COMP3032, COMP3020, INFS2001, and INFO3019 ",

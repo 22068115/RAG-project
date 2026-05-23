@@ -1,90 +1,240 @@
+Run time,Result for non chunking,Result for equal chunking,Result for manual chunking overlap,Result for LangChain,Result for LangChain overlap,Answer
 Run 1,"I don't have the answer.
 
-The documentation provided shows information about NATS1019 - Scientific Literacy subject offerings at Western Sydney University, but it only lists three locations: Campbelltown, Hawkesbury, and Parramatta South. There is no mention of a ""Sydney City Campus"" in the documentation, nor does it provide information about subjects offered at any Sydney campus locations. The documentation specifically shows that this subject is offered at these locations for both Autumn and Spring terms, but it does not contain information about Sydney City Campus or subjects offered there."
+The documentation provided shows information about NATS1019 - Scientific Literacy subject offerings at Western Sydney University, but it only lists three locations: Campbelltown, Hawkesbury, and Parramatta South. There is no mention of a ""Sydney City Campus"" in the documentation, nor does it provide information about subjects offered at any Sydney campus locations. The documentation specifically shows that this subject is offered at these locations for both Autumn and Spring terms, but it does not contain information about Sydney City Campus or subjects offered there.","Based on the provided documentation, the only subject explicitly mentioned as being offered at Sydney City Campus is COMP3032 (with the code COMP3032-SC1-1-SC).
+
+The documentation shows:
+- ""English Sydney City Campus - Term 1 Collapse all COMP3032-SC1-1-SC"" with ""Location:Sydney City""
+
+This indicates that COMP3032 is offered at Sydney City Campus. The documentation also shows other sessions of COMP3032 in Vietnam (UT1-1-UE and UT3-1-UE), but these are not at Sydney City Campus.
+
+Therefore, the answer is: COMP3032","Based on the provided documentation, the subject offered at Sydney City Campus is COMP1014. 
+
+The documentation specifically shows:
+""Sydney City Campus - Term 2 Collapse all COMP1014-SC2-1-SC keyboard_arrow_down
+Location:Sydney City""
+
+This indicates that COMP1014 is offered at Sydney City Campus during Term 2.
+
+No other subjects are explicitly listed as being offered at Sydney City Campus in the provided documentation.","Based on the provided documentation, the only subject offered at Sydney City Campus is COMP1005. This subject is offered in three different terms at Sydney City Campus:
+- Term 1 (COMP1005-SC1-1-SC)
+- Term 2 (COMP1005-SC2-1-SC)
+- Term 3 (COMP1005-SC3-1-SC)
+
+The documentation does not mention any other subjects being offered at Sydney City Campus.","Based on the provided documentation, the only subject offered at Sydney City Campus is COMP1005. This subject is offered across multiple terms at Sydney City Campus:
+
+- COMP1005-SC1-1-SC (Term 1)
+- COMP1005-SC2-1-SC (Term 2)
+- COMP1005-SC3-1-SC (Term 3)
+
+The documentation shows that COMP1005 is the only subject code associated with Sydney City Campus in the provided information.","COMP1005, COMP1014, MATH1006, COMP1013, COMP2025, COMP2026, 
+COMP3002,COMP3032, COMP3020, INFS2001, and INFO3019 "
 Run 2,"I don't have the answer.
 
-The provided documentation shows campus locations for NATS1019 - Scientific Literacy offerings (Campbelltown, Hawkesbury, and Parramatta South), but it does not mention ""Sydney City Campus"" at all. The documentation does not contain information about which subjects are offered at Sydney City Campus specifically."
+The provided documentation shows campus locations for NATS1019 - Scientific Literacy offerings (Campbelltown, Hawkesbury, and Parramatta South), but it does not mention ""Sydney City Campus"" at all. The documentation does not contain information about which subjects are offered at Sydney City Campus specifically.","Based on the provided documentation, the only subject mentioned as being offered at Sydney City Campus is COMP3032.
+
+The documentation shows: ""English Sydney City Campus - Term 1 Collapse all COMP3032-SC1-1-SC keyboard_arrow_down Location:Sydney City""
+
+This indicates that COMP3032 is offered at Sydney City Campus (with the location specified as ""Sydney City""). The documentation does not list any other subjects that are offered at Sydney City Campus.","Based on the provided documentation, I can see that COMP1014 is offered at Sydney City Campus. Specifically, the documentation shows:
+
+""Sydney City Campus - Term 2 Collapse all COMP1014-SC2-1-SC keyboard_arrow_down Location:Sydney City Mode of Study: On-site Self Enrol:Yes Language of Instruction:English""
+
+This indicates that COMP1014 is the subject offered at Sydney City Campus for Term 2. The documentation doesn't mention any other subjects being offered at Sydney City Campus.
+
+So the answer is: COMP1014","Based on the provided documentation, the subject offered at Sydney City Campus is **COMP1005**. 
+
+This subject is explicitly listed under ""Sydney City Campus - Term 2"" and ""Sydney City Campus - Term 3"" with the specific codes **COMP1005-SC2-1-SC** (Term 2) and **COMP1005-SC3-1-SC** (Term 3). The ""SC"" in the codes denotes ""Sydney City"" (as opposed to ""PS"" for ""Parramatta South"" in other offerings), confirming that COMP1005 is the subject delivered at this campus for those terms.
+
+No other subjects are mentioned in the documentation. The final entry (""Assessments"" with ""Quiz"") does not represent a subject but rather an assessment component.
+
+**Final Answer**: COMP1005","Based on the provided documentation, I can see that the following subjects are offered at Sydney City Campus:
+
+COMP1005 (Computer Science) for:
+- Term 1 (COMP1005-SC1-1-SC)
+- Term 2 (COMP1005-SC2-1-SC)
+- Term 3 (COMP1005-SC3-1-SC)
+
+These are the only subjects mentioned in the documentation that are offered at Sydney City Campus.","COMP1005, COMP1014, MATH1006, COMP1013, COMP2025, COMP2026, 
+COMP3002,COMP3032, COMP3020, INFS2001, and INFO3019 "
 Run 3,"I don't have the answer.
 
-The provided documentation shows information about NATS1019 - Scientific Literacy at Western Sydney University, but it doesn't mention any campus called ""Sydney City Campus"". The document lists offerings at Campbelltown (CA), Hawkesbury (HW), and Parramatta South (PS) campuses, but there is no reference to a ""Sydney City Campus"" in this documentation. The question asks about subjects offered at Sydney City Campus, but the documentation doesn't provide information about this specific campus or subjects offered there."
+The provided documentation shows information about NATS1019 - Scientific Literacy at Western Sydney University, but it doesn't mention any campus called ""Sydney City Campus"". The document lists offerings at Campbelltown (CA), Hawkesbury (HW), and Parramatta South (PS) campuses, but there is no reference to a ""Sydney City Campus"" in this documentation. The question asks about subjects offered at Sydney City Campus, but the documentation doesn't provide information about this specific campus or subjects offered there.","Based on the provided documentation, I can see that COMP3032 is offered at Sydney City Campus. This is indicated by the entry ""COMP3032-SC1-1-SC"" with Location: Sydney City.
+
+The documentation shows only this one subject explicitly listed as being offered at Sydney City Campus. There are other variations of COMP3032 offered in Vietnam (with locations Vietnam Session 1 and Vietnam Session 3), but those are not at Sydney City Campus.
+
+Therefore, the subject offered at Sydney City Campus is COMP3032.","Based on the provided documentation, the subject offered at Sydney City Campus is COMP1014 (specifically during Term 2).
+
+This is indicated in the section: ""Sydney City Campus - Term 2 Collapse all COMP1014-SC2-1-SC keyboard_arrow_down Location:Sydney City Mode of Study: On-site Self Enrol:Yes Language of Instruction:English""
+
+The documentation shows that COMP1014 is the only subject explicitly listed as being offered at Sydney City Campus.","Based on the provided documentation, the only subject offered at Sydney City Campus is COMP1005. This subject is offered in:
+
+- Term 1 (COMP1005-SC1-1-SC)
+- Term 2 (COMP1005-SC2-1-SC)
+- Term 3 (COMP1005-SC3-1-SC)
+
+The documentation does not mention any other subjects at Sydney City Campus.","Based on the provided documentation, the only subject offered at Sydney City Campus is COMP1005. The documentation shows two specific course entries for Sydney City Campus:
+
+- COMP1005-SC2-1-SC (Sydney City Campus - Term 2)
+- COMP1005-SC3-1-SC (Sydney City Campus - Term 3)
+
+Both entries indicate that COMP1005 is the subject offered at Sydney City Campus for Terms 2 and 3. There are no other subjects listed as being offered at Sydney City Campus in the documentation.","COMP1005, COMP1014, MATH1006, COMP1013, COMP2025, COMP2026, 
+COMP3002,COMP3032, COMP3020, INFS2001, and INFO3019 "
 Run 4,"I don't have the answer.
 
-The provided documentation shows information about NATS1019 - Scientific Literacy at Western Sydney University, but it doesn't mention ""Sydney City Campus"" at all. The document lists locations as Campbelltown, Hawkesbury, and Parramatta South, but there is no reference to a campus called ""Sydney City Campus"" in the documentation."
+The provided documentation shows information about NATS1019 - Scientific Literacy at Western Sydney University, but it doesn't mention ""Sydney City Campus"" at all. The document lists locations as Campbelltown, Hawkesbury, and Parramatta South, but there is no reference to a campus called ""Sydney City Campus"" in the documentation.","Based on the provided documentation, I can see that there is one subject offered at Sydney City Campus:
+
+COMP3032 (with the specific code COMP3032-SC1-1-SC)
+
+The documentation shows ""Location:Sydney City"" for this subject code, while other sessions for the same subject (COMP3032) are listed as being at Vietnam locations.
+
+Therefore, the subject offered at Sydney City Campus is COMP3032.","Based on the provided documentation, I can see that COMP1014 is offered at Sydney City Campus. Specifically, the documentation shows:
+
+""Sydney City Campus - Term 2 Collapse all COMP1014-SC2-1-SC keyboard_arrow_down Location:Sydney City Mode of Study: On-site Self Enrol:Yes Language of Instruction:English""
+
+This indicates that COMP1014 is the subject offered at Sydney City Campus. The documentation does not mention any other subjects being offered at Sydney City Campus.
+
+Therefore, the subject offered at Sydney City Campus is COMP1014.","Based on the provided documentation, the only subject offered at Sydney City Campus is COMP1005. This subject is offered for Term 1 (COMP1005-SC1-1-SC), Term 2 (COMP1005-SC2-1-SC), and Term 3 (COMP1005-SC3-1-SC) at Sydney City Campus.
+
+COMP1005 is the subject code, and the ""SC"" in the code indicates Sydney City Campus. There are no other subjects mentioned in the documentation for Sydney City Campus.
+
+Therefore, the answer is: COMP1005","Based on the provided documentation, the only subject offered at Sydney City Campus is COMP1005.
+
+The documentation shows COMP1005 being offered at Sydney City Campus for:
+- Term 1 (COMP1005-SC1-1-SC)
+- Term 2 (COMP1005-SC2-1-SC)
+- Term 3 (COMP1005-SC3-1-SC)
+
+All entries indicate ""Location: Sydney City"" and ""Sydney City Campus"" as the campus location. The course code pattern with ""SC"" specifically refers to Sydney City Campus.","COMP1005, COMP1014, MATH1006, COMP1013, COMP2025, COMP2026, 
+COMP3002,COMP3032, COMP3020, INFS2001, and INFO3019 "
 Run 5,"I don't have the answer.
 
-The provided documentation shows information about NATS1019 - Scientific Literacy subject offerings at Western Sydney University, but it does not mention ""Sydney City Campus"" at all. The locations listed in the documentation are Campbelltown (CA), Hawkesbury (HW), and Parramatta South (PS), but none of these are described as ""Sydney City Campus"". The documentation does not contain information about subjects offered at a campus with this specific name."
+The provided documentation shows information about NATS1019 - Scientific Literacy subject offerings at Western Sydney University, but it does not mention ""Sydney City Campus"" at all. The locations listed in the documentation are Campbelltown (CA), Hawkesbury (HW), and Parramatta South (PS), but none of these are described as ""Sydney City Campus"". The documentation does not contain information about subjects offered at a campus with this specific name.","Based on the provided documentation, the subject offered at Sydney City Campus is COMP3032.
+
+The documentation specifically shows: ""COMP3032-SC1-1-SC"" with ""Location:Sydney City"" indicating this subject is offered at the Sydney City Campus.
+
+No other subjects are listed as being offered at Sydney City Campus in the provided documentation.","Based on the provided documentation, the subject offered at Sydney City Campus is COMP1014.
+
+This is specifically listed in the documentation under ""Sydney City Campus - Term 2 Collapse all COMP1014-SC2-1-SC"" with Location: Sydney City.
+
+The documentation shows that COMP1014 is offered at Sydney City Campus during Term 2, but no other subjects are explicitly listed as being offered at Sydney City Campus.","Based on the provided documentation, the only subject offered at Sydney City Campus is COMP1005, which is offered for:
+
+- Term 1: COMP1005-SC1-1-SC
+- Term 2: COMP1005-SC2-1-SC
+- Term 3: COMP1005-SC3-1-SC
+
+The documentation shows that COMP1005 is the subject code for Sydney City Campus across all three terms. No other subjects are explicitly listed as being offered at Sydney City Campus in the provided information.","Based on the provided documentation, the subject offered at Sydney City Campus is COMP1005. The documentation shows that COMP1005 is offered at Sydney City Campus for Term 1 (COMP1005-SC1-1-SC), Term 2 (COMP1005-SC2-1-SC), and Term 3 (COMP1005-SC3-1-SC). 
+
+The documentation does not show any other subjects being offered at Sydney City Campus.
+
+So the answer is: COMP1005","COMP1005, COMP1014, MATH1006, COMP1013, COMP2025, COMP2026, 
+COMP3002,COMP3032, COMP3020, INFS2001, and INFO3019 "
 Run 6,"I don't have the answer.
 
-The provided documentation is for NATS1019 - Scientific Literacy (2026 version) at Western Sydney University. While it shows some campus locations for this specific subject (Campbelltown, Hawkesbury, Parramatta South), it does not mention ""Sydney City Campus"" anywhere in the documentation. The documentation does not provide information about subjects offered at Sydney City Campus specifically."
+The provided documentation is for NATS1019 - Scientific Literacy (2026 version) at Western Sydney University. While it shows some campus locations for this specific subject (Campbelltown, Hawkesbury, Parramatta South), it does not mention ""Sydney City Campus"" anywhere in the documentation. The documentation does not provide information about subjects offered at Sydney City Campus specifically.","Based on the provided documentation, the only subject offered at Sydney City Campus is COMP3032. This is indicated in the documentation where it shows ""COMP3032-SC1-1-SC"" with ""Location:Sydney City"". The documentation does not list any other subjects specifically offered at Sydney City Campus.","Based on the provided documentation, the subject offered at Sydney City Campus is COMP1014 (specifically for Term 2 with the code COMP1014-SC2-1-SC).
+
+The documentation states: ""Sydney City Campus - Term 2 Collapse all COMP1014-SC2-1-SC keyboard_arrow_down Location:Sydney City Mode of Study: On-site Self Enrol:Yes Language of Instruction:English""
+
+No other subjects are mentioned as being offered at Sydney City Campus in the provided documentation.","Based on the provided documentation, the only subject explicitly mentioned as being offered at Sydney City Campus is COMP1005. The documentation shows COMP1005 is offered at Sydney City Campus for Term 1 (COMP1005-SC1-1-SC), Term 2 (COMP1005-SC2-1-SC), and Term 3 (COMP1005-SC3-1-SC). No other subjects are indicated as being offered at Sydney City Campus in the documentation.","Based on the provided documentation, the only subject offered at Sydney City Campus is COMP1005. The documentation shows COMP1005 being offered in three terms at Sydney City Campus with the following course codes:
+- COMP1005-SC1-1-SC (Term 1)
+- COMP1005-SC2-1-SC (Term 2)
+- COMP1005-SC3-1-SC (Term 3)
+
+These course codes indicate that COMP1005 is the subject offered at Sydney City Campus across multiple terms. No other subjects are explicitly mentioned for Sydney City Campus in the documentation.","COMP1005, COMP1014, MATH1006, COMP1013, COMP2025, COMP2026, 
+COMP3002,COMP3032, COMP3020, INFS2001, and INFO3019 "
 Run 7,"I don't have the answer. 
 
-The provided documentation only shows information about NATS1019 - Scientific Literacy at Western Sydney University, listing locations as Campbelltown, Hawkesbury, and Parramatta South. There is no mention of ""Sydney City Campus"" or any subjects offered at this campus in the documentation. The document does not provide information about Sydney City Campus offerings."
+The provided documentation only shows information about NATS1019 - Scientific Literacy at Western Sydney University, listing locations as Campbelltown, Hawkesbury, and Parramatta South. There is no mention of ""Sydney City Campus"" or any subjects offered at this campus in the documentation. The document does not provide information about Sydney City Campus offerings.","Based on the provided documentation, the subject offered at Sydney City Campus is COMP3032. 
+
+The documentation specifically shows ""COMP3032-SC1-1-SC"" with the location labeled as ""Sydney City"" (the ""SC"" in the campus code indicates Sydney City campus). 
+
+No other subjects are explicitly mentioned as being offered at Sydney City Campus in the provided documentation. 
+
+So the answer is: COMP3032","Based on the provided documentation, the only subject offered at Sydney City Campus is COMP1014 (specifically the COMP1014-SC2-1-SC offering for Term 2).
+
+This is indicated in the section: ""Sydney City Campus - Term 2 Collapse all COMP1014-SC2-1-SC keyboard_arrow_down Location:Sydney City Mode of Study: On-site Self Enrol:Yes Language of Instruction:English""
+
+The documentation shows COMP1014 is offered in multiple locations and terms, but only the Sydney City Campus offering is explicitly identified as being at ""Sydney City"" location.","Based on the provided documentation, the only subject offered at Sydney City Campus is COMP1005. The documentation shows:
+
+- COMP1005-SC1-1-SC (Sydney City Campus - Term 1)
+- COMP1005-SC2-1-SC (Sydney City Campus - Term 2)
+- COMP1005-SC3-1-SC (Sydney City Campus - Term 3)
+
+The documentation does not mention any other subjects being offered at Sydney City Campus.","Based on the provided documentation, the subject offered at Sydney City Campus is COMP1005. 
+
+The documentation shows three entries for this subject at Sydney City Campus:
+- COMP1005-SC1-1-SC (Sydney City Campus - Term 1)
+- COMP1005-SC2-1-SC (Sydney City Campus - Term 2)
+- COMP1005-SC3-1-SC (Sydney City Campus - Term 3)
+
+Therefore, COMP1005 is the subject offered at Sydney City Campus.","COMP1005, COMP1014, MATH1006, COMP1013, COMP2025, COMP2026, 
+COMP3002,COMP3032, COMP3020, INFS2001, and INFO3019 "
 Run 8,"I don't have the answer.
 
-The documentation provided only shows information about NATS1019 - Scientific Literacy subject page at Western Sydney University. It mentions locations including Campbelltown, Hawkesbury, and Parramatta South, but there is no mention of ""Sydney City Campus"" or any subjects offered at that campus in the provided documentation. The document does not contain comprehensive campus information or a list of subjects by campus."
+The documentation provided only shows information about NATS1019 - Scientific Literacy subject page at Western Sydney University. It mentions locations including Campbelltown, Hawkesbury, and Parramatta South, but there is no mention of ""Sydney City Campus"" or any subjects offered at that campus in the provided documentation. The document does not contain comprehensive campus information or a list of subjects by campus.","Based on the provided documentation, I can see that COMP3032 is offered at Sydney City Campus. The documentation specifically shows:
+
+""English Sydney City Campus - Term 1 Collapse all COMP3032-SC1-1-SC keyboard_arrow_down Location:Sydney City""
+
+This indicates that COMP3032 is the subject offered at Sydney City Campus for Term 1.
+
+The documentation also shows that COMP3032 is offered in Vietnam for Sessions 1 and 3 (with codes COMP3032-UT1-1-UE and COMP3032-UT3-1-UE), but these are not at Sydney City Campus.
+
+Therefore, the subject offered at Sydney City Campus is COMP3032.","Based on the provided documentation, the only subject offered at Sydney City Campus is COMP1014 (Computer Science) for Term 2. This is indicated in the section: ""Sydney City Campus - Term 2 Collapse all COMP1014-SC2-1-SC keyboard_arrow_down Location:Sydney City Mode of Study: On-site Self Enrol:Yes Language of Instruction:English"".","Based on the provided documentation, the only subject offered at Sydney City Campus is COMP1005. This subject is offered across Term 1 (COMP1005-SC1-1-SC), Term 2 (COMP1005-SC2-1-SC), and Term 3 (COMP1005-SC3-1-SC) at the Sydney City Campus.","Based on the provided documentation, the subjects offered at Sydney City Campus are:
+
+- COMP1005 (offered in Term 1)
+- COMP1005 (offered in Term 2)
+- COMP1005 (offered in Term 3)
+
+All of these are listed under the ""Sydney City Campus"" location with ""On-site"" mode of study and ""English"" language of instruction.","COMP1005, COMP1014, MATH1006, COMP1013, COMP2025, COMP2026, 
+COMP3002,COMP3032, COMP3020, INFS2001, and INFO3019 "
 Run 9,"I don't have the answer.
 
-The provided documentation shows details about NATS1019 - Scientific Literacy subject offerings at Western Sydney University, but it doesn't mention ""Sydney City Campus"" at all. The locations listed in the documentation are Campbelltown, Hawkesbury, and Parramatta South, but none are referred to as ""Sydney City Campus"". The documentation doesn't provide information about which subjects are offered at Sydney City Campus specifically."
+The provided documentation shows details about NATS1019 - Scientific Literacy subject offerings at Western Sydney University, but it doesn't mention ""Sydney City Campus"" at all. The locations listed in the documentation are Campbelltown, Hawkesbury, and Parramatta South, but none are referred to as ""Sydney City Campus"". The documentation doesn't provide information about which subjects are offered at Sydney City Campus specifically.","Based on the provided documentation, the subject offered at Sydney City Campus is COMP3032.
+
+The documentation shows: ""English Sydney City Campus - Term 1 Collapse all COMP3032-SC1-1-SC keyboard_arrow_down Location:Sydney City""
+
+This indicates that COMP3032 is offered at Sydney City Campus (as shown by the ""Location:Sydney City"" designation). No other subjects are explicitly listed as being offered at Sydney City Campus in the provided documentation.","Based on the provided documentation, I can see that COMP1014 is offered at Sydney City Campus. Specifically, the documentation shows:
+
+""Sydney City Campus - Term 2 Collapse all COMP1014-SC2-1-SC keyboard_arrow_down Location:Sydney City Mode of Study: On-site Self Enrol:Yes Language of Instruction:English""
+
+This indicates that COMP1014 is the subject offered at Sydney City Campus (for Term 2).
+
+No other subjects are listed as being offered at Sydney City Campus in the documentation.","Based on the provided documentation, I can see that COMP1005 is offered at Sydney City Campus. The documentation shows three specific instances of this subject:
+
+- COMP1005-SC1-1-SC (Sydney City Campus - Term 1)
+- COMP1005-SC2-1-SC (Sydney City Campus - Term 2)
+- COMP1005-SC3-1-SC (Sydney City Campus - Term 3)
+
+The documentation does not mention any other subjects being offered at Sydney City Campus. Therefore, the subject offered at Sydney City Campus is COMP1005.","Based on the provided documentation, the only subject offered at Sydney City Campus is COMP1005. This is shown in two entries:
+
+1. COMP1005-SC2-1-SC (Sydney City Campus - Term 2)
+2. COMP1005-SC3-1-SC (Sydney City Campus - Term 3)
+
+Therefore, the answer is: COMP1005","COMP1005, COMP1014, MATH1006, COMP1013, COMP2025, COMP2026, 
+COMP3002,COMP3032, COMP3020, INFS2001, and INFO3019 "
 Run 10,"I don't have the answer.
 
-The documentation provided shows information about NATS1019 - Scientific Literacy at Western Sydney University, but it doesn't mention any campus called ""Sydney City Campus"". The document lists locations where the subject is offered (Campbelltown, Hawkesbury, and Parramatta South), but there is no reference to a ""Sydney City Campus"" in the provided documentation."
-Run 11,"I don't have the answer. 
+The documentation provided shows information about NATS1019 - Scientific Literacy at Western Sydney University, but it doesn't mention any campus called ""Sydney City Campus"". The document lists locations where the subject is offered (Campbelltown, Hawkesbury, and Parramatta South), but there is no reference to a ""Sydney City Campus"" in the provided documentation.","Based on the provided documentation, the subject offered at Sydney City Campus is COMP3032 (specifically in the SC1 session).
 
-The provided documentation does not mention ""Sydney City Campus"" at all. It only lists locations for the NATS1019 - Scientific Literacy subject as Campbelltown, Hawkesbury, and Parramatta South, but none of these are specifically referred to as ""Sydney City Campus"" in the documentation. The document doesn't contain information about which subjects are offered at Sydney City Campus."
-Run 12,"I don't have the answer.
+The documentation shows:
+- COMP3032-SC1-1-SC: Location: Sydney City
 
-The provided documentation for NATS1019 - Scientific Literacy at Western Sydney University only mentions three campus locations: Campbelltown, Hawkesbury, and Parramatta South. There is no mention of ""Sydney City Campus"" in the documentation, and the question asks about subjects offered at this specific campus which isn't referenced in the provided information."
-Run 13,"I don't have the answer.
+This is the only subject mentioned as being offered at Sydney City Campus in the provided information.","Based on the provided documentation, the only subject offered at Sydney City Campus is COMP1014. This is specifically mentioned in the ""Sydney City Campus - Term 2"" section where it shows:
 
-The provided documentation shows information about NATS1019 - Scientific Literacy subject offerings at Western Sydney University, but it doesn't mention any ""Sydney City Campus"" or list subjects offered at this campus. The documentation only shows campus locations as Campbelltown, Hawkesbury, and Parramatta South (with some offerings being hybrid), but it doesn't identify any of these as ""Sydney City Campus"" or provide information about subjects offered at this specific campus."
-Run 14,"I don't have the answer.
+""COMP1014-SC2-1-SC"" with Location:Sydney City
 
-The provided documentation only shows information about NATS1019 - Scientific Literacy subject offerings at Western Sydney University, listing locations as Campbelltown, Hawkesbury, and Parramatta South. The documentation does not mention any campus by the name ""Sydney City Campus"" or provide information about subjects offered at this specific campus. The university is Western Sydney University, not Sydney University, and the documentation doesn't reference a ""Sydney City Campus"" at all."
-Run 15,"I don't have the answer.
+The documentation indicates this is offered during Term 2 at Sydney City Campus. No other subjects are listed as being offered at Sydney City Campus in the provided information.","Based on the provided documentation, the only subject offered at Sydney City Campus is COMP1005. The documentation shows:
 
-The provided documentation shows details about NATS1019 - Scientific Literacy at Western Sydney University, but it doesn't mention any campus called ""Sydney City Campus"". The documentation lists three campus locations for this subject: Campbelltown, Hawkesbury, and Parramatta South. There is no reference to a ""Sydney City Campus"" in the provided information."
-Run 16,"I don't have the answer.
+- COMP1005-SC2-1-SC (Sydney City Campus - Term 2)
+- COMP1005-SC3-1-SC (Sydney City Campus - Term 3)
 
-The provided documentation only shows information about NATS1019 - Scientific Literacy subject offerings at Western Sydney University, listing locations as Campbelltown (CA), Hawkesbury (HW), and Parramatta South (PS). There is no mention of ""Sydney City Campus"" in the documentation, and the documentation does not provide information about which subjects are offered at this specific campus."
-Run 17,"I don't have the answer.
+These entries indicate that COMP1005 is the subject offered at Sydney City Campus for Term 2 and Term 3. No other subjects are explicitly listed for Sydney City Campus in the documentation.
 
-The provided documentation is for Western Sydney University's NATS1019 - Scientific Literacy subject page, and it lists campus locations as Campbelltown (CA), Hawkesbury (HW), and Parramatta South (PS). There is no mention of ""Sydney City Campus"" in this documentation, and the documentation doesn't provide information about subjects offered at any campus named ""Sydney City Campus"" (which would typically be associated with the University of Sydney, not Western Sydney University)."
-Run 18,"I don't have the answer.
+COMP1005","Based on the provided documentation, the only subject offered at Sydney City Campus is COMP1005. 
 
-The provided documentation shows information about NATS1019 - Scientific Literacy subject offerings, but it doesn't mention ""Sydney City Campus"" at all. The campus locations listed in the documentation are Campbelltown, Hawkesbury, and Parramatta South, but there is no reference to ""Sydney City Campus"" in this handbook page."
-Run 19,"I don't have the answer. 
+This subject is listed in three different terms:
+- COMP1005-SC1-1-SC (Sydney City Campus - Term 1)
+- COMP1005-SC2-1-SC (Sydney City Campus - Term 2)
+- COMP1005-SC3-1-SC (Sydney City Campus - Term 3)
 
-The provided documentation only shows information about NATS1019 - Scientific Literacy subject offerings at Western Sydney University, with locations listed as Campbelltown, Hawkesbury, and Parramatta South. There is no mention of ""Sydney City Campus"" in the documentation, nor does it provide information about subjects offered at any campus called ""Sydney City Campus."" The document does not contain a comprehensive list of all subjects offered at all campuses."
-Run 20,"I don't have the answer.
-
-The provided documentation shows campus locations for NATS1019 - Scientific Literacy offerings as Campbelltown, Hawkesbury, and Parramatta South, but it does not mention any campus called ""Sydney City Campus"" or provide information about subjects offered at this campus. The documentation is from Western Sydney University, but it doesn't include Sydney City Campus in its campus listings."
-Run 21,"I don't have the answer.
-
-The provided documentation shows information about NATS1019 - Scientific Literacy at Western Sydney University, but it doesn't mention any ""Sydney City Campus"" or subjects offered there. The documentation lists three campus locations: Campbelltown, Hawkesbury, and Parramatta South, but none are referred to as ""Sydney City Campus"". The documentation doesn't provide information about Sydney City Campus at all."
-Run 22,"I don't have the answer.
-
-The documentation shows information about NATS1019 - Scientific Literacy at Western Sydney University, but it only mentions three campus locations: Campbelltown, Hawkesbury, and Parramatta South. There is no mention of ""Sydney City Campus"" in the provided documentation, so I cannot determine which subjects are offered there based on this information."
-Run 23,"I don't have the answer.
-
-The provided documentation is for NATS1019 - Scientific Literacy at Western Sydney University, but it doesn't mention any ""Sydney City Campus"" offerings. The document shows locations for this subject as Campbelltown, Hawkesbury, and Parramatta South, but there is no reference to a ""Sydney City Campus"" in the documentation. Western Sydney University does not have a campus called ""Sydney City Campus"" according to this information."
-Run 24,"I don't have the answer.
-
-The provided documentation shows information about NATS1019 - Scientific Literacy subject offerings at Western Sydney University, with locations listed as Campbelltown, Hawkesbury, and Parramatta South. However, there is no mention of ""Sydney City Campus"" in the documentation, nor any information about subjects offered at this specific campus. The documentation does not contain data about Sydney City Campus offerings."
-Run 25,"I don't have the answer.
-
-The documentation provided shows information about NATS1019 - Scientific Literacy subject offerings at Western Sydney University, with campuses listed as Campbelltown, Hawkesbury, and Parramatta South. However, there is no mention of ""Sydney City Campus"" in the documentation, and the university doesn't appear to have a campus specifically named ""Sydney City Campus"" in this context. The documentation doesn't provide information about which subjects are offered at Sydney City Campus."
-Run 26,"I don't have the answer.
-
-The provided documentation only shows information about NATS1019 - Scientific Literacy subject offerings, listing locations as Campbelltown, Hawkesbury, and Parramatta South. There is no mention of ""Sydney City Campus"" in the documentation, nor any information about subjects offered at this campus. The documentation doesn't contain information about which subjects are offered at Sydney City Campus."
-Run 27,"I don't have the answer.
-
-The provided documentation shows information about NATS1019 - Scientific Literacy subject offerings at Western Sydney University, but it doesn't mention any ""Sydney City Campus"" or subjects offered there. The document lists locations as Campbelltown, Hawkesbury, and Parramatta South for this subject, but there is no reference to a ""Sydney City Campus"" in the provided documentation."
-Run 28,"I don't have the answer.
-
-The provided documentation shows information about NATS1019 - Scientific Literacy at Western Sydney University, listing locations as Campbelltown, Hawkesbury, and Parramatta South. However, it does not mention ""Sydney City Campus"" as a campus name or list any subjects offered at this specific campus. The documentation references these locations as ""Campbelltown"", ""Hawkesbury"", and ""Parramatta South"" but doesn't use the term ""Sydney City Campus"" anywhere in the text."
-Run 29,"I don't have the answer.
-
-The provided documentation shows information about NATS1019 - Scientific Literacy at Western Sydney University, but it doesn't mention any campus called ""Sydney City Campus"" or list subjects offered at that specific campus. The documentation only shows locations where this particular subject is offered: Campbelltown, Hawkesbury, and Parramatta South. None of these are described as ""Sydney City Campus"" in the provided text."
-Run 30,"I don't have the answer.
-
-The provided documentation is for Western Sydney University's NATS1019 - Scientific Literacy subject page, but it doesn't contain information about subjects offered at ""Sydney City Campus."" The document shows locations for this specific subject (Campbelltown, Hawkesbury, and Parramatta South), but it doesn't mention a ""Sydney City Campus"" or provide a list of subjects offered at that campus. The university is Western Sydney University, not Sydney University, and the documentation doesn't contain the requested information about subjects at Sydney City Campus."
+The ""SC"" in the code indicates Sydney City Campus, while the ""PS"" in other entries refers to Parramatta South.","COMP1005, COMP1014, MATH1006, COMP1013, COMP2025, COMP2026, 
+COMP3002,COMP3032, COMP3020, INFS2001, and INFO3019 "

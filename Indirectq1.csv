@@ -1,3 +1,4 @@
+Run time,Result for non chunking,Result for equal chunking,Result for manual chunking overlap,Result for LangChain,Result for LangChain overlap,Answer,,
 Run 1,"Based on the provided documentation for COMP1014 - Thinking About Data, you will learn:
 
 - Basic concepts of data centric thinking
@@ -14,7 +15,75 @@ Specifically, upon completion of this subject, you will be able to:
 3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
 4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights
 
-The subject takes a computational and nonparametric approach before briefly discussing theoretical concepts and distribution theory in technical and lay language."
+The subject takes a computational and nonparametric approach before briefly discussing theoretical concepts and distribution theory in technical and lay language.","Based on the provided documentation, if you study Thinking About Data (COMP1014), you will learn:
+
+This subject covers basic concepts of data centric thinking. The main areas discussed are:
+- Populations and Samples
+- Sampling concepts
+- Types of Data
+- Descriptive Methods
+- Estimation and Inference
+- Modelling
+
+The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language. Upon completion, you will be able to describe different types of data.","Based on the provided documentation, if you study Thinking About Data (COMP1014), you will learn:
+
+Upon completion of this subject, you will be able to:
+
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
+
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
+
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
+
+4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.
+
+The subject covers basic concepts of data centric thinking with the main areas discussed being: Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; Modelling. It takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.","Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), you will learn:
+
+This subject covers basic concepts of data centric thinking with the main areas discussed being:
+- Populations and Samples
+- Sampling concepts
+- Types of Data
+- Descriptive Methods
+- Estimation and Inference
+- Modelling
+
+The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.
+
+Upon completion, you will be able to:
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
+4. Use data ethically and responsibly to provide reliable, valid, timely, innovative and relevant information
+5. Communicate effectively to diverse audiences the findings of data analyses integrating computational, statistical, and machine learning methods
+6. Solve problems through the design and execution of data-driven projects
+7. Collaborate effectively in professional environments and interdisciplinary contexts
+8. Apply adaptive thinking and meta-cognitive strategies for continued professional development in data science","Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), if you study this subject you will learn:
+
+The subject covers basic concepts of data centric thinking with specific focus on:
+- Populations and Samples
+- Sampling concepts
+- Types of Data
+- Descriptive Methods
+- Estimation and Inference
+- Modelling
+
+Upon completion, you will be able to:
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
+4. Use data ethically and responsibly to provide reliable, valid, timely, innovative and relevant information
+5. Communicate effectively to diverse audiences the findings of data analyses integrating computational, statistical, and machine learning methods
+6. Solve problems through the design and execution of data-driven projects
+7. Collaborate effectively in professional environments and interdisciplinary contexts
+8. Apply adaptive thinking and meta-cognitive strategies for continued professional development in data science
+
+The subject takes a computational and nonparametric approach before briefly discussing theoretical concepts and distribution theory in technical and lay language.","Upon completion of this program, graduates will be able to:
+1.Select appropriate techniques for extracting, modelling, predicting, visualising, and managing data in practical scenarios, drawing on statistics, mathematics, and computer science approaches.
+2.Use data ethically and responsibly to provide information and advice that is reliable, valid, timely, innovative and relevant for their chosen specialty.
+3.Communicate effectively to diverse audiences the findings of data analyses which integrates computational, statistical, and machine learning methods, programming tools, and critical evaluation to ensure integrity, validity and quality assurance.
+4.Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+5.Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+6.Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.",,
 Run 2,"Based on the provided documentation for COMP1014 - Thinking About Data, you will learn:
 
 Upon completion of this subject, you will be able to:
@@ -27,7 +96,58 @@ Upon completion of this subject, you will be able to:
 
 4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.
 
-The subject covers basic concepts of data centric thinking with a focus on Populations and Samples, Sampling concepts, Types of Data, Descriptive Methods, Estimation and Inference, and Modelling. It takes a computational and nonparametric approach before briefly discussing theoretical concepts and distribution theory in technical and lay language."
+The subject covers basic concepts of data centric thinking with a focus on Populations and Samples, Sampling concepts, Types of Data, Descriptive Methods, Estimation and Inference, and Modelling. It takes a computational and nonparametric approach before briefly discussing theoretical concepts and distribution theory in technical and lay language.","Based on the provided documentation, if you study Thinking About Data (COMP1014), you will learn:
+
+This subject covers basic concepts of data centric thinking. The main areas discussed are:
+- Populations and Samples
+- Sampling concepts
+- Types of Data
+- Descriptive Methods
+- Estimation and Inference
+- Modelling
+
+The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.","Based on the provided documentation, if you study Thinking About Data (COMP1014), you will learn:
+
+Upon completion of this subject, you will be able to:
+
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
+
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
+
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
+
+4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.
+
+The subject covers basic concepts of data centric thinking with the main areas discussed being: Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; Modelling. It takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.","Based on the provided documentation for COMP1014 - Thinking About Data, you will learn:
+
+This subject covers basic concepts of data centric thinking. The main areas discussed are: Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; Modelling. The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.
+
+Upon completion, you will be able to:
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
+4. Use data ethically and responsibly to provide information and advice that is reliable, valid, timely, innovative and relevant
+5. Communicate effectively to diverse audiences the findings of data analyses which integrates computational, statistical, and machine learning methods
+6. Solve problems through the design and execution of data-driven projects
+7. Collaborate effectively and inclusively in professional environments and interdisciplinary contexts
+8. Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science","Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), upon completion of this subject, graduates will be able to:
+
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
+4. Use data ethically and responsibly to provide information and advice that is reliable, valid, timely, innovative and relevant for their chosen specialty.
+5. Communicate effectively to diverse audiences the findings of data analyses which integrates computational, statistical, and machine learning methods, programming tools, and critical evaluation to ensure integrity, validity and quality assurance.
+6. Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+7. Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+8. Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.
+
+The subject covers basic concepts of data centric thinking with focus on Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; and Modelling. It takes a computational and nonparametric approach before briefly discussing theoretical concepts and distribution theory in technical and lay language.","Upon completion of this program, graduates will be able to:
+1.Select appropriate techniques for extracting, modelling, predicting, visualising, and managing data in practical scenarios, drawing on statistics, mathematics, and computer science approaches.
+2.Use data ethically and responsibly to provide information and advice that is reliable, valid, timely, innovative and relevant for their chosen specialty.
+3.Communicate effectively to diverse audiences the findings of data analyses which integrates computational, statistical, and machine learning methods, programming tools, and critical evaluation to ensure integrity, validity and quality assurance.
+4.Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+5.Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+6.Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.",,
 Run 3,"Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), if you study this subject you will learn:
 
 The subject covers basic concepts of data centric thinking with focus on:
@@ -44,7 +164,80 @@ Specifically, upon completion you will be able to:
 3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
 4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights
 
-The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language."
+The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.","Based on the provided documentation, if you study Thinking About Data (COMP1014), you will learn:
+
+This subject covers basic concepts of data centric thinking. The main areas discussed are:
+- Populations and Samples
+- Sampling concepts
+- Types of Data
+- Descriptive Methods
+- Estimation and Inference
+- Modelling
+
+The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.
+
+Upon completion, graduates will be able to describe different types of data.","Based on the provided documentation, if you study Thinking About Data (COMP1014), you will learn:
+
+Upon completion of this subject, you will be able to:
+
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
+
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
+
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
+
+4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.
+
+The subject covers basic concepts of data centric thinking with the main areas discussed being: Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; Modelling. It takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.","Based on the provided documentation for COMP1014 - Thinking About Data, you will learn:
+
+This subject covers basic concepts of data centric thinking. The main areas discussed are:
+- Populations and Samples
+- Sampling concepts
+- Types of Data
+- Descriptive Methods
+- Estimation and Inference
+- Modelling
+
+The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.
+
+Upon completion, you will be able to:
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
+4. Use data ethically and responsibly to provide information and advice that is reliable, valid, timely, innovative and relevant for your chosen specialty.
+5. Communicate effectively to diverse audiences the findings of data analyses which integrates computational, statistical, and machine learning methods, programming tools, and critical evaluation to ensure integrity, validity and quality assurance.
+6. Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+7. Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+8. Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.","Based on the provided documentation for COMP1014 - Thinking About Data, here's what you will learn:
+
+This subject covers basic concepts of data centric thinking. The main areas discussed are:
+
+- Populations and Samples
+- Sampling concepts
+- Types of Data
+- Descriptive Methods
+- Estimation and Inference
+- Modelling
+
+The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.
+
+Upon completion, you will be able to:
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
+4. Use data ethically and responsibly to provide information and advice that is reliable, valid, timely, innovative and relevant
+5. Communicate effectively to diverse audiences the findings of data analyses which integrates computational, statistical, and machine learning methods
+6. Solve problems through the design and execution of data-driven projects
+7. Collaborate effectively and inclusively in professional environments and interdisciplinary contexts
+8. Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science
+
+The subject emphasizes practical, computational approaches to data analysis with a focus on real-world applications.","Upon completion of this program, graduates will be able to:
+1.Select appropriate techniques for extracting, modelling, predicting, visualising, and managing data in practical scenarios, drawing on statistics, mathematics, and computer science approaches.
+2.Use data ethically and responsibly to provide information and advice that is reliable, valid, timely, innovative and relevant for their chosen specialty.
+3.Communicate effectively to diverse audiences the findings of data analyses which integrates computational, statistical, and machine learning methods, programming tools, and critical evaluation to ensure integrity, validity and quality assurance.
+4.Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+5.Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+6.Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.",,
 Run 4,"Based on the provided documentation for COMP1014 - Thinking About Data, upon completion of this subject you will be able to:
 
 1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
@@ -55,7 +248,79 @@ Run 4,"Based on the provided documentation for COMP1014 - Thinking About Data, u
 
 4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.
 
-The subject covers basic concepts of data centric thinking with focus on Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; and Modelling. It takes a computational and nonparametric approach before briefly discussing theoretical concepts and distribution theory in technical and lay language."
+The subject covers basic concepts of data centric thinking with focus on Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; and Modelling. It takes a computational and nonparametric approach before briefly discussing theoretical concepts and distribution theory in technical and lay language.","Based on the provided documentation, if you study Thinking About Data (COMP1014), you will learn:
+
+This subject covers basic concepts of data centric thinking. The main areas discussed are:
+- Populations and Samples
+- Sampling concepts
+- Types of Data
+- Descriptive Methods
+- Estimation and Inference
+- Modelling
+
+The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.
+
+Upon completion, you will be able to describe different types of data.","Based on the provided documentation, if you study Thinking About Data (COMP1014), you will learn:
+
+Upon completion of this subject, you will be able to:
+
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
+
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
+
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
+
+4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.
+
+The subject covers basic concepts of data centric thinking with the main areas discussed being: Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; Modelling. It takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.","Based on the provided documentation for COMP1014 - Thinking About Data, you will learn:
+
+This subject covers basic concepts of data centric thinking with focus on:
+- Populations and Samples
+- Sampling concepts
+- Types of Data
+- Descriptive Methods
+- Estimation and Inference
+- Modelling
+
+Upon completion, you will be able to:
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
+4. Use data ethically and responsibly to provide reliable, valid, timely, innovative and relevant information and advice
+5. Communicate effectively to diverse audiences the findings of data analyses integrating computational, statistical, and machine learning methods
+6. Solve problems through the design and execution of data-driven projects
+7. Collaborate effectively and inclusively in professional environments
+8. Apply adaptive thinking and meta-cognitive strategies for continued professional development in data science
+
+The subject takes a computational and nonparametric approach before briefly discussing theoretical concepts and distribution theory in technical and lay language.","Based on the provided documentation, if you study Thinking About Data (COMP1014), you will learn:
+
+This subject covers basic concepts of data centric thinking. The main areas discussed are:
+- Populations and Samples
+- Sampling concepts
+- Types of Data
+- Descriptive Methods
+- Estimation and Inference
+- Modelling
+
+The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.
+
+Upon completion, you will be able to:
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
+4. Use data ethically and responsibly to provide reliable, valid, timely, innovative and relevant information and advice
+5. Communicate effectively to diverse audiences the findings of data analyses integrating computational, statistical, and machine learning methods
+6. Solve problems through the design and execution of data-driven projects
+7. Collaborate effectively in professional environments and interdisciplinary contexts
+8. Apply adaptive thinking and meta-cognitive strategies for continued professional development in data science
+
+This is a 10 credit point undergraduate subject (Level 1) offered by the School of Computer, Data and Mathematical Sciences.","Upon completion of this program, graduates will be able to:
+1.Select appropriate techniques for extracting, modelling, predicting, visualising, and managing data in practical scenarios, drawing on statistics, mathematics, and computer science approaches.
+2.Use data ethically and responsibly to provide information and advice that is reliable, valid, timely, innovative and relevant for their chosen specialty.
+3.Communicate effectively to diverse audiences the findings of data analyses which integrates computational, statistical, and machine learning methods, programming tools, and critical evaluation to ensure integrity, validity and quality assurance.
+4.Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+5.Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+6.Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.",,
 Run 5,"Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), upon completion of this subject, you will be able to:
 
 1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
@@ -66,7 +331,80 @@ Run 5,"Based on the provided documentation for COMP1014 - Thinking About Data (2
 
 4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.
 
-The subject covers basic concepts of data centric thinking with focus on Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; and Modelling. It takes a computational and nonparametric approach before briefly discussing theoretical concepts and distribution theory in technical and lay language."
+The subject covers basic concepts of data centric thinking with focus on Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; and Modelling. It takes a computational and nonparametric approach before briefly discussing theoretical concepts and distribution theory in technical and lay language.","Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), if you study this subject, you will learn:
+
+The subject covers basic concepts of data centric thinking, with the main areas discussed being:
+- Populations and Samples
+- Sampling concepts
+- Types of Data
+- Descriptive Methods
+- Estimation and Inference
+- Modelling
+
+The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.
+
+Upon completion, you will be able to describe different types of data.","Based on the provided documentation, if you study Thinking About Data (COMP1014), you will learn:
+
+Upon completion of this subject, you will be able to:
+
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
+
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
+
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
+
+4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.
+
+The subject covers basic concepts of data centric thinking with the main areas discussed being: Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; Modelling. It takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.","Based on the provided documentation for COMP1014 - Thinking About Data, you will learn:
+
+This subject covers basic concepts of data centric thinking. The main areas discussed are:
+
+- Populations and Samples
+- Sampling concepts
+- Types of Data
+- Descriptive Methods
+- Estimation and Inference
+- Modelling
+
+The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.
+
+Specifically, upon completion you will be able to:
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
+4. Use data ethically and responsibly to provide reliable, valid, timely, innovative and relevant information
+5. Communicate effectively to diverse audiences the findings of data analyses integrating computational, statistical, and machine learning methods
+6. Solve problems through the design and execution of data-driven projects
+7. Collaborate effectively in professional environments and interdisciplinary contexts
+8. Apply adaptive thinking and meta-cognitive strategies for continued professional development in data science
+
+This is a 10 credit point subject at the undergraduate level (Level 1) in the Computer, Data and Mathematical Sciences school.","Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), if you study this subject, you will learn:
+
+The subject covers basic concepts of data centric thinking with focus on:
+- Populations and Samples
+- Sampling concepts
+- Types of Data
+- Descriptive Methods
+- Estimation and Inference
+- Modelling
+
+You will be able to:
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
+4. Use data ethically and responsibly to provide reliable, valid, timely, innovative and relevant information
+5. Communicate effectively to diverse audiences the findings of data analyses integrating computational, statistical, and machine learning methods
+6. Solve problems through the design and execution of data-driven projects
+7. Collaborate effectively in professional environments and interdisciplinary contexts
+8. Apply adaptive thinking and meta-cognitive strategies for continued professional development in data science
+
+The subject takes a computational and nonparametric approach before briefly discussing theoretical concepts and distribution theory in technical and lay language.","Upon completion of this program, graduates will be able to:
+1.Select appropriate techniques for extracting, modelling, predicting, visualising, and managing data in practical scenarios, drawing on statistics, mathematics, and computer science approaches.
+2.Use data ethically and responsibly to provide information and advice that is reliable, valid, timely, innovative and relevant for their chosen specialty.
+3.Communicate effectively to diverse audiences the findings of data analyses which integrates computational, statistical, and machine learning methods, programming tools, and critical evaluation to ensure integrity, validity and quality assurance.
+4.Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+5.Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+6.Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.",,
 Run 6,"Based on the provided documentation for COMP1014 - Thinking About Data, I can tell you what you'll learn:
 
 This subject covers basic concepts of data centric thinking. The main areas discussed are:
@@ -90,7 +428,69 @@ Upon completion, you will be able to:
 
 4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.
 
-This is a 10 credit point undergraduate subject (Level 1) offered by Western Sydney University's Computer, Data and Mathematical Sciences School."
+This is a 10 credit point undergraduate subject (Level 1) offered by Western Sydney University's Computer, Data and Mathematical Sciences School.","Based on the provided documentation, if you study Thinking About Data (COMP1014), you will learn:
+
+This subject covers basic concepts of data centric thinking. The main areas discussed are:
+- Populations and Samples
+- Sampling concepts
+- Types of Data
+- Descriptive Methods
+- Estimation and Inference
+- Modelling
+
+The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.
+
+Upon completion, you will be able to describe different types of data.","Based on the provided documentation, if you study Thinking About Data (COMP1014), you will learn:
+
+Upon completion of this subject, you will be able to:
+
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
+
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
+
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
+
+4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.
+
+The subject covers basic concepts of data centric thinking with the main areas discussed being: Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; Modelling. It takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.","Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), you will learn:
+
+This subject covers basic concepts of data centric thinking. The main areas discussed are: Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; Modelling. The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.
+
+Upon completion, you will be able to:
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
+4. Use data ethically and responsibly to provide reliable, valid, timely, innovative and relevant information
+5. Communicate effectively to diverse audiences the findings of data analyses integrating computational, statistical, and machine learning methods
+6. Solve problems through the design and execution of data-driven projects
+7. Collaborate effectively and inclusively in professional environments and interdisciplinary contexts
+8. Apply adaptive thinking and meta-cognitive strategies for continued professional development in data science","Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), you will learn:
+
+This subject covers basic concepts of data centric thinking. The main areas discussed are:
+- Populations and Samples
+- Sampling concepts
+- Types of Data
+- Descriptive Methods
+- Estimation and Inference
+- Modelling
+
+The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.
+
+Upon completion, you will be able to:
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
+4. Use data ethically and responsibly to provide information and advice that is reliable, valid, timely, innovative and relevant
+5. Communicate effectively to diverse audiences the findings of data analyses which integrates computational, statistical, and machine learning methods
+6. Solve problems through the design and execution of data-driven projects
+7. Collaborate effectively and inclusively in professional environments and interdisciplinary contexts
+8. Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science","Upon completion of this program, graduates will be able to:
+1.Select appropriate techniques for extracting, modelling, predicting, visualising, and managing data in practical scenarios, drawing on statistics, mathematics, and computer science approaches.
+2.Use data ethically and responsibly to provide information and advice that is reliable, valid, timely, innovative and relevant for their chosen specialty.
+3.Communicate effectively to diverse audiences the findings of data analyses which integrates computational, statistical, and machine learning methods, programming tools, and critical evaluation to ensure integrity, validity and quality assurance.
+4.Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+5.Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+6.Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.",,
 Run 7,"Based on the provided documentation for COMP1014 - Thinking About Data, I will learn:
 
 This subject covers basic concepts of data centric thinking. The main areas discussed are:
@@ -112,7 +512,72 @@ Specifically, upon completion of this subject, I will be able to:
 
 4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.
 
-The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language."
+The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.","Based on the provided documentation, if you study Thinking About Data (COMP1014), you will learn basic concepts of data centric thinking. The main areas covered include:
+
+- Populations and Samples
+- Sampling concepts
+- Types of Data
+- Descriptive Methods
+- Estimation and Inference
+- Modelling
+
+The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language. Upon completion, graduates will be able to describe different types of data with reference to the subject material.","Based on the provided documentation, if you study Thinking About Data (COMP1014), you will learn:
+
+Upon completion of this subject, you will be able to:
+
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
+
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
+
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
+
+4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.
+
+The subject covers basic concepts of data centric thinking with the main areas discussed being: Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; Modelling. It takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.","Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), if you study this subject, you will learn:
+
+Basic concepts of data centric thinking, specifically covering:
+- Populations and Samples
+- Sampling concepts
+- Types of Data
+- Descriptive Methods
+- Estimation and Inference
+- Modelling
+
+The subject takes a computational and nonparametric approach before briefly discussing theoretical concepts and distribution theory in technical and lay language.
+
+You will be able to:
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
+4. Use data ethically and responsibly to provide reliable, valid, timely, innovative and relevant information
+5. Communicate effectively to diverse audiences the findings of data analyses integrating computational, statistical, and machine learning methods
+6. Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions","Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), if you study this subject you will learn:
+
+The subject covers basic concepts of data centric thinking, with specific focus on:
+- Populations and Samples
+- Sampling concepts
+- Types of Data
+- Descriptive Methods
+- Estimation and Inference
+- Modelling
+
+You will be able to:
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
+4. Use data ethically and responsibly to provide reliable, valid, timely, innovative and relevant information
+5. Communicate effectively to diverse audiences the findings of data analyses that integrates computational, statistical, and machine learning methods
+6. Solve problems through the design and execution of data-driven projects
+7. Collaborate effectively in professional environments and interdisciplinary contexts
+8. Apply adaptive thinking and meta-cognitive strategies for continued professional development in data science
+
+The subject takes a computational and nonparametric approach before briefly discussing theoretical concepts and distribution theory in technical and lay language.","Upon completion of this program, graduates will be able to:
+1.Select appropriate techniques for extracting, modelling, predicting, visualising, and managing data in practical scenarios, drawing on statistics, mathematics, and computer science approaches.
+2.Use data ethically and responsibly to provide information and advice that is reliable, valid, timely, innovative and relevant for their chosen specialty.
+3.Communicate effectively to diverse audiences the findings of data analyses which integrates computational, statistical, and machine learning methods, programming tools, and critical evaluation to ensure integrity, validity and quality assurance.
+4.Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+5.Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+6.Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.",,
 Run 8,"Based on the provided documentation for COMP1014 - Thinking About Data, students will learn:
 
 This subject covers basic concepts of data centric thinking. The main areas discussed are:
@@ -129,7 +594,72 @@ Upon completion, graduates will be able to:
 3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
 4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights
 
-The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language."
+The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.","Based on the provided documentation, if you study Thinking About Data (COMP1014), you will learn:
+
+The subject covers basic concepts of data centric thinking. The main areas discussed are:
+
+- Populations and Samples
+- Sampling concepts
+- Types of Data
+- Descriptive Methods
+- Estimation and Inference
+- Modelling
+
+The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.
+
+Upon completion, you will be able to describe different types of data with reference to the subject's learning outcomes.","Based on the provided documentation, if you study Thinking About Data (COMP1014), you will learn:
+
+Upon completion of this subject, you will be able to:
+
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
+
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
+
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
+
+4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.
+
+The subject covers basic concepts of data centric thinking with the main areas discussed being: Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; Modelling. It takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.","Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), you will learn:
+
+This subject covers basic concepts of data centric thinking. The main areas discussed are:
+- Populations and Samples
+- Sampling concepts
+- Types of Data
+- Descriptive Methods
+- Estimation and Inference
+- Modelling
+
+The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.
+
+Upon completion, you will be able to:
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
+4. Use data ethically and responsibly to provide reliable, valid, timely, innovative and relevant information
+5. Communicate effectively to diverse audiences the findings of data analyses integrating computational, statistical, and machine learning methods
+6. Solve problems through the design and execution of data-driven projects
+7. Collaborate effectively in professional environments and interdisciplinary contexts
+8. Apply adaptive thinking and meta-cognitive strategies for continued professional development in data science","Based on the provided documentation for COMP1014 - Thinking About Data, you will learn:
+
+This subject covers basic concepts of data centric thinking. The main areas discussed are: Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; Modelling. The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.
+
+Upon completion, you will be able to:
+- Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
+- Identify data collection strategies considering populations and samples to provide unbiased and reliable data
+- Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
+- Use data ethically and responsibly to provide reliable, valid, timely, innovative and relevant information
+- Communicate effectively to diverse audiences the findings of data analyses integrating computational, statistical, and machine learning methods
+- Solve problems through the design and execution of data-driven projects
+- Collaborate effectively in professional environments and interdisciplinary contexts
+- Apply adaptive thinking and meta-cognitive strategies for continued professional development in data science
+
+This is a 10 credit point Level 1 undergraduate subject in Computer Science.","Upon completion of this program, graduates will be able to:
+1.Select appropriate techniques for extracting, modelling, predicting, visualising, and managing data in practical scenarios, drawing on statistics, mathematics, and computer science approaches.
+2.Use data ethically and responsibly to provide information and advice that is reliable, valid, timely, innovative and relevant for their chosen specialty.
+3.Communicate effectively to diverse audiences the findings of data analyses which integrates computational, statistical, and machine learning methods, programming tools, and critical evaluation to ensure integrity, validity and quality assurance.
+4.Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+5.Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+6.Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.",,
 Run 9,"Based on the provided documentation for COMP1014 - Thinking About Data, you will learn:
 
 Upon completion of this subject, you will be able to:
@@ -142,7 +672,77 @@ Upon completion of this subject, you will be able to:
 
 4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.
 
-The subject covers basic concepts of data centric thinking with focus on Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; and Modelling. It takes a computational and nonparametric approach before briefly discussing theoretical concepts and distribution theory in technical and lay language."
+The subject covers basic concepts of data centric thinking with focus on Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; and Modelling. It takes a computational and nonparametric approach before briefly discussing theoretical concepts and distribution theory in technical and lay language.","Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), if you study this subject, you will learn:
+
+The subject covers basic concepts of data centric thinking. The main areas discussed are:
+
+- Populations and Samples
+- Sampling concepts
+- Types of Data
+- Descriptive Methods
+- Estimation and Inference
+- Modelling
+
+The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language. Upon completion, graduates will be able to describe different types of data.","Based on the provided documentation, if you study Thinking About Data (COMP1014), you will learn:
+
+Upon completion of this subject, you will be able to:
+
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
+
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
+
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
+
+4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.
+
+The subject covers basic concepts of data centric thinking with the main areas discussed being: Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; Modelling. It takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.","Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), you will learn:
+
+This subject covers basic concepts of data centric thinking. The main areas discussed include:
+
+- Populations and Samples
+- Sampling concepts
+- Types of Data
+- Descriptive Methods
+- Estimation and Inference
+- Modelling
+
+The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.
+
+Upon completion, you will be able to:
+
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
+
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
+
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
+
+4. Use data ethically and responsibly to provide information and advice that is reliable, valid, timely, innovative and relevant for your chosen specialty.
+
+5. Communicate effectively to diverse audiences the findings of data analyses which integrates computational, statistical, and machine learning methods, programming tools, and critical evaluation.
+
+6. Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+
+7. Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+
+8. Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.","Based on the provided documentation for COMP1014 - Thinking About Data, I will learn:
+
+This subject covers basic concepts of data centric thinking. The main areas discussed are: Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; Modelling. The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.
+
+Specifically, upon completion of this subject, I will be able to:
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
+4. Use data ethically and responsibly to provide information and advice that is reliable, valid, timely, innovative and relevant
+5. Communicate effectively to diverse audiences the findings of data analyses which integrates computational, statistical, and machine learning methods
+6. Solve problems through the design and execution of data-driven projects
+7. Collaborate effectively and inclusively in professional environments and interdisciplinary contexts
+8. Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science","Upon completion of this program, graduates will be able to:
+1.Select appropriate techniques for extracting, modelling, predicting, visualising, and managing data in practical scenarios, drawing on statistics, mathematics, and computer science approaches.
+2.Use data ethically and responsibly to provide information and advice that is reliable, valid, timely, innovative and relevant for their chosen specialty.
+3.Communicate effectively to diverse audiences the findings of data analyses which integrates computational, statistical, and machine learning methods, programming tools, and critical evaluation to ensure integrity, validity and quality assurance.
+4.Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+5.Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+6.Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.",,
 Run 10,"Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), you will learn:
 
 This subject covers basic concepts of data centric thinking. The main areas discussed are:
@@ -159,49 +759,9 @@ Upon completion, you will be able to:
 1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
 2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
 3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights"
-Run 11,"Based on the provided documentation for COMP1014 - Thinking About Data, you will learn:
+4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights","Based on the provided documentation, if you study Thinking About Data (COMP1014), you will learn:
 
-Upon completion of this subject, graduates will be able to:
-
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
-
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
-
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
-
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.
-
-The subject covers basic concepts of data centric thinking with the main areas discussed being: Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; and Modelling. The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language."
-Run 12,"Based on the provided documentation for COMP1014 - Thinking About Data, if you study this subject you will learn:
-
-The basic concepts of data centric thinking, including:
-- Populations and Samples
-- Sampling concepts
-- Types of Data
-- Descriptive Methods
-- Estimation and Inference
-- Modelling
-
-The subject takes a computational and nonparametric approach to data analysis, before briefly discussing theoretical concepts and distribution theory in technical and lay language.
-
-Upon completion, you will be able to:
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights"
-Run 13,"Based on the provided documentation for COMP1014 - Thinking About Data, you will learn:
-
-This subject covers basic concepts of data centric thinking. The main areas discussed include: Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; and Modelling. The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.
-
-Upon completion, you will be able to:
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights"
-Run 14,"Based on the provided documentation for COMP1014 - Thinking About Data, you will learn:
-
-This subject covers basic concepts of data centric thinking. The main areas discussed are:
+The subject covers basic concepts of data centric thinking. The main areas discussed are:
 - Populations and Samples
 - Sampling concepts
 - Types of Data
@@ -211,38 +771,7 @@ This subject covers basic concepts of data centric thinking. The main areas disc
 
 The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.
 
-Upon completion, you will be able to:
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights"
-Run 15,"Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), you will learn:
-
-Upon completion of this subject, you will be able to:
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights
-
-The subject covers basic concepts of data centric thinking with the main areas discussed being: Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; and Modelling. The subject takes a computational and nonparametric approach before briefly discussing theoretical concepts and distribution theory in technical and lay language."
-Run 16,"Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), you will learn:
-
-This subject covers basic concepts of data centric thinking. The main areas discussed are:
-- Populations and Samples
-- Sampling concepts
-- Types of Data
-- Descriptive Methods
-- Estimation and Inference
-- Modelling
-
-The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.
-
-Upon completion, you will be able to:
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights"
-Run 17,"Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), you will learn:
+Upon completion, graduates will be able to describe different types of data with reference.","Based on the provided documentation, if you study Thinking About Data (COMP1014), you will learn:
 
 Upon completion of this subject, you will be able to:
 
@@ -254,208 +783,52 @@ Upon completion of this subject, you will be able to:
 
 4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.
 
-The subject covers basic concepts of data centric thinking with a focus on: Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; and Modelling. It takes a computational and nonparametric approach before briefly discussing theoretical concepts and distribution theory in technical and lay language."
-Run 18,"Based on the provided documentation for COMP1014 - Thinking About Data, you will learn:
+The subject covers basic concepts of data centric thinking with the main areas discussed being: Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; Modelling. It takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.","Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), you will learn:
+
+This subject covers basic concepts of data centric thinking. The main areas discussed include:
+
+- Populations and Samples
+- Sampling concepts
+- Types of Data
+- Descriptive Methods
+- Estimation and Inference
+- Modelling
+
+The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.
+
+Upon completion, you will be able to:
+
+1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
+2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
+3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
+4. Use data ethically and responsibly to provide reliable, valid, timely, innovative and relevant information
+5. Communicate effectively to diverse audiences the findings of data analyses integrating computational, statistical, and machine learning methods
+6. Solve problems through the design and execution of data-driven projects
+7. Collaborate effectively in professional environments and interdisciplinary contexts
+8. Apply adaptive thinking and meta-cognitive strategies for continued professional development in data science
+
+The subject is designed with a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.","Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), you will learn:
 
 This subject covers basic concepts of data centric thinking. The main areas discussed are: Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; Modelling. The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.
 
-Upon completion of this subject, you will be able to:
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights"
-Run 19,"Based on the provided documentation for COMP1014 - Thinking About Data, you will learn:
-
-This subject covers basic concepts of data centric thinking. The main areas discussed are:
-- Populations and Samples
-- Sampling concepts
-- Types of Data
-- Descriptive Methods
-- Estimation and Inference
-- Modelling
-
-The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.
-
 Upon completion, you will be able to:
 1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
 2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
 3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights"
-Run 20,"Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), upon completion of this subject you will be able to:
-
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
-
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
-
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
-
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.
-
-The subject covers basic concepts of data centric thinking with focus on Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; Modelling. It takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language."
-Run 21,"Based on the provided documentation for COMP1014 - Thinking About Data, here's what you will learn:
-
-This subject covers basic concepts of data centric thinking. The main areas discussed are:
-- Populations and Samples
-- Sampling concepts
-- Types of Data
-- Descriptive Methods
-- Estimation and Inference
-- Modelling
-
-The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.
-
-Upon completion, you will be able to:
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights."
-Run 22,"Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), if you study this subject, you will learn:
-
-This subject covers basic concepts of data centric thinking. The main areas discussed include:
-- Populations and Samples
-- Sampling concepts
-- Types of Data
-- Descriptive Methods
-- Estimation and Inference
-- Modelling
-
-The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.
-
-Upon completion, you will be able to:
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights"
-Run 23,"Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), you will learn:
-
-Upon completion of this subject, you will be able to:
-
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods.
-
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data.
-
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data.
-
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights.
-
-The subject covers basic concepts of data centric thinking with focus on Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; and Modelling. It takes a computational and nonparametric approach before briefly discussing theoretical concepts and distribution theory in technical and lay language."
-Run 24,"Based on the provided documentation for COMP1014 - Thinking About Data, you will learn:
-
-The subject covers basic concepts of data centric thinking with the following main areas discussed:
-- Populations and Samples
-- Sampling concepts
-- Types of Data
-- Descriptive Methods
-- Estimation and Inference
-- Modelling
-
-Specifically, upon completion of this subject, you will be able to:
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights
-
-The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language."
-Run 25,"Based on the provided documentation for COMP1014 - Thinking About Data, you will learn:
-
-This subject covers basic concepts of data centric thinking. The main areas discussed are:
-- Populations and Samples
-- Sampling concepts
-- Types of Data
-- Descriptive Methods
-- Estimation and Inference
-- Modelling
-
-The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.
-
-Specifically, upon completion of this subject, you will be able to:
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights"
-Run 26,"Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), you will learn:
-
-This subject covers basic concepts of data centric thinking. The main areas you will study include:
-
-- Populations and Samples
-- Sampling concepts
-- Types of Data
-- Descriptive Methods
-- Estimation and Inference
-- Modelling
-
-Specifically, upon completion of this subject, you will be able to:
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights
-
-The subject takes a computational and nonparametric approach before briefly discussing theoretical concepts and distribution theory in technical and lay language."
-Run 27,"Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), you will learn:
-
-This subject covers basic concepts of data centric thinking. The main areas discussed are:
-- Populations and Samples
-- Sampling concepts
-- Types of Data
-- Descriptive Methods
-- Estimation and Inference
-- Modelling
-
-The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language.
-
-Upon completion, you will be able to:
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights"
-Run 28,"Based on the provided documentation for COMP1014 - Thinking About Data, you will learn:
-
-The subject covers basic concepts of data centric thinking, with specific focus on:
-- Populations and Samples
-- Sampling concepts
-- Types of Data
-- Descriptive Methods
-- Estimation and Inference
-- Modelling
-
-The subject takes a computational and nonparametric approach before briefly discussing theoretical concepts and distribution theory in technical and lay language.
-
-Upon completion, you will be able to:
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights"
-Run 29,"Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), if you study this subject you will learn:
-
-The subject covers basic concepts of data centric thinking with the following key areas:
-- Populations and Samples
-- Sampling concepts
-- Types of Data
-- Descriptive Methods
-- Estimation and Inference
-- Modelling
-
-Upon completion, you will be able to:
-1. Describe different types of data with real-world examples using descriptive statistics and graphical methods
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
-3. Estimate population parameters in R using non-parametric and Normal theory methods to draw valid conclusions
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance to interpret and communicate data-driven insights
-
-The subject takes a computational and nonparametric approach before briefly discussing theoretical concepts and distribution theory in technical and lay language."
-Run 30,"Based on the provided documentation for COMP1014 - Thinking About Data (2026 version), if you study this subject, you will learn:
-
-The subject covers basic concepts of data centric thinking with focus on these main areas:
-- Populations and Samples
-- Sampling concepts
-- Types of Data
-- Descriptive Methods
-- Estimation and Inference
-- Modelling
-
-Specifically, upon completion of this subject, you will be able to:
-1. Describe different types of data with reference to real-world examples using descriptive statistics and graphical methods
-2. Identify data collection strategies considering populations and samples to provide unbiased and reliable data
-3. Estimate population parameters in R, using non-parametric and Normal theory methods to draw valid conclusions from data
-4. Examine relationships between variables using correlation and simple linear regression, including assessment of model fit, assumptions, and statistical significance, to interpret and communicate data-driven insights
-
-The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory in technical and lay language."
+4. Use data ethically and responsibly to provide reliable, valid, timely, innovative and relevant information
+5. Communicate effectively to diverse audiences the findings of data analyses integrating computational, statistical, and machine learning methods
+6. Solve problems through the design and execution of data-driven projects
+7. Collaborate effectively in professional environments and interdisciplinary contexts
+8. Apply adaptive thinking and meta-cognitive strategies for continued professional development in data science","Upon completion of this program, graduates will be able to:
+1.Select appropriate techniques for extracting, modelling, predicting, visualising, and managing data in practical scenarios, drawing on statistics, mathematics, and computer science approaches.
+2.Use data ethically and responsibly to provide information and advice that is reliable, valid, timely, innovative and relevant for their chosen specialty.
+3.Communicate effectively to diverse audiences the findings of data analyses which integrates computational, statistical, and machine learning methods, programming tools, and critical evaluation to ensure integrity, validity and quality assurance.
+4.Solve problems through the design and execution of data-driven projects, integrating disciplinary knowledge and technical skills to address real-world questions.
+5.Collaborate effectively and inclusively in professional environments and interdisciplinary contexts, exercising ethical judgement and professional responsibility in the use of data and technology.
+6.Apply adaptive thinking and other meta-cognitive strategies for continued professional development in data science.",,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

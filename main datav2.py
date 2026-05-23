@@ -1,8 +1,9 @@
 import ollama
 import csv
-from data import cos_collection
+from dataequalchunking import cos_collection
 
-question =  "		Do I need to give a presentation in Project Management?    "
+
+question = "		Which subjects are offered in only one semester (Autumn or Spring)?  "
 
 response = ollama.embed(
     model="nomic-embed-text-v2-moe",
@@ -23,7 +24,18 @@ for i in range(len(results["metadatas"][0])):
     print("Cosine similarity:", similarity)
     print()
 
-data = "\n\n".join(results["documents"][0])
+data = results["documents"][0][0]
+
+csv_path = r"C:\Users\lon09\New folder\Indirectq12.csv"
+
+old_rows = []
+
+with open(csv_path, "r", newline="", encoding="utf-8") as csvfile:
+    csvreader = csv.reader(csvfile)
+
+    for row in csvreader:
+        old_rows.append(row)
+
 
 result = {}
 
@@ -42,11 +54,25 @@ Respond to this prompt:
 
     result[f"Run {i+1}"] = output["response"]
 
- 
 
-with open(r"C:\Users\lon09\New folder\Indirectq2.csv", "w", newline="", encoding="utf-8") as csvfile:
+fixed_rows = []
+
+fixed_rows.append([
+    "Run time",
+    "Result for non chunking",
+    "Result for equal chunking"
+])
+
+for i in range(10):
+    fixed_rows.append([
+        old_rows[i][0],
+        old_rows[i][1],
+        result[f"Run {i+1}"]
+    ])
+
+
+with open(csv_path, "w", newline="", encoding="utf-8") as csvfile:
     csvwriter = csv.writer(csvfile)
 
-    for row in result.items():
+    for row in fixed_rows:
         csvwriter.writerow(row)
-

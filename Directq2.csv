@@ -1,176 +1,299 @@
-Run 1,"I don't have the answer.
+Run time,Result for non chunking,Result for equal chunking,Result for manual chunking overlap,Result for LangChain,Result for LangChain overlap,Answer,,,,,,,,,,,,,,,,,Result for LangChain
+Run 1,"Yes, there is a presentation component in the assessments of INFO3019 - Project Management. 
 
-The documentation provides information about the assessments for INFO3019 - Project Management, which include:
+According to the documentation, INFO3019 has a ""Project Presentation"" assessment component that:
+- Is worth 20% of the total assessment
+- Is an individual assessment
+- Is mandatory
+- Is scored out of 20
+- Has a standard grade scale
+- Relates to learning outcomes SLO1 through SLO7
+
+The presentation is explicitly listed as one of the assessment components in the subject's documentation, with the title ""Project Presentation"" and a weight of 20%","I don't have the answer.
+
+The provided documentation describes the INFO3019 - Project Management subject but does not explicitly state whether students need to give a presentation in this subject. While the documentation mentions that students will ""develop practical skills to work as assistant project managers or project team members"" and ""hands-on experience using industry-standard project management tools,"" it does not specifically mention presentation requirements. 
+
+The section that mentions ""Present a project and its results to an audience in an oral presentation"" appears to be from a different subject (likely a Data Science subject), not the Project Management subject described in this documentation. Therefore, the documentation does not provide clear information about whether a presentation is required for the Project Management subject.","I don't have the answer.
+
+The documentation provided describes the assessments for INFO3019 - Project Management as including:
 - Practical (40%)
 - Case Study (20%)
 - Proposal (40%)
 
-However, the documentation does not specifically mention any presentation component in the assessments. While the learning outcomes include ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports"" (SLO6), this refers to the content that students need to create, not a presentation component as a separate assessment type. The documentation does not indicate that there is a presentation component as one of the assessment items."
-Run 2,I don't have the answer.
-Run 3,"I don't have the answer.
+While the subject description mentions ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports"" as a learning outcome, the documentation does not explicitly state that there is a presentation component as a specific assessment type. The assessments listed are clearly defined as Practical, Case Study, and Proposal, with no mention of a presentation component as a separate assessment item.","I don't have the answer.
 
-The documentation shows that INFO3019 - Project Management has three assessment components: Practical (40%), Case Study (20%), and Proposal (40%). None of these assessments are explicitly described as a ""presentation"" component. While learning outcome 6 mentions ""utilize project management tools and techniques to develop and present comprehensive project plans and reports,"" this is a learning outcome requirement, not an assessment component that specifically involves presenting. The documentation does not indicate that there is a presentation component as a separate assessment."
-Run 4,I don't have the answer.
-Run 5,"I don't have the answer.
+The documentation provided describes INFO3019 - Project Management, including its overview, learning outcomes, prerequisites, and offerings. While it mentions ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports"" as one of the learning outcomes (point 6), it does not specifically state what assessment components are used for this subject. The documentation does not explicitly mention whether presentations are part of the assessment requirements.","Based on the provided documentation, I can see that in the learning outcomes section, point 6 states: ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports."" This indicates that presenting project plans and reports is part of the assessment requirements for INFO3019 - Project Management.
 
-The provided documentation lists the assessments for INFO3019 - Project Management as:
-1. Practical (40%)
-2. Case Study (20%)
-3. Proposal (40%)
+Therefore, yes, there is a presentation component in assessments of INFO3019 - Project Management.","No, it only states that the proposal is one of the assignments, but it does not mention the presentation.",,,,,,,,,,,,,,,,,"The question asks whether students need to give a presentation in Project Management based on the provided documentation.
 
-None of these assessments explicitly mention a ""presentation"" component. The documentation describes the weightings, types, and learning outcomes for each assessment but does not indicate that there is a presentation component in the assessments."
-Run 6,"I don't have the answer.
+The documentation explicitly states in the learning outcomes that upon completion of the subject, graduates will be able to: ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports."" This indicates that presenting project plans and reports is a key skill students must develop and demonstrate as part of the course requirements.
 
-The documentation provided describes the INFO3019 - Project Management subject with details about its assessments, but it does not specifically mention a presentation component. The assessments listed are:
+While the documentation does not use the exact phrase ""give a presentation,"" the context of ""present comprehensive project plans and reports"" aligns with the need for students to deliver presentations (e.g., oral or written presentations) as part of the course activities. In academic and project management contexts, ""present"" typically implies delivering a presentation, and the learning outcome clearly ties this to the course's expectations.
 
-1. Practical (40% weighting)
-2. Case Study (20% weighting)
-3. Proposal (40% weighting)
+Therefore, based on the provided documentation, students do need to give presentations (in the form of presenting project plans and reports) as part of the course requirements.
 
-None of these assessments are described as involving a presentation component. While the proposal assessment is described as ""Individual and Group"" and the subject mentions ""hands-on experience using industry-standard project management tools,"" the documentation does not explicitly state that there is a presentation component in the assessments."
-Run 7,I don't have the answer.
-Run 8,"After carefully reviewing the provided documentation for INFO3019 - Project Management, I can see that the assessments section lists three specific components:
+\boxed{yes}"
+Run 2,"Yes, there is a presentation component in the assessments of INFO3019 - Project Management. 
 
-1. Practical (40% weighting)
-2. Case Study (20% weighting)
-3. Proposal (40% weighting)
+According to the documentation, INFO3019 has a ""Project Presentation"" assessment component that:
+- Is worth 20% of the total assessment
+- Is an individual assessment
+- Is mandatory
+- Is scored out of 20
+- Has a standard grade scale
+- Relates to learning outcomes SLO1 through SLO7
 
-The documentation does not mention any presentation component as a separate assessment item. While there is a learning outcome that states ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports"" (SLO6), this describes a skill that students need to develop, not a specific presentation assessment component.
+The presentation is explicitly listed as one of the assessment components in the subject's documentation, with the title ""Project Presentation"" and a weight of 20%","Based on the provided documentation for Project Management (INFO3019), the learning outcome explicitly states: **""Utilize project management tools and techniques to develop and present comprehensive project plans and reports.""** This indicates that students are required to create and deliver presentations of their project work as part of the course requirements.
 
-The assessments are explicitly described as Practical, Case Study, and Proposal with no reference to presentations as an assessment component.
+While the documentation does not specify the exact format (e.g., oral vs. written), in academic contexts, the term ""present"" typically implies an oral presentation when referring to student deliverables. Project management education often emphasizes oral communication skills for stakeholder engagement, team collaboration, and real-world application—aligning with the expectation that students will present their work in a spoken format.
 
-Therefore, based on the provided documentation, there is no presentation component in the assessments of INFO3019 - Project Management."
-Run 9,"I don't have the answer.
+Therefore, **yes, you need to give a presentation in Project Management (INFO3019)**. This is directly supported by the course's learning outcomes. 
 
-The documentation lists three assessment components for INFO3019 - Project Management: 
-1. Practical (40%)
-2. Case Study (20%)
-3. Proposal (40%)
+**Note**: If the context specifically refers to *written* presentations (e.g., reports), the documentation still confirms that presentations are required, though the format may vary. The key takeaway is that presenting project work is a mandatory component of the course.","I don't have the answer.
 
-None of these assessments are explicitly described as a ""presentation"" component. While the learning outcomes mention ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports"" (SLO6), this is described as a skill students need to develop, not as a specific presentation assessment component. The documentation doesn't indicate that there is a separate presentation assessment item in the course."
-Run 10,"I don't have the answer.
-
-The documentation lists three assessment components: Practical (40%), Case Study (20%), and Proposal (40%). None of these components are explicitly described as ""presentation"" or indicate that a presentation is part of the assessments. The documentation does not mention any presentation component as a specific assessment item for INFO3019 - Project Management."
-Run 11,I don't have the answer.
-Run 12,"I don't have the answer.
-
-Looking at the provided documentation for INFO3019 - Project Management, the assessments section lists three components: Practical (40%), Case Study (20%), and Proposal (40%). None of these assessments explicitly mention a ""presentation"" component. The documentation describes the practical assessment as individual work, the case study as group work, and the proposal as both individual and group work, but there is no indication of a presentation requirement in any of the assessment components."
-Run 13,"I don't have the answer.
-
-The documentation shows the assessments for INFO3019 - Project Management include:
-- Practical (40% weighting)
-- Case Study (20% weighting)
-- Proposal (40% weighting)
-
-None of these assessment components are explicitly described as a ""presentation"" component. While the Learning Outcome SLO6 mentions ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports,"" this refers to a learning outcome rather than a specific assessment component that is a presentation. The documentation does not indicate that any of the assessments include a presentation component."
-Run 14,"I don't have the answer.
-
-The documentation provided shows the assessments for INFO3019 - Project Management as:
+The documentation provided describes the assessments for INFO3019 - Project Management as including:
 - Practical (40%)
 - Case Study (20%)
 - Proposal (40%)
 
-While the Case Study is described as a group assessment and the Proposal is described as individual and group work, the documentation does not explicitly mention a ""presentation"" component as one of the assessment types. The question asks specifically about a ""presentation component"" and the documentation doesn't indicate that this is part of the assessments."
-Run 15,"I don't have the answer.
+While the subject description mentions ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports"" as a learning outcome, the documentation does not explicitly state that there is a presentation component as a specific assessment type. The assessments listed are clearly defined as Practical, Case Study, and Proposal, with no mention of a presentation component as a separate assessment item.",I don't have the answer.,"I don't have the answer. 
 
-The documentation provided shows the assessments for INFO3019 - Project Management as:
+The documentation provided describes INFO3019 - Project Management subject details, including its overview, learning outcomes, requisites, and offerings. While it mentions ""develop and present comprehensive project plans and reports"" as part of learning outcome 6, and references team-based work, the documentation does not explicitly state whether presentations are a formal assessment component for this subject. The documentation does not provide specific information about assessment components beyond what's mentioned in the learning outcomes.","No, it only states that the proposal is one of the assignments, but it does not mention the presentation.",,,,,,,,,,,,,,,,,"Based on the provided documentation for INFO3019 - Project Management, I can see that Learning Outcome 6 states: ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports.""
+
+This indicates that presenting project plans and reports is a required component of the subject. The documentation specifically mentions that students will ""develop and present comprehensive project plans and reports"" as part of their learning outcomes.
+
+Therefore, yes, you need to give a presentation in Project Management as part of this subject's requirements."
+Run 3,"After carefully reviewing the documentation for INFO3019 - Project Management (2026 version), I can see that the assessments section only lists one component:
+
+```
+Practical
+
+Weighting (%):100
+Individual or Group:Individual
+Mandatory:Yes
+Type:Threshold
+Percentage:40
+Score (Marked out of):100
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO3, SLO4, SLO5, SLO6, SLO7
+```
+
+The documentation shows that INFO3019 has a single assessment component called ""Practical"" that accounts for 100% of the grade. There is no mention of any presentation component in the assessments section.
+
+Therefore, the answer is no - there is no presentation component in assessments of INFO3019 - Project Management.",I don't have the answer.,"I don't have the answer.
+
+The documentation provided describes the assessments for INFO3019 - Project Management as including:
 - Practical (40%)
 - Case Study (20%)
 - Proposal (40%)
 
-None of these assessments are explicitly described as presentation components. While the learning outcome 6 mentions ""develop and present comprehensive project plans and reports,"" this refers to what students should be able to do, not a specific presentation assessment component. The documentation does not indicate that there is a presentation component as one of the formal assessments for this subject."
-Run 16,"I don't have the answer.
+While the subject description mentions ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports"" as a learning outcome, the documentation does not explicitly state that there is a presentation component as a specific assessment type. The assessments listed are clearly defined as Practical, Case Study, and Proposal, with no mention of a presentation component as a separate assessment item.","I don't have the answer.
 
-Wait, I need to check again. Let me be very careful.
+The documentation provided describes INFO3019 - Project Management, including its overview, learning outcomes, prerequisites, and offerings. While it mentions ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports"" as one of the learning outcomes (point 6), it does not specifically state what assessment components are used for this subject. The documentation does not explicitly mention whether presentations are part of the assessment requirements.","Based on the provided documentation, I can see that in the learning outcomes section, point 6 states: ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports."" This indicates that presenting project plans and reports is part of the assessment requirements for INFO3019 - Project Management.
 
-Looking at the Assessments section of the documentation:
+Therefore, yes, there is a presentation component in assessments of INFO3019 - Project Management.","No, it only states that the proposal is one of the assignments, but it does not mention the presentation.",,,,,,,,,,,,,,,,,"Based on the provided documentation for INFO3019 - Project Management, the Learning Outcomes section explicitly states: ""6. Utilize project management tools and techniques to develop and present comprehensive project plans and reports."" This indicates that developing and presenting project plans and reports is a required skill for students in this course. Therefore, students do need to present project plans and reports as part of the course requirements.
 
-1. Practical (40% weighting) - No mention of presentation
-2. Case Study (20% weighting) - No mention of presentation
-3. Proposal (40% weighting) - No mention of presentation
+The answer is: **yes**."
+Run 4,"After carefully reviewing the provided documentation, I can see that the assessments for INFO3019 (Project Management) are listed as follows:
 
-The documentation lists these three assessment components but does not mention any presentation component. The assessments are specifically described as ""Practical"", ""Case Study"", and ""Proposal"" with no indication that any of them involves a presentation.
+- Practical (30%)
+- Case Study (20%)
+- Final Exam (50%)
 
-The documentation does not state that there is a presentation component in the assessments of INFO3019 - Project Management.
+There is no mention of a ""presentation"" component in any of these assessment items. The documentation clearly specifies only three assessment components with their respective weights and types (individual/group), but none of them are described as a presentation.
 
-Actually, let me check once more to be absolutely sure.
+Therefore, the answer to the question ""Is there a presentation component in assessments of INFO3019 - Project Management?"" is **no**.",I don't have the answer.,"I don't have the answer.
 
-After reviewing the entire documentation carefully, I can confirm that there is no mention of a presentation component in the assessments of INFO3019 - Project Management. The assessments are explicitly listed as Practical, Case Study, and Proposal with no indication of a presentation requirement.
+The documentation provided describes the assessments for INFO3019 - Project Management as including:
+- Practical (40%)
+- Case Study (20%)
+- Proposal (40%)
 
-So the answer is no, there is no presentation component in the assessments of INFO3019 - Project Management."
-Run 17,"I don't have the answer.
+While the subject description mentions ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports"" as a learning outcome, the documentation does not explicitly state that there is a presentation component as a specific assessment type. The assessments listed are clearly defined as Practical, Case Study, and Proposal, with no mention of a presentation component as a separate assessment item.",I don't have the answer.,I don't have the answer.,"No, it only states that the proposal is one of the assignments, but it does not mention the presentation.",,,,,,,,,,,,,,,,,"Yes, you need to give a presentation in Project Management. The documentation states in Learning Outcome 6: ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports."" This indicates that presenting project plans and reports is a requirement of the subject."
+Run 5,"Yes, there is a presentation component in the assessments of INFO3019 - Project Management. 
 
-Looking at the provided documentation for INFO3019 - Project Management, I can see the assessments section lists three components:
-1. Practical (40%)
-2. Case Study (20%)
-3. Proposal (40%)
+According to the documentation, INFO3019 has a ""Project Presentation"" assessment component that:
+- Is worth 20% of the total assessment
+- Is an individual assessment
+- Is mandatory
+- Is scored out of 20
+- Has a standard grade scale
+- Relates to learning outcomes SLO1 through SLO7
 
-None of these assessments are described as a ""presentation"" component. The documentation doesn't mention any presentation assessment, though learning outcome #6 does reference ""present comprehensive project plans and reports"" as part of what students should be able to do. However, this is a learning outcome, not an explicit presentation component in the assessments. The question specifically asks about presentation components in the assessments, and the documentation doesn't indicate any such component."
-Run 18,I don't have the answer.
-Run 19,"After carefully reviewing the provided documentation for INFO3019 - Project Management, I can see that the assessments section lists three components:
+The presentation is explicitly listed as one of the assessment components in the subject's documentation, with the title ""Project Presentation"" and a weight of 20%.","Based on the provided documentation for INFO3019 - Project Management (2026 version), I can see that students are required to present project work. Specifically, in the learning outcomes section, point 6 states: ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports.""
 
-1. Practical (40% weighting)
-2. Case Study (20% weighting)
-3. Proposal (40% weighting)
+This clearly indicates that presenting comprehensive project plans and reports is part of the requirements for this subject.
 
-The documentation explicitly describes each assessment type with its weighting, individual/group status, and learning outcomes, but there is no mention of a ""presentation"" component in any of these assessments. None of the assessment descriptions specify that they involve presentations.
+Therefore, yes, you need to give a presentation in Project Management according to the documentation.","I don't have the answer.
 
-The documentation states for each assessment:
-- Practical: ""Individual or Group:Individual""
-- Case Study: ""Individual or Group:Group""
-- Proposal: ""Individual or Group:Individual and Group""
+The documentation provided describes the assessments for INFO3019 - Project Management as including:
+- Practical (40%)
+- Case Study (20%)
+- Proposal (40%)
 
-There is no indication in the provided documentation that any of these assessments specifically require a presentation component.
+While the subject description mentions ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports"" as a learning outcome, the documentation does not explicitly state that there is a presentation component as a specific assessment type. The assessments listed are clearly defined as Practical, Case Study, and Proposal, with no mention of a presentation component as a separate assessment item.",I don't have the answer.,"I don't have the answer.
 
-Therefore, according to the provided documentation, there is no presentation component in the assessments of INFO3019 - Project Management."
-Run 20,"I don't have the answer.
+The documentation provided includes learning outcomes that state ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports"" (point 6), but it does not explicitly list the assessment components for this subject. While the phrase ""develop and present"" suggests presentation skills are part of the course, the documentation does not specifically state whether presentations constitute an assessment component. The question asks for information about assessments, but the documentation doesn't provide a clear list of assessment components.","No, it only states that the proposal is one of the assignments, but it does not mention the presentation.",,,,,,,,,,,,,,,,,"Yes, based on the documentation. The subject description states: ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports"" as part of Learning Outcome 6. This indicates that students are required to present project plans and reports as part of this project management subject."
+Run 6,"After carefully reviewing the provided document, I can see that the assessments section for INFO3019 - Project Management lists only one assessment component:
 
-Actually, let me check again carefully. Looking at the provided documentation for INFO3019 - Project Management, I can see the ""Assessments"" section lists three components: Practical (40%), Case Study (20%), and Proposal (40%). None of these components are explicitly described as a ""presentation"" component. The documentation does not mention ""presentation"" as a separate assessment component.
+```
+Practical
 
-The documentation states:
-- Practical: Individual assessment component
-- Case Study: Group assessment component
-- Proposal: Individual and Group assessment component
+Weighting:Weighting %
+Weighting (%):100
+Individual or Group:Individual
+Mandatory:Yes
+Type:Mandatory
+Score (Marked out of):100
+Grade scale:Standard
+Learning Outcomes:SLO1, SLO2, SLO3, SLO4, SLO5, SLO6, SLO7, SLO8
+```
 
-There is no mention of a presentation component in the assessments section. The question asks if there is a presentation component, and the documentation does not indicate this.
+This shows that INFO3019 - Project Management has only a Practical assessment component worth 100% of the grade. There is no mention of a presentation component in the assessments section.
 
-Therefore, according to the documentation, there is no presentation component in the assessments of INFO3019 - Project Management.
+Therefore, the answer to the question ""Does INFO3019 - Project Management have a presentation component in its assessments?"" is: No.",I don't have the answer.,"I don't have the answer.
 
-Actually, I'm reconsidering. The documentation states: ""Hands-on experience using industry-standard project management tools prepares students for real-world applications."" This might imply presentations, but it's not explicitly stated as a presentation component. The documentation doesn't specifically mention ""presentation"" as an assessment component.
+The documentation provided describes the assessments for INFO3019 - Project Management as including:
+- Practical (40%)
+- Case Study (20%)
+- Proposal (40%)
 
-After careful review of the documentation, I can say: No, there is no presentation component in the assessments of INFO3019 - Project Management according to the provided documentation."
-Run 21,I don't have the answer.
-Run 22,"I don't have the answer.
+While the subject description mentions ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports"" as a learning outcome, the documentation does not explicitly state that there is a presentation component as a specific assessment type. The assessments listed are clearly defined as Practical, Case Study, and Proposal, with no mention of a presentation component as a separate assessment item.",I don't have the answer.,I don't have the answer.,"No, it only states that the proposal is one of the assignments, but it does not mention the presentation.",,,,,,,,,,,,,,,,,"Yes, based on the documentation, students need to present comprehensive project plans and reports as part of the course requirements. This is explicitly stated in Learning Outcome 6: ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports."""
+Run 7,"Based on the provided text, the course ""INFO3019 - Project Management"" has an ""Assessments"" section that lists only a single component: **Practical** with a weighting of 100%. There is no mention of a ""presentation"" component in the text. The assessment details explicitly state:
 
-The documentation provided describes the INFO3019 - Project Management subject but does not explicitly mention a presentation component in the assessments. The assessments listed are:
-- Practical (40% weighting)
-- Case Study (20% weighting)
-- Proposal (40% weighting)
+```
+Assessments
+Collapse all
+Practical
 
-None of these assessment types are described as including a presentation component. The documentation mentions ""Hands-on experience using industry-standard project management tools"" but does not specify that any assessment involves a presentation. The documentation does not indicate a presentation component as part of the assessments."
-Run 23,"I don't have the answer.
+Weighting: Weighting %
+Weighting (%): 100
+Individual or Group: Individual
+Mandatory: No
+Score (Marked out of): 100
+Grade scale: Standard
+Learning Outcomes: SLO1, SLO2, SLO3, SLO4, SLO5, SLO6, SLO7
+```
 
-Looking at the provided documentation for INFO3019 - Project Management, I can see the assessments section lists three components:
-1. Practical (40% weighting)
-2. Case Study (20% weighting)
-3. Proposal (40% weighting)
+This indicates that the assessment for this course is entirely practical in nature, with no reference to presentations or other deliverables such as oral presentations, reports, or demonstrations. Therefore, the course does not include a presentation component.
 
-None of these assessment descriptions mention a ""presentation"" component. The documentation specifies the type of work for each assessment (individual, group, or individual and group) but does not indicate that any of the assessments include a presentation requirement. The assessment descriptions are limited to ""Practical"", ""Case Study"", and ""Proposal"" without any reference to presentations."
-Run 24,I don't have the answer.
-Run 25,"I don't have the answer.
+\boxed{No}",I don't have the answer.,,I don't have the answer.,I don't have the answer.,"No, it only states that the proposal is one of the assignments, but it does not mention the presentation.",,,,,,,,,,,,,,,,,"Yes, according to the documentation, you need to give presentations in Project Management (INFO3019). The learning outcomes specifically state: ""6. Utilize project management tools and techniques to develop and present comprehensive project plans and reports."" This is part of the required skills for this subject."
+Run 8,"After carefully reviewing the documentation provided, I can see that the subject ""INFO3019 - Project Management"" has the following assessments:
 
-The documentation provided describes the INFO3019 - Project Management subject and lists three assessments: Practical (40%), Case Study (20%), and Proposal (40%). None of these assessments are explicitly described as a ""presentation component."" While the learning outcome SLO6 mentions ""develop and present comprehensive project plans and reports,"" this is a learning outcome, not an assessment component. The documentation does not indicate that there is a specific presentation assessment for this subject."
-Run 26,"No, there isn't a presentation component listed in the assessments of INFO3019 - Project Management according to the provided documentation. The documentation shows three assessment components: Practical (40%), Case Study (20%), and Proposal (40%). None of these are explicitly described as presentations or presentation components."
-Run 27,I don't have the answer.
-Run 28,"I don't have the answer.
+- **Practical**: 20% weight, Individual, Mandatory: No, Score: 20, Learning Outcomes: SLO1-SLO7
 
-After carefully reviewing the provided documentation, I cannot find any explicit mention of a ""presentation component"" in the assessments for INFO3019 - Project Management. The assessments section lists three components: Practical (40%), Case Study (20%), and Proposal (40%). None of these assessments are described as including a presentation component. While the learning outcomes mention ""present comprehensive project plans and reports"" (SLO6), this is a learning outcome requirement, not an assessment component that specifically involves presentations. The documentation does not indicate that any of the assessments require a presentation component."
-Run 29,"I don't have the answer.
+The documentation does not explicitly mention any presentation component in the assessments for INFO3019 - Project Management. While the documentation shows other subjects (like COMP3035 - Database Design and Development) that have presentation components, the specific assessments for INFO3019 - Project Management only include a practical component with no reference to a presentation.
 
-The provided documentation shows the assessments for INFO3019 - Project Management include:
-1. Practical (40% weighting)
-2. Case Study (20% weighting)
-3. Proposal (40% weighting)
+Therefore, based on the provided documentation, **there is no presentation component** in the assessments of INFO3019 - Project Management.
 
-However, none of the assessment descriptions mention a ""presentation"" component. The documentation specifies the type of each assessment (Practical, Case Study, Proposal) but does not indicate that any of these assessments include a presentation requirement. The documentation does not explicitly state that there is a presentation component in the assessments."
-Run 30,I don't have the answer.
+**Final Answer: No**","The question asks whether a student needs to give a presentation in Project Management (INFO3019). The documentation states in the learning outcomes section: ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports."" This indicates that presenting project plans and reports is a requirement for the course.
+
+In academic contexts, the term ""present"" typically refers to giving an oral presentation, not merely writing a report. The documentation does not explicitly specify whether the presentation is oral or written, but the standard interpretation in educational settings is that ""present"" implies an oral presentation to an audience. Additionally, the documentation does not indicate that the requirement is limited to written reports only.
+
+While the documentation mentions that students need to ""present comprehensive project plans and reports,"" it does not provide details about the format (e.g., oral or written) for this presentation. However, the context of academic courses and the phrasing ""present"" strongly suggest that an oral presentation is expected as part of the course requirements.
+
+Given that the documentation explicitly states that students must ""present"" project plans and reports, and considering the typical academic interpretation of ""present,"" the answer to the question is yes.
+
+\boxed{yes}","I don't have the answer.
+
+The documentation provided describes the assessments for INFO3019 - Project Management as including:
+- Practical (40%)
+- Case Study (20%)
+- Proposal (40%)
+
+While the subject description mentions ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports"" as a learning outcome, the documentation does not explicitly state that there is a presentation component as a specific assessment type. The assessments listed are clearly defined as Practical, Case Study, and Proposal, with no mention of a presentation component as a separate assessment item.",I don't have the answer.,"I don't have the answer.
+
+The provided documentation describes INFO3019 - Project Management as a subject that includes learning outcomes such as ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports"" (learning outcome #6), but it doesn't explicitly state what assessment components are used for this subject. The documentation mentions that students work in teams and develop practical skills, but it doesn't specify whether presentations are part of the assessment requirements. The documentation doesn't include a dedicated section listing assessment components, so I cannot determine if there is a presentation component in the assessments.","No, it only states that the proposal is one of the assignments, but it does not mention the presentation.",,,,,,,,,,,,,,,,,I don't have the answer.
+Run 9,"After carefully reviewing the documentation for INFO3019 - Project Management, I can see that the ""Assessments"" section lists only a ""Practical"" component with 10% weighting. There is no mention of a presentation component in the assessments for this course.
+
+The document shows:
+- Practical (10% weighting)
+- No other assessment components are listed
+
+The question specifically asks about whether there is a presentation component in the assessments for INFO3019 - Project Management. Based on the documentation provided, the answer is no.
+
+So, the answer is: No, there is no presentation component in the assessments for INFO3019 - Project Management.",I don't have the answer.,"I don't have the answer.
+
+The documentation provided describes the assessments for INFO3019 - Project Management as including:
+- Practical (40%)
+- Case Study (20%)
+- Proposal (40%)
+
+While the subject description mentions ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports"" as a learning outcome, the documentation does not explicitly state that there is a presentation component as a specific assessment type. The assessments listed are clearly defined as Practical, Case Study, and Proposal, with no mention of a presentation component as a separate assessment item.",I don't have the answer.,I don't have the answer.,"No, it only states that the proposal is one of the assignments, but it does not mention the presentation.",,,,,,,,,,,,,,,,,"Yes, according to the documentation, you need to give a presentation in Project Management (INFO3019). 
+
+The learning outcome #6 specifically states: ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports."" This indicates that presenting project plans and reports is a required component of the subject.
+
+The subject also mentions that students ""develop practical skills to work as assistant project managers or project team members"" while working in teams under staff supervision, which further supports that presentations would be part of the hands-on experience required for this subject."
+Run 10,"After carefully reviewing the provided documentation for INFO3019 - Project Management, I can see that the subject has the following assessments:
+
+- Practical (20%)
+- Final Exam (60%)
+- Project Report (20%)
+
+There is no presentation component listed in the assessments for INFO3019 - Project Management. The documentation clearly shows these three assessment components with their respective weights, but no presentation component is mentioned.
+
+To be absolutely precise, I checked the ""Assessments"" section of the INFO3019 subject page multiple times and confirmed that presentations are not listed as an assessment component for this subject.
+
+Therefore, the answer is no - there is no presentation component in the assessments of INFO3019 - Project Management.","Yes, you need to give a presentation in Project Management. 
+
+The documentation states: ""6. Utilize project management tools and techniques to develop and present comprehensive project plans and reports."" This is one of the learning outcomes for the INFO3019 - Project Management subject. The requirement to ""present comprehensive project plans and reports"" indicates that presentations are part of the assessment requirements for this subject.","I don't have the answer.
+
+The documentation provided describes the assessments for INFO3019 - Project Management as including:
+- Practical (40%)
+- Case Study (20%)
+- Proposal (40%)
+
+While the subject description mentions ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports"" as a learning outcome, the documentation does not explicitly state that there is a presentation component as a specific assessment type. The assessments listed are clearly defined as Practical, Case Study, and Proposal, with no mention of a presentation component as a separate assessment item.",I don't have the answer.,"The provided documentation does not explicitly list the assessment components for INFO3019 - Project Management. While it states that students will be able to ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports"" as part of the learning outcomes, it does not explicitly confirm that this is a presentation component within the assessments. Learning outcomes typically inform assessment design, but the documentation does not directly state what constitutes the assessment components. Therefore, based strictly on the provided documentation, the answer is not explicitly stated.
+
+I don't have the answer.","No, it only states that the proposal is one of the assignments, but it does not mention the presentation.",,,,,,,,,,,,,,,,,"Based on the provided documentation for INFO3019 - Project Management (2026 version), I can see that learning outcome #6 states: ""Utilize project management tools and techniques to develop and present comprehensive project plans and reports.""
+
+This indicates that presenting project plans and reports is part of the subject requirements. The documentation does not explicitly mention a separate presentation requirement beyond this learning outcome, but it clearly states that students need to develop and present comprehensive project plans and reports as part of their learning.
+
+Therefore, yes, you need to give a presentation in Project Management (specifically, presenting comprehensive project plans and reports) as part of the subject requirements."
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
