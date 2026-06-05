@@ -1,0 +1,56 @@
+---
+title: "Cosine Similarity - Direct Questions"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup}
+library(ggplot2)
+library(tidyr)
+library(dplyr)
+
+knitr::opts_knit$set(root.dir = "C:/Users/lon09/New folder")
+```
+
+```{r combined-analysis}
+files <- list(
+  "Question 1" = "Directq1_cosine_evaluation.csv",
+  "Question 2" = "Directq2_cosine_evaluation.csv",
+  "Question 3" = "Directq3_cosine_evaluation.csv",
+  "Question 4" = "Directq4_cosine_evaluation.csv",
+  "Question 5" = "Directq5_cosine_evaluation.csv",
+  "Question 6" = "Directq6_cosine_evaluation.csv"
+)
+
+# Combine all 6 questions into one dataset
+all_data <- data.frame()
+
+for (question_name in names(files)) {
+  df <- read.csv(files[[question_name]])
+  df <- df[trimws(tolower(df$Run.time)) != "mean", ]
+  colnames(df) <- c("Run", "NonChunking", "EqualChunking", "ManualChunkingOverlap", "LangChain", "LangChainOverlap")
+  df[, -1] <- lapply(df[, -1], as.numeric)
+  df$Question <- question_name
+  all_data <- rbind(all_data, df)
+}
+
+# Reshape to long format
+all_long <- pivot_longer(all_data, cols = c("NonChunking","EqualChunking","ManualChunkingOverlap","LangChain","LangChainOverlap"),
+                         names_to = "Version", values_to = "Cosine")
+
+all_long$Version <- factor(all_long$Version,
+                           levels = c("NonChunking","EqualChunking","ManualChunkingOverlap","LangChain","LangChainOverlap"))
+
+# Boxplot
+ggplot(all_long, aes(x = Version, y = Cosine, fill = Version)) +
+  geom_boxplot(outlier.colour = "red", outlier.shape = 16, alpha = 0.7) +
+  theme_bw() +
+  theme(legend.position = "none", axis.text.x = element_text(angle = 25, hjust = 1)) +
+  labs(title = "Cosine Similarity by Version - All Direct Questions",
+       x = "Chunking Version", y = "Cosine Similarity Score")
+
+# ANOVA
+m <- aov(Cosine ~ Version, data = all_long)
+summary(m)
+```

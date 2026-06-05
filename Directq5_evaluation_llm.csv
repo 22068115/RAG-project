@@ -1,0 +1,11 @@
+Run time,Non chunking score,Equal chunking score,Manual chunking overlap score,LangChain score,LangChain overlap score
+Run 1,0,1,1,0,1
+Run 2,0,1,1,1,1
+Run 3,0,1,1,1,0
+Run 4,0,1,1,0,0
+Run 5,0,1,1,1,1
+Run 6,0,1,1,1,0
+Run 7,0,1,0,1,1
+Run 8,0,1,1,1,1
+Run 9,0,1,1,1,1
+Run 10,0,1,1,1,0

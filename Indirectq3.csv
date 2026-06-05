@@ -1,4 +1,4 @@
-Run time,Result for non chunking,Result for equal chunking   ,Result for manual chunking overlap,Result for LangChain,Result for LangChain overlap,Answer,,,,
+Run time,Result for non chunking,Result for equal chunking   ,Result for manual chunking overlap,Result for LangChain,Result for LangChain overlap,Answer
 Run 1,"Based on the provided documentation for Programming Fundamentals (COMP1005), I can see the assessment components as follows:
 
 You will be assessed through:
@@ -19,7 +19,7 @@ All assessments are marked out of 30 for the quiz and report, and 40 for the fin
 1. A Quiz (ungraded, worth 100% of the quiz score, scored out of 1)
 2. A Portfolio (graded, worth 40% of the total, scored out of 40)
 
-This information is found in the ""Assessments"" section of the Programming Fundamentals subject documentation.",I don't have the answer.,I don't have the answer.,"Quiz, portfolio,quiz, applied project, and final exam ",,,,
+This information is found in the ""Assessments"" section of the Programming Fundamentals subject documentation.",I don't have the answer.,I don't have the answer.,"Quiz, portfolio,quiz, applied project, and final exam "
 Run 2,"Based on the provided documentation, I can answer your question about how you will be assessed in Programming Fundamentals.
 
 In Programming Fundamentals (COMP1005), you will be assessed through the following:
@@ -46,7 +46,7 @@ All assessments are mandatory and use the standard grading scale. The quiz, repo
 1. A quiz with 100% weighting (S/U grading) - This is a mandatory assessment with a threshold percentage of 100.
 2. A portfolio with 40% weighting (Standard grading) - This is also a mandatory assessment with a threshold percentage of 50.
 
-These two components make up the full assessment for the course.",I don't have the answer.,I don't have the answer.,"Quiz, portfolio,quiz, applied project, and final exam ",,,,
+These two components make up the full assessment for the course.",I don't have the answer.,I don't have the answer.,"Quiz, portfolio,quiz, applied project, and final exam "
 Run 3,"Based on the provided documentation for COMP1005 - Programming Fundamentals, I can see the following assessment components:
 
 1. Quiz (Threshold) - Mandatory, S/U grading (Satisfactory/Unsatisfactory), 100% weighting with a score of 1 out of 1
@@ -80,7 +80,7 @@ This information is clearly stated in the documentation with the weightings, typ
    - Grade scale: Standard
    - Learning Outcomes: SLO1, SLO2, SLO3, SLO4
 
-The documentation shows these are the two main assessment components for Programming Fundamentals. The quiz is an ungraded pass/fail assessment, while the portfolio accounts for 40% of the overall assessment.",I don't have the answer.,I don't have the answer.,"Quiz, portfolio,quiz, applied project, and final exam ",,,,
+The documentation shows these are the two main assessment components for Programming Fundamentals. The quiz is an ungraded pass/fail assessment, while the portfolio accounts for 40% of the overall assessment.",I don't have the answer.,I don't have the answer.,"Quiz, portfolio,quiz, applied project, and final exam "
 Run 4,"Based on the provided documentation, you will be assessed in Programming Fundamentals through the following components:
 
 - A **pass/fail quiz** (threshold assessment, ungraded) - this serves as a pass/fail requirement with a score of 1 out of 1
@@ -109,7 +109,7 @@ These assessments cover the learning outcomes SLO1 through SLO6, with the quiz a
    - Grade scale: Standard
    - Learning Outcomes: SLO1, SLO2, SLO3, SLO4
 
-This information is clearly documented in the ""Assessments"" section of the course details. Note that the quiz appears to be a threshold assessment with a single-point maximum score, and it is ungraded (meaning it does not contribute directly to the final grade). The portfolio is worth 40% of the total assessment and follows standard grading practices.",I don't have the answer.,I don't have the answer.,"Quiz, portfolio, quiz, applied project, and final exam ",,,,
+This information is clearly documented in the ""Assessments"" section of the course details. Note that the quiz appears to be a threshold assessment with a single-point maximum score, and it is ungraded (meaning it does not contribute directly to the final grade). The portfolio is worth 40% of the total assessment and follows standard grading practices.",I don't have the answer.,I don't have the answer.,"Quiz, portfolio, quiz, applied project, and final exam "
 Run 5,"Based on the provided documentation for Programming Fundamentals (COMP1005), I can see the following assessments:
 
 1. A threshold quiz (S/U grade) - 100% weighting
@@ -158,7 +158,7 @@ For COMP1005, students must complete:
 - An **ungraded quiz** (pass/fail, score out of 1), and  
 - A **graded portfolio** (40% of the assessment, score out of 40 with a 50% pass threshold).  
 
-This structure suggests the course emphasizes practical application (portfolio) while using a pass/fail quiz for foundational assessment. The exact total weighting (e.g., 100% of the course grade) is not fully specified in the documentation, but the portfolio contributes 40% of the final grade.",I don't have the answer.,I don't have the answer.,"Quiz, portfolio, quiz, applied project, and final exam ",,,,
+This structure suggests the course emphasizes practical application (portfolio) while using a pass/fail quiz for foundational assessment. The exact total weighting (e.g., 100% of the course grade) is not fully specified in the documentation, but the portfolio contributes 40% of the final grade.",I don't have the answer.,I don't have the answer.,"Quiz, portfolio, quiz, applied project, and final exam "
 Run 6,"Based on the provided documentation, I can see the assessment components for Programming Fundamentals (COMP1005) are:
 
 1. Quiz (Threshold) - 100% weighting (S/U grade scale, pass/fail)
@@ -175,7 +175,7 @@ These assessments cover the learning outcomes SLO1 through SLO5 (as described in
 
 All assessments are mandatory, individual, and the grading uses a standard scale. The documentation shows these assessments cover the learning outcomes SLO1 through SLO6.","I don't have the answer.
 
-The provided documentation shows assessment information for COMP3032 (a machine learning subject), not for COMP1005 (Programming Fundamentals). The text mentions ""Assessments"" with details about a Quiz and Portfolio, but these appear to be for COMP3032 rather than Programming Fundamentals. There is no clear section in the documentation that specifies how students will be assessed in Programming Fundamentals (COMP1005).",I don't have the answer.,I don't have the answer.,"Quiz, portfolio, quiz, applied project, and final exam ",,,,
+The provided documentation shows assessment information for COMP3032 (a machine learning subject), not for COMP1005 (Programming Fundamentals). The text mentions ""Assessments"" with details about a Quiz and Portfolio, but these appear to be for COMP3032 rather than Programming Fundamentals. There is no clear section in the documentation that specifies how students will be assessed in Programming Fundamentals (COMP1005).",I don't have the answer.,I don't have the answer.,"Quiz, portfolio, quiz, applied project, and final exam "
 Run 7,"Based on the provided documentation for COMP1005 - Programming Fundamentals, I can see the assessment components are as follows:
 
 1. Quiz (S/U) - 100% weighting (pass/fail threshold assessment)
@@ -207,7 +207,7 @@ These are the three assessment components with their respective weightings and r
    - Scored out of 40
    - Grade scale: Standard
 
-These are the two assessment components for Programming Fundamentals (COMP1005) as described in the documentation. The quiz is a pass/fail assessment, while the portfolio constitutes 40% of the final grade.",I don't have the answer.,I don't have the answer.,"Quiz, portfolio, quiz, applied project, and final exam ",,,,
+These are the two assessment components for Programming Fundamentals (COMP1005) as described in the documentation. The quiz is a pass/fail assessment, while the portfolio constitutes 40% of the final grade.",I don't have the answer.,I don't have the answer.,"Quiz, portfolio, quiz, applied project, and final exam "
 Run 8,"Based on the provided documentation for COMP1005 - Programming Fundamentals, I can see the assessment details under the ""Assessments"" section:
 
 You will be assessed through the following components:
@@ -240,7 +240,7 @@ According to the documentation, you will be assessed through:
 1. A Quiz - which is worth 100% of the assessment (scored out of 1), ungraded, mandatory, with threshold percentage requirements
 2. A Portfolio - which is worth 40% of the assessment (scored out of 40), standard grading, mandatory, with threshold percentage requirements
 
-These assessments cover the learning outcomes SLO1, SLO2, SLO3, and SLO4 for Programming Fundamentals.",I don't have the answer.,I don't have the answer.,"Quiz, portfolio, quiz, applied project, and final exam ",,,,
+These assessments cover the learning outcomes SLO1, SLO2, SLO3, and SLO4 for Programming Fundamentals.",I don't have the answer.,I don't have the answer.,"Quiz, portfolio, quiz, applied project, and final exam "
 Run 9,"Based on the provided documentation, I can see the assessment information for Programming Fundamentals (COMP1005) in the ""Assessments"" section. 
 
 According to the documentation, you will be assessed through the following components:
@@ -265,32 +265,7 @@ These assessments cover the learning outcomes SLO1 through SLO6 as specified in 
 
 This information is clearly stated in the ""Assessments"" section of the Programming Fundamentals subject description, where the quiz is described as having a ""Weighting (Description): S/U"" (pass/fail) and the portfolio as having a ""Weighting (%): 40"" (40% of total marks).
 
-Therefore, the final answer is: Students will be assessed through a quiz (pass/fail) and a portfolio (worth 40% of the total marks).",I don't have the answer.,I don't have the answer.,"Quiz, portfolio,quiz, applied project, and final exam ",,,,
-Run 9,"Based on the provided documentation, I can see the assessment information for Programming Fundamentals (COMP1005) in the ""Assessments"" section. 
-
-According to the documentation, you will be assessed through the following components:
-
-1. Quiz (S/U grade, 100% required, ungraded)
-2. Portfolio (40% of the total grade, mandatory, threshold)
-3. Quiz (20% of the total grade, not mandatory)
-4. Applied Project (20% of the total grade, not mandatory)
-5. Final Exam (20% of the total grade, mandatory, threshold)
-
-These assessments cover all the learning outcomes for the subject (SLO1-SLO5) as specified in the documentation.","According to the provided documentation, I will be assessed in Programming Fundamentals through the following:
-
-1. Quiz - 30% weight (individual, mandatory)
-2. Report - 30% weight (individual, mandatory)
-3. Final Exam - 40% weight (individual, mandatory)
-
-These assessments cover the learning outcomes SLO1 through SLO6 as specified in the documentation.","Based on the provided documentation, students will be assessed in Programming Fundamentals (COMP1005) through two main components:
-
-1. **Quiz**: This is an ungraded assessment (S/U grading) with a pass/fail outcome. It is mandatory and has a score of 1 (out of 1).
-
-2. **Portfolio**: This assessment is worth 40% of the total marks for the subject. It is mandatory and has a score of 40 (out of 40).
-
-This information is clearly stated in the ""Assessments"" section of the Programming Fundamentals subject description, where the quiz is described as having a ""Weighting (Description): S/U"" (pass/fail) and the portfolio as having a ""Weighting (%): 40"" (40% of total marks).
-
-Therefore, the final answer is: Students will be assessed through a quiz (pass/fail) and a portfolio (worth 40% of the total marks).",I don't have the answer.,I don't have the answer.,"Quiz, portfolio, quiz, applied project, and final exam ",,,,
+Therefore, the final answer is: Students will be assessed through a quiz (pass/fail) and a portfolio (worth 40% of the total marks).",I don't have the answer.,I don't have the answer.,"Quiz, portfolio,quiz, applied project, and final exam "
 Run 10,"Based on the provided documentation, I can see the assessment information for Programming Fundamentals (COMP1005) in the ""Assessments"" section. 
 
 According to the documentation, you will be assessed through the following components:
@@ -331,4 +306,4 @@ The course uses a **two-part assessment system**:
 
 This structure emphasizes both theoretical knowledge (via the quiz) and practical application (via the portfolio), with the portfolio contributing a significant portion of the final grade. Note that the documentation does not specify additional assessments, so the total weight (100%) may include other components not listed here. 
 
-**Final Answer**: The assessments for Programming Fundamentals (COMP 1005) are a **mandatory pass/fail quiz** and a **mandatory portfolio (40% of the course grade)**.",I don't have the answer.,I don't have the answer.,"Quiz, portfolio,quiz, applied project, and final exam ",,,,
+**Final Answer**: The assessments for Programming Fundamentals (COMP 1005) are a **mandatory pass/fail quiz** and a **mandatory portfolio (40% of the course grade)**.",I don't have the answer.,I don't have the answer.,"Quiz, portfolio,quiz, applied project, and final exam "

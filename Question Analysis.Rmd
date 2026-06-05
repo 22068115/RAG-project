@@ -1,0 +1,70 @@
+---
+title: "Mean Cosine Similarity - Question Analysis"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup}
+library(ggplot2)
+library(tidyr)
+library(dplyr)
+
+knitr::opts_knit$set(root.dir = "C:/Users/lon09/New folder")
+```
+
+```{r line-chart, fig.width=12, fig.height=6}
+
+files <- list(
+  "Direct Q1"   = "Directq1_cosine_evaluation.csv",
+  "Direct Q2"   = "Directq2_cosine_evaluation.csv",
+  "Direct Q3"   = "Directq3_cosine_evaluation.csv",
+  "Direct Q4"   = "Directq4_cosine_evaluation.csv",
+  "Direct Q5"   = "Directq5_cosine_evaluation.csv",
+  "Direct Q6"   = "Directq6_cosine_evaluation.csv",
+  "Indirect Q1" = "Indirectq1_cosine_evaluation.csv",
+  "Indirect Q2" = "Indirectq2_cosine_evaluation.csv",
+  "Indirect Q3" = "Indirectq3_cosine_evaluation.csv",
+  "Indirect Q4" = "Indirectq4_cosine_evaluation.csv",
+  "Indirect Q5" = "Indirectq5_cosine_evaluation.csv",
+  "Indirect Q6" = "Indirectq6_cosine_evaluation.csv"
+)
+
+version_names <- c("NonChunking", "EqualChunking", "ManualChunkingOverlap",
+                   "LangChain", "LangChainOverlap")
+
+results <- data.frame()
+
+for (question_name in names(files)) {
+  file_path <- files[[question_name]]
+
+  df <- read.csv(file_path)
+
+
+  mean_row <- df[trimws(tolower(df$Run.time)) == "mean", ]
+
+  colnames(mean_row) <- c("Run", version_names)
+
+  row <- data.frame(
+    Question = question_name,
+    Version  = version_names,
+    Mean     = as.numeric(mean_row[1, version_names])
+  )
+  results <- rbind(results, row)
+}
+
+results$Question <- factor(results$Question, levels = names(files))
+results$Version  <- factor(results$Version,  levels = version_names)
+
+ggplot(results, aes(x = Question, y = Mean, color = Version, group = Version)) +
+  geom_line(linewidth = 1.2) +
+  geom_point(size = 3) +
+  labs(
+    title = "Mean Cosine Similarity Across All 12 Questions",
+    x     = "Question",
+    y     = "Mean Cosine Similarity Score",
+    color = "Version"
+  ) +
+  theme_bw() +
+  scale_y_continuous(limits = c(0, 1))
+```
